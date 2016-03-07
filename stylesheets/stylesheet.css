@@ -884,24 +884,24 @@ date, h3 date{
   float: right;
   padding-top: 5px;
 }
-#profile-image{
+header a##profile-image{
   float: left;
   position: absolute;
 }
-#profile-image img {
+header a##profile-image img {
   width: 65px;
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) { 
-  #profile-image img{
+  header a##profile-image img{
     width: 40px;
   }
 }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { 
-  #profile-image img{
+  header a##profile-image img{
     width: 40px;
   }
 }
