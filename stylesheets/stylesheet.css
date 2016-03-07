@@ -879,6 +879,10 @@ footer a:hover {
   }
 }
 
+.inner h1 small{
+  font-size: 30%;
+}
+
 date, h3 date{
   font-size: 12px;
   float: right;
