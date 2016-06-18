@@ -38,10 +38,10 @@
    				for(var i = event.resultIndex; i < event.results.length; i++){
 
    					if(event.results[i].isFinal){
-   						transcript.textContent = "Final> Transcript: ", event.results[i][0].transcript + " (Confidence: " , event.results[i][0].confidence + " )";
+   						transcript.textContent = "Final> Transcript: " + event.results[i][0].transcript + " (Confidence: " + event.results[i][0].confidence + " )";
 
    					} else {
-   						transcript.textContent += " Inprogress: ", event.results[i][0].transcript;
+   						transcript.textContent += " Inprogress: " + event.results[i][0].transcript;
    					}
    				}
    			};
