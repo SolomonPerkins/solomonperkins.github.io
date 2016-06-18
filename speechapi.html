@@ -5,11 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Web Speech API Demo</title>
     <style>
+      #message-panel {
+        width: 100%;
+        height: 15em;
+        display: block;
+        overflow-y: scroll;
+        border: 1px solid black;
+        line-height: 1.3em;
+      }
     </style>
 
    </head>
    <body>
+    <textarea readonly="readonly" id="message-panel"></textarea>
    	<script type="text/javascript">
+      var transcript = document.getElementById("message-panel");
    		window.SpeechRecognition = window.SpeechRecognition ||
    									window.webkitSpeechRecognition ||
    									null;
@@ -23,15 +33,15 @@
 
    			recognizer.onresult = function(event) {
    				console.log(" Results found: ", event);
+          transcript.textContent = '';
 
    				for(var i = event.resultIndex; i < event.results.length; i++){
 
    					if(event.results[i].isFinal){
-   						console.log("Final> Transcript: ", event.results[i][0].transcript);
+   						transcript.textContent = "Final> Transcript: ", event.results[i][0].transcript + " (Confidence: " , event.results[i][0].confidence + " )";
 
-   						console.log("Final> Confidence: " , event.results[i][0].confidence);
    					} else {
-   						console.log(" Inprogress: ", event.results[i][0].transcript);
+   						transcript.textContent += " Inprogress: ", event.results[i][0].transcript;
    					}
    				}
    			};
