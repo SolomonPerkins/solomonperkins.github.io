@@ -28,8 +28,9 @@
    			alert("No API found");
    		} else {
    			var recognizer = new window.SpeechRecognition();
-   			console.log(recognizer);
+   			recognizer.lang = "en-US";
    			recognizer.continuous = true;
+        recognizer.interimResults = true;
 
    			recognizer.onresult = function(event) {
    				console.log(" Results found: ", event);
@@ -41,7 +42,7 @@
    						transcript.textContent = "Final> Transcript: " + event.results[i][0].transcript + " (Confidence: " + event.results[i][0].confidence + " )";
 
    					} else {
-   						transcript.textContent += " Inprogress: " + event.results[i][0].transcript;
+   						transcript.textContent += " Inprogress>: " + event.results[i][0].transcript + " (Confidence: " + event.results[i][0].confidence + " )";
    					}
    				}
    			};
