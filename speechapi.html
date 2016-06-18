@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Web Speech API Demo</title>
+    <style>
+    </style>
+
+   </head>
+   <body>
+   	<script type="text/javascript">
+   		window.SpeechRecognition = window.SpeechRecognition ||
+   									window.webkitSpeechRecognition ||
+   									null;
+
+   		if(window.SpeechRecognition == null) {
+   			alert("No API found");
+   		} else {
+   			var recognizer = new window.SpeechRecognition();
+   			console.log(recognizer);
+   			recognizer.continuous = true;
+
+   			recognizer.onresult = function(event) {
+   				console.log(" Results found: ", event);
+
+   				for(var i = event.resultIndex; i < event.results.length; i++){
+
+   					if(event.results[i].isFinal){
+   						console.log("Final> Transcript: ", event.results[i][0].transcript);
+
+   						console.log("Final> Confidence: " , event[i][0].confidence);
+   					} else {
+   						console.log(" Inprogress: ", event.results[i][0].transcript);
+   					}
+   				}
+   			};
+
+   			recognizer.onerror = function(event) {
+   				console.error("Error occured: ", event);
+   			};
+
+   			try {
+   				recognizer.start();
+   			}catch(ex){
+   				console.error("Starting process failed: ", ex.message);
+   			}
+   		}
+   	</script>
+   </body>
+</html>
