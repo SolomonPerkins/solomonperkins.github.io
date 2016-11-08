@@ -1,0 +1,14 @@
+header {
+	display: block;
+	text-align: center;
+	border: none;
+}
+
+header h1{
+	color: #2879d0;
+}
+
+header h1, header h2 {
+	display: inline-block;
+	width: 100%;
+}

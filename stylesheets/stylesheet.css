@@ -433,7 +433,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #666;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  /*background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;*/
 }
 
 p {
@@ -451,7 +451,7 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  /*background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;*/
   border-bottom: solid 1px #275da1;
 }
 
@@ -462,7 +462,8 @@ header h1 {
   font-size: 72px;
   font-weight: normal;
   line-height: 1;
-  color: #fff;
+  /*color: #fff;*/
+  color: #9ddcff;
   letter-spacing: -1px;
 }
 
@@ -889,64 +890,13 @@ date, h3 date{
   padding-top: 5px;
 }
 
-
-header #profile-image{
-   float: right;
-   width: auto;
-}
-header #profile-image a.link-logo{
-  display: inline-block;
-  width: 30px;
-  margin-left: 35px;
-  float: left;
-  margin-top: 25px;
-}
-header #profile-image a#my-logo{
-  width: 150px;
-  margin-left: 0px;
-  margin-top: 0;
-}
-header #profile-image a#my-logo img{
-  width: 100%;
-}
-
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) { 
-  header #profile-image a.link-logo {
-    margin-left: 10px;
-    margin-top: 0px;
-    width: 45px;
-  }
-
-  header #profile-image a.link-logo img{
-    width: 35px;
-
-  }
-  header #profile-image a#my-logo{
-    width: 60px;
-  }
-  header #profile-image a#my-logo img{
-    width: 50px;
-  }
+  
 }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { 
-  header #profile-image a.link-logo {
-    margin-left: 10px;
-    margin-top: 0px;
-    width: 45px;
-  }
-
-  header #profile-image a.link-logo img{
-    width: 35px;
-
-  }
-  header #profile-image a#my-logo{
-    width: 60px;
-  }
-  header #profile-image a#my-logo img{
-    width: 50px;
-  }
+  
 }
 
