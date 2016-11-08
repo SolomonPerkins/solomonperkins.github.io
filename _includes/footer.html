@@ -1,0 +1,16 @@
+<aside id="sidebar">
+  <p>
+    <a href="/index">Home</a>
+  </p>
+  <p>
+    <a href="/about">About</a>
+  </p>
+  <p>
+    {% if site.footer-links.twitter %}<a class="anchor" href="https://twitter.com/{{ site.footer-links.twitter}}" aria-hidden="true" target="_blank">Follow on Twitter (@{{ site.footer-links.twitter }})</a>{% endif %}
+  </p>
+  <p>
+    {% if site.footer-links.github %}<a class="anchor" href="https://github.com/{{ site.footer-links.github}}" aria-hidden="true" target="_blank">Follow on Github</a>{% endif %}
+  </p>
+</aside>
+
+<script type="text/javascript" src="{{ site.baseurl }}/javascripts/main.js"></script>

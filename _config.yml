@@ -1,0 +1,46 @@
+
+# Configuration default settings : https://jekyllrb.com/docs/configuration/#front-matter-defaults
+#
+
+timezone: America/Bogota
+encoding: utf-8
+
+# The name of the blog
+name: Solomon Perkins
+
+# Description of the blog
+description: A software engineer hailing from the country side of Jamaica
+
+# URL of my picture avatar
+avatar: https://avatars2.githubusercontent.com/u/990021
+
+
+# Site wide default values
+defaults:
+  -
+    scope: 
+      path: "" #all the files in the directory
+      #type: "posts|pages|drafts" #select which section the layout will affect (posts|pages|drafts).
+    values:
+      layout: "default"
+  -
+    scope: 
+      path: "projects"
+      type: "posts"
+    values: 
+      layout: "project-layout" #Override default layout
+      author: "S. Perkins"
+
+#The url to the main website root
+baseurl: ""
+
+#Sass configuration (compressed|expanded)
+sass:
+  style: :compressed
+
+
+
+#Footer links
+footer-links:
+  github: SolomonPerkins
+  twitter: DAlexForce
