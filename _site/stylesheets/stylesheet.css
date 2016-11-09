@@ -888,10 +888,11 @@ date, h3 date{
   float: right;
   padding-top: 5px;
 }
+
+
 header #profile-image{
-  float: left;
-  position: absolute;
-  overflow: hidden;
+   float: right;
+   width: auto;
 }
 header #profile-image a.link-logo{
   display: inline-block;
@@ -901,9 +902,12 @@ header #profile-image a.link-logo{
   margin-top: 25px;
 }
 header #profile-image a#my-logo{
-  width: 65px;
+  width: 150px;
   margin-left: 0px;
   margin-top: 0;
+}
+header #profile-image a#my-logo img{
+  width: 100%;
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */

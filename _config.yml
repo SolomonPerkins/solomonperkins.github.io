@@ -29,7 +29,12 @@ defaults:
       type: "posts"
     values: 
       layout: "project-layout" #Override default layout
-      author: "S. Perkins"
+      author: "Solomon Perkins"
+  -
+    scope: 
+      path: "pages"
+    values:
+      layout: "about-layout"
 
 #The url to the main website root
 baseurl: ""
@@ -38,7 +43,21 @@ baseurl: ""
 sass:
   style: :compressed
 
+# Install the gem required to handle archive
+gems:
+  - jekyll-archives
 
+jekyll-archives:
+  enabled: []
+  layout: 'archive'
+  permalinks: 
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
+enabled: all
 
 #Footer links
 footer-links:

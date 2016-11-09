@@ -1,0 +1,43 @@
+/*Header*/
+#profile-image {
+	margin-right: 30px;
+}
+
+/* The Sidebar / footer*/
+aside#sidebar {
+	text-align: center;	
+}
+p.copyright-border {
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    position: relative;
+}
+
+p.copyright-border:before{
+    content: " ";
+    display: block;
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    border: 1px solid #ddd;
+    top: -5px;
+    left: 50%;
+    background: #f9f9f9;
+    box-shadow: #f9f9f9 0 0 0 5px;
+    border-radius: 3px;
+}
+
+
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (max-width: 767px) { 
+	aside#sidebar {
+		border-top: none;
+	}
+	aside#sidebar p:not(.copyright-border){
+		display: inline-block;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
+

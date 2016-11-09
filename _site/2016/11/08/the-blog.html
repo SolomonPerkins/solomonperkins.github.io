@@ -26,10 +26,11 @@ Jekyll Now repository
 <!--[if lt IE 9]>
 	      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	    <![endif]-->
-<link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" />
-<link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" />
-<link rel="stylesheet" type="text/css" href="stylesheets/print.css" />
+<link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css' >
+<link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="stylesheets/custom-layout-template.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print"/>
 
 
 	</head>
@@ -37,20 +38,28 @@ Jekyll Now repository
 	<body>
 		<header>
 	      	<div class="inner">
-	        	<h1>Solomon Perkins</h1>
-	        	<h2>A software engineer hailing from the country side of Jamaica</h2>
+	        	<div id="profile-image">
+	          		<a title="My Profile" href="/" class="link-logo" id="my-logo">
+	            		<img alt="Me" src="/images/pic-vector.png"/>
+	          		</a>
+	          	</div>
+	          	<div id="detail-content">
+		        	<h1>Solomon Perkins</h1>
+		        	<h2>A software engineer hailing from the country side of Jamaica</h2>
+		        </div>
 	        <!-- <a href="https://github.com/SolomonPerkins" class="button"><small>Follow me on</small> Twitter</a> -->
-	        <p id="profile-image">
-	          <a title="My Profile" href="/" class="link-logo" id="my-logo">
-	            <img alt="Me" src="/images/pic-vector.png"/>
-	          </a>
-	          <a title="Github" href="https://github.com/SolomonPerkins" class="link-logo" id="github-logo">
-	            <img alt="GitHub" src="/images/github-logo-resize.png" />
-	          </a>
-	          <a title="Twitter"  href="https://twitter.com/DAlexForce" class="link-logo" id="twitter-logo">
-	            <img alt="GitHub" src="/images/twitter-logo-resize.png" />
-	          </a>
-	        </p>
+	        <!-- <ul id="menu-links">
+	        	<li>
+	        		<a title="Github" href="https://github.com/SolomonPerkins" class="link-logo" id="github-logo">
+	        			<img alt="GitHub" src="/images/github-logo-resize.png" />
+	        		</a>
+	        	</li>
+	        	<li>
+	          		<a title="Twitter"  href="https://twitter.com/DAlexForce" class="link-logo" id="twitter-logo">
+	            		<img alt="GitHub" src="/images/twitter-logo-resize.png" />
+	          		</a>
+	          	<li>
+	        </ul> -->
 	      </div>
     	</header>
 
@@ -77,17 +86,26 @@ Jekyll Now repository
         		</section>
 
         		<aside id="sidebar">
+  <p class="copyright-border"></p>
   <p>
     <a href="/index">Home</a>
   </p>
   <p>
-    <a href="/about">About</a>
+    <a href="/about">About Me</a>
   </p>
   <p>
-    <a class="anchor" href="https://twitter.com/DAlexForce" aria-hidden="true" target="_blank">Follow on Twitter (@DAlexForce)</a>
+    <a href="/archive">Archive</a>
   </p>
   <p>
-    <a class="anchor" href="https://github.com/SolomonPerkins" aria-hidden="true" target="_blank">Follow on Github</a>
+    <a class="anchor" href="https://twitter.com/DAlexForce" aria-hidden="true" target="_blank">Twitter</a>
+  </p>
+  <p>
+    <a class="anchor" href="https://github.com/SolomonPerkins" aria-hidden="true" target="_blank">Github</a>
+  </p>
+
+  <p class="copyright-border">
+    Solomon Perkins</br>
+       Nov 2016 -
   </p>
 </aside>
 
