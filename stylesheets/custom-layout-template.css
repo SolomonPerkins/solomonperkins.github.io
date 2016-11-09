@@ -11,6 +11,7 @@ p.copyright-border {
     border-top: 1px solid #ddd;
     padding-top: 10px;
     position: relative;
+    color: #ddd;
 }
 
 p.copyright-border:before{
