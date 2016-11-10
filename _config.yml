@@ -4,12 +4,13 @@
 
 timezone: America/Bogota
 encoding: utf-8
+date: 2016-11-08
 
 # The name of the blog
 name: Solomon Perkins
 
 # Description of the blog
-description: A software engineer hailing from the country side of Jamaica
+description: "A Software engineer, showcasing personal projects & talking about live lessons."
 
 # URL of my picture avatar
 avatar: https://avatars2.githubusercontent.com/u/990021
@@ -25,16 +26,16 @@ defaults:
       layout: "default"
   -
     scope: 
-      path: "projects"
+      path: "posts"
       type: "posts"
     values: 
-      layout: "project-layout" #Override default layout
+      layout: "post" #Override default layout
       author: "Solomon Perkins"
   -
     scope: 
       path: "pages"
     values:
-      layout: "about-layout"
+      layout: "about"
 
 #The url to the main website root
 baseurl: ""
@@ -44,8 +45,7 @@ sass:
   style: :compressed
 
 # Install the gem required to handle archive
-gems:
-  - jekyll-archives
+gems: [jekyll-archives, jekyll-paginate]
 
 jekyll-archives:
   enabled: []
@@ -58,6 +58,11 @@ jekyll-archives:
     category: '/category/:name/'
 
 enabled: all
+
+
+#Pagination configs
+paginate: 1
+paginate_path: "/blog/page:num/" 
 
 #Footer links
 footer-links:

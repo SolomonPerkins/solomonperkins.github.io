@@ -1,13 +1,33 @@
 ---
 layout: default
 ---
-<h1>Archive of posts from {{ page.date | date: "%B %Y" }}</h1>
 
-<ul class="posts">
-{% for post in page.posts %}
+<h2>Post archive from {{ site.date | date: "%B %Y" }}</h2>
+
+<ul class="archive-posts">
+{% for post in site.posts %}
   <li>
     <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <span class="spacer"> &#8226; </span>
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
   </li>
 {% endfor %}
 </ul>
+
+
+<!-- Pagination links -->
+<div class="pagination">
+	{% if paginator.previous_page %}
+		<a href="{{ paginator.previous_page }}" class="pager previous">prev</a>
+	{% else %}
+		<span class="pager previous disabled">prev</span>
+	{% endif %}
+	<span class="page_number">page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+	{% if paginator.next_page %}
+		<a href="{{ paginator.next_page }}" class="pager next">prev</a>
+	{% else %}
+		<span class="pager next disabled">next</span>
+	{% endif %}
+
+
+</div>

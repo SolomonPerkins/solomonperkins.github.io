@@ -28,6 +28,43 @@ p.copyright-border:before{
     border-radius: 3px;
 }
 
+a.read-more{
+    font-size: 12px;
+    font-weight: 400;
+    color: #2879d0;
+}
+
+/** The Homepage POST List **/
+article.post {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+}
+.entry {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1.5;
+}
+
+
+
+/* Archive Page */
+.archive-posts {
+
+}
+
+.archive-posts li {
+   padding-bottom: 5px;
+   padding-top: 5px;
+}
+.archive-posts li span.post-date {
+    color: #aaa;
+}
+.archive-posts li span.spacer{
+    padding-right: 5px;
+    padding-left: 5px;
+    color: #aaa;
+}
 
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
