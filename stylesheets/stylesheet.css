@@ -892,7 +892,6 @@ date, h3 date{
 
 header #profile-image{
    float: right;
-   width: auto;
 }
 header #profile-image a.link-logo{
   display: inline-block;

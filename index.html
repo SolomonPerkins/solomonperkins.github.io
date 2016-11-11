@@ -3,12 +3,13 @@ layout: default
 ---
 
 <div class="posts">
+
 	<h2> Recent Posts </h2>
-	{% for post in site.posts %}
+	{% for post in paginator.posts %}
 		<article class="each-post">
 
 		  <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
-
+		  <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
 		  <div class="entry">
 		    {{ post.introduction }}
 		  </div>
@@ -17,3 +18,20 @@ layout: default
 		</article>
 	{% endfor %}
 </div>
+
+
+
+<!-- Pagination links -->
+<!-- <div class="pagination">
+	{% if paginator.previous_page %}
+		<a href="{{ paginator.previous_page }}" class="pager previous">prev</a>
+	{% else %}
+		<span class="pager previous disabled">prev</span>
+	{% endif %}
+	<span class="page_number">page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+	{% if paginator.next_page %}
+		<a href="{{ paginator.next_page }}" class="pager next">prev</a>
+	{% else %}
+		<span class="pager next disabled">next</span>
+	{% endif %}
+</div> -->

@@ -61,8 +61,8 @@ enabled: all
 
 
 #Pagination configs
-paginate: 1
-paginate_path: "/blog/page:num/" 
+paginate: 7
+paginate_path: "/page:num/index.html" 
 
 #Footer links
 footer-links:
