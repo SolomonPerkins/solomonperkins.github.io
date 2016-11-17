@@ -1,7 +1,5 @@
 
 # Configuration default settings : https://jekyllrb.com/docs/configuration/#front-matter-defaults
-#
-
 timezone: America/Bogota
 encoding: utf-8
 date: 2016-11-08
@@ -10,7 +8,7 @@ date: 2016-11-08
 name: Solomon Perkins
 
 # Description of the blog
-description: "A Software engineer, open source fanatic & lover of life."
+description: "Sharing my opinions on the things I find valuable."
 
 # URL of my picture avatar
 avatar: https://avatars2.githubusercontent.com/u/990021

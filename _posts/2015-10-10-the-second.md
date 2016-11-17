@@ -8,3 +8,4 @@ introduction: This is the introduction which will be used to explaing the purpos
 
 The first step of many
 [Jekyll Now repository](https://github.com/barryclark/jekyll-now)
+

@@ -1,4 +1,21 @@
 ---
 layout: default
+tags: [me, personal, bio]
 ---
-<h2> Who Am I </h2>
+<h2>About Me</h2>
+
+<p>Hi there, I'm a Software Engineer, Administrator & advocate for Jamaica Cultural Alliance, and a local farmer. Always questioning the status quo in search of better alternatives.</p>
+
+<p>Motto: "Love your life perfect your life, beautify all things in your life - Tecumseh"</p>
+
+<p>Favourite slangs: "At least am alive" & "Bless up"</p>
+
+
+<p class="tag-wrapper">
+	<small class="tags">
+		<span class="title">Tags </span>
+		{% for tag in page.tags %}
+	 		<a href="#" class="tag-item">{{tag}}</a>
+		{% endfor %}
+	</small>
+</p>
