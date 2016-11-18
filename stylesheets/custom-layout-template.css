@@ -75,8 +75,13 @@ article.each-post {
     color: #aaa;
 }
 
+/** POST **/
+.post .date-wrapper {
+    margin-top: 10px;
+}
 
 
+/** TAGS **/
 .tag-wrapper {
     margin-top: 35px;
 }
@@ -84,7 +89,7 @@ article.each-post {
     /*color: #2879d0;*/
 }
 .tags .tag-item:before {
-    content: '/';
+    content: ' / ';
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */

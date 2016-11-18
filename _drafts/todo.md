@@ -24,6 +24,8 @@ Why Am I blogging
 
 [Another reference on why to blog](http://www.becomingminimalist.com/15-reasons-i-think-you-should-blog/)
 	
+[Albert Einstein once said: If you can&#39;t explain it simply, you don&#39;t understand it well enough.](https://www.brainyquote.com/quotes/quotes/a/alberteins383803.html)
+
 	Introduction
 		What lead me to blogging.
 		We often get askeb by interviewers to explain who you are.
@@ -36,7 +38,7 @@ Why Am I blogging
 	- Main audience is myself.
 	
 	Transfer knowledge in a more presentable and consumable manner.
-		"You don't know something until you can express it to someone" - Find similar quote
+		Albert Einstein once said: If you can't explain it simply, you don't understand it well enough.
 		Used as a yard stick to measure my knowledge & interest level.
 	
 	Offers the possibility of finding a new hobby that can help others

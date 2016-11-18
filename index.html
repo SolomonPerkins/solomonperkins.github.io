@@ -14,7 +14,7 @@ layout: default
 		    {{ post.introduction }}
 		  </div>
 
-		  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+		  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More &rsaquo;</a>
 		</article>
 	{% endfor %}
 </div>
@@ -22,16 +22,16 @@ layout: default
 
 
 <!-- Pagination links -->
-<!-- <div class="pagination">
+<div class="pagination">
 	{% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page }}" class="pager previous">prev</a>
-	{% else %}
-		<span class="pager previous disabled">prev</span>
+		<a href="{{ paginator.previous_page }}" class="pager previous">&rsaquo; prev</a>
+	{% else %}	
+		<!-- <span class="pager previous disabled">prev</span> -->
 	{% endif %}
-	<span class="page_number">page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+	<span class="page_number">| {{ paginator.page }} of {{ paginator.total_pages }} |</span>
 	{% if paginator.next_page %}
 		<a href="{{ paginator.next_page }}" class="pager next">prev</a>
 	{% else %}
-		<span class="pager next disabled">next</span>
+		<!-- <span class="pager next disabled">next &rsaquo;</span> -->
 	{% endif %}
-</div> -->
+</div>
