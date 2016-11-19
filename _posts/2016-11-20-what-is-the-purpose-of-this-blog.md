@@ -14,9 +14,9 @@ introduction: Yes!! I am really doing this! If you'd have told me in the past th
 
 **Brace yourself...**
 
-Yes [I](/about) am really doing this! If you'd have told me in the past that I'll be blogging someday, I'd laugh at you, but life is interesting and full of suprises - so suprise!.
+Yes [I](/about) am really doing this! 
 
-We already have enough professional writters, why bother? Well for starters we all have our own path to follow and life stories to tell, and I am willing to share mine. Sharing some of my experiences my help someone get over their hurdles. Besides the point, you'll never stop learning, so let us do this then - time to take the plunge. The interesting thing is that the thought of doing a blog has been pounding in my head for sometime now. So with that said, I am just scratching that itch.
+But we already have enough professional writters, why bother? Well for starters we all have our own path to follow and life stories to tell, and I am willing to share mine. Sharing some of my experiences my help someone get over their hurdles. Besides the point, you'll never stop learning, so let us do this then - time to take the plunge. The interesting thing is that the thought of doing a blog has been pounding in my head for sometime now. So with that said, I am just scratching that itch.
 
 To be fair, as to where blogging is concern, this blog is by no means done by a professional blogger. Am merely using it as a platform where I can express.
 
