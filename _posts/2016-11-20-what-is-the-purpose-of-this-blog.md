@@ -3,28 +3,30 @@ layout: post
 title: What is the purpose of this blog?
 tags: welcome
 date: 2016-11-11
-introduction: This is the introduction which will be used to explaing the purpose
+introduction: Yes!! I am really doing this! If you'd have told me in the past that I'll be blogging someday, I'd laugh at you, but life is interesting and full of suprises - so suprise!
 ---
 
 !["The Blog"](/images/reason-for-blog-header.jpg "The blog")
-
-**Brace yourself!!**
-
-Yes [I](/about) am really doing this! If you'd have told me in the past that I'll be blogging someday I'd laugh at you, but life is interesting and full of suprises - Suprise!.
-
-The internet is an interesting place: it is filled with diverse personalities, people from different geographical background and race, all collaborating & communicating using this important tool. `needs clean up` It is with great hope that someone, excluding myself, will benefit from information I will be sharing throughout the lifetime of this blog.
-
-To be fair, as to where blogging is concern, this blog is by no means done by a professional blogger. Am merely using it as a platform to express my thoughts & passion on my lifestyle and other interesting facts in hopes that it will be of benefit to someone.
-
-**To: The Audience. From: Me**
-
-Yes, I grew up in rural Jamaica - Yes I am a &quot;country man&quot;. The great advantage of this is that it has afforded me the opportunity to experience life through a different lense. Is it with is lense I wish to use to tell my story.
+*Reference: [Pexels][head_image]*
 
 
 
-**The self-imposted benefits**
+**Brace yourself...**
 
-&quot;[Albert Einstein once said: If you can&#39;t explain it simply, you don&#39;t understand it well enough.](https://www.brainyquote.com/quotes/quotes/a/alberteins383803.html)&quot;. And that is so true. With that said, I'll be simulaneously challenging the
+Yes [I](/about) am really doing this! If you'd have told me in the past that I'll be blogging someday, I'd laugh at you, but life is interesting and full of suprises - so suprise!.
+
+We already have enough professional writters, why bother? Well for starters we all have our own path to follow and life stories to tell, and I am willing to share mine. Sharing some of my experiences my help someone get over their hurdles. Besides the point, you'll never stop learning, so let us do this then - time to take the plunge. The interesting thing is that the thought of doing a blog has been pounding in my head for sometime now. So with that said, I am just scratching that itch.
+
+To be fair, as to where blogging is concern, this blog is by no means done by a professional blogger. Am merely using it as a platform where I can express.
+
+While I am scratching my itch, I am hoping to share life stories and information I personally find to be of significant value. Knowing the information is one thing, but expressing it to someone other than yourself may be a different thing. It will be a challenge, but I'm curious to know what I do and don't know :), and as *[Albert Einstein once said:](https://www.brainyquote.com/quotes/quotes/a/alberteins383803.html)*
+
+> If you can&#39;t explain it simply, you don&#39;t understand it well enough.
+
+So enjoy and feel free to reach out and provide feedback.
+
+Thanks! 
 
 
 
+[head_image]: https://www.pexels.com/photo/coffee-notebook-writing-computer-34601/

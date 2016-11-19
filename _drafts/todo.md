@@ -6,6 +6,8 @@ date: 2016-11-15
 introduction: 
 ---
 
+[Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
+
 About Me / Who am I.
 ========================	
 	Short and detailed
@@ -65,5 +67,9 @@ Why Am I blogging
 
 How I made it through college without the SLB
 =========================
+	- 
+
+My Yearly Birthday Review
+====================
 	- 
 
