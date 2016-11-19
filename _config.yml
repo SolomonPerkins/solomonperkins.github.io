@@ -1,0 +1,68 @@
+
+# Configuration default settings : https://jekyllrb.com/docs/configuration/#front-matter-defaults
+timezone: America/Bogota
+encoding: utf-8
+date: 2016-11-08
+
+# The name of the blog
+name: Solomon Perkins
+
+# Description of the blog
+description: "Sharing my opinions on the things I find valuable."
+
+# URL of my picture avatar
+avatar: https://avatars2.githubusercontent.com/u/990021
+
+
+# Site wide default values
+defaults:
+  -
+    scope: 
+      path: "" #all the files in the directory
+      #type: "posts|pages|drafts" #select which section the layout will affect (posts|pages|drafts).
+    values:
+      layout: "default"
+  -
+    scope: 
+      path: "posts"
+      type: "posts"
+    values: 
+      layout: "post" #Override default layout
+      author: "Solomon Perkins"
+  -
+    scope: 
+      path: "pages"
+    values:
+      layout: "about"
+
+#The url to the main website root
+baseurl: ""
+
+#Sass configuration (compressed|expanded)
+sass:
+  style: :compressed
+
+# Install the gem required to handle archive
+gems: [jekyll-archives, jekyll-paginate]
+
+jekyll-archives:
+  enabled: []
+  layout: 'archive'
+  permalinks: 
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
+enabled: all
+
+
+#Pagination configs
+paginate: 7
+paginate_path: "/page:num/index.html" 
+
+#Footer links
+footer-links:
+  github: SolomonPerkins
+  twitter: DAlexForce

@@ -1,0 +1,121 @@
+/*Header*/
+#profile-image {
+	width: 150px;
+    margin-right: 25px;
+    height: 150px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url('../images/profile-photo.png') 50% 40% no-repeat;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+/* The Sidebar / footer*/
+aside#sidebar {
+	text-align: center;	
+}
+p.copyright-border {
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    position: relative;
+    color: #ddd;
+}
+
+p.copyright-border:before{
+    content: " ";
+    display: block;
+    width: 7px;
+    height: 7px;
+    position: absolute;
+    border: 1px solid #ddd;
+    top: -5px;
+    left: 50%;
+    background: #f9f9f9;
+    box-shadow: #f9f9f9 0 0 0 5px;
+    border-radius: 3px;
+}
+
+a.read-more{
+    font-size: 12px;
+    font-weight: 400;
+    color: #2879d0;
+}
+
+/** The Homepage POST List **/
+article.each-post {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 20px;
+}
+.entry {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1.5;
+}
+
+
+
+/* Archive Page */
+.archive-posts {
+
+}
+
+.archive-posts li {
+   padding-bottom: 5px;
+   padding-top: 5px;
+}
+.archive-posts li span.post-date {
+    color: #aaa;
+}
+.archive-posts li span.spacer{
+    padding-right: 5px;
+    padding-left: 5px;
+    color: #aaa;
+}
+
+/** POST **/
+.post .date-wrapper {
+    margin-top: 10px;
+}
+
+
+/** TAGS **/
+.tag-wrapper {
+    margin-top: 35px;
+}
+.tags .title {
+    /*color: #2879d0;*/
+}
+.tags .tag-item:before {
+    content: ' / ';
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (max-width: 767px) { 
+	aside#sidebar {
+		border-top: none;
+	}
+	aside#sidebar p:not(.copyright-border){
+		display: inline-block;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+    #profile-image {
+        width: 100px;
+        height: 100px;
+        margin-right: 10px;
+        border-radius: 50px;
+        -webkit-border-radius: 50px;
+        -moz-border-radius: 50px;
+        background-position-y: 10%; 
+    }
+
+    
+}
+
+
+
+

@@ -1,0 +1,28 @@
+<aside id="sidebar">
+  <p class="copyright-border"></p>
+  <p>
+    <a href="/index">Home</a>
+  </p>
+  <!-- <p>
+    <a href="#">Projects</a>
+  </p> -->
+  <p>
+    <a href="/about">About Me</a>
+  </p>
+  <p>
+    <a href="/archive">Archive</a>
+  </p>
+  <p>
+    {% if site.footer-links.twitter %}<a class="anchor" href="https://twitter.com/{{ site.footer-links.twitter}}" aria-hidden="true" target="_blank">Twitter</a>{% endif %}
+  </p>
+  <p>
+    {% if site.footer-links.github %}<a class="anchor" href="https://github.com/{{ site.footer-links.github}}" aria-hidden="true" target="_blank">Github</a>{% endif %}
+  </p>
+
+  <p class="copyright-border">
+    Solomon Perkins</br>
+       Nov 2016
+  </p>
+</aside>
+
+<script type="text/javascript" src="{{ site.baseurl }}/javascripts/main.js"></script>

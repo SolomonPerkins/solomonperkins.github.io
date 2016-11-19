@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="post">
+	<h2>{{ page.title }}</h2>
+	<p class="date-wrapper">
+		<small class="date">
+			&#8855; {{ page.date | date: "%b %-d, %Y" }} | read time: {{ page.read_time }}
+		</small>
+	</p>
+
+	<div class="entry">
+		{{ content }}
+	</div>
+	
+
+	<p class="tag-wrapper">
+		<small class="tags">
+			<span class="title">Tags </span>
+			{% for tag in page.tags %}
+		 		<a href="#" class="tag-item">{{tag}}</a>
+			{% endfor %}
+		</small>
+	</p>
+	
+</article>
