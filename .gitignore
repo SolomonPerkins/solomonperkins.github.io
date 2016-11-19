@@ -1,0 +1,11 @@
+# Server Files
+######################
+_site/*
+_site
+
+
+# OS files
+#####################
+.DS_Store
+.DS_Store?
+.Trashes

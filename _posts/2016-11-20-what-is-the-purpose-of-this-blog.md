@@ -3,6 +3,7 @@ layout: post
 title: What is the purpose of this blog?
 tags: welcome
 date: 2016-11-11
+read_time: 1 min
 introduction: Yes!! I am really doing this! If you'd have told me in the past that I'll be blogging someday, I'd laugh at you, but life is interesting and full of suprises - so suprise!
 ---
 

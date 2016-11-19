@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+		<title>{% if page.title %}{{ page.title}} - {% endif %} {{ site.name }}</title>
+		{% include meta.html %}
+	</head>
+
+	<body>
+		<header>
+	      	<div class="inner">
+	        	<a href="/">
+		        	<div id="detail-content">
+			        	<h1>{{ site.name }}</h1>
+			        </div>
+	    		</a>
+	      	</div>
+    	</header>
+
+    	<div id="content-wrapper">
+      		<div class="inner clearfix">
+        		<section id="main-content">
+        			{{ content }}
+        		</section>
+
+        		{% include footer.html %}
+        	</div>
+        </div>
+	</body>
+</html>
