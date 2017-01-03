@@ -1,7 +1,15 @@
+---
+layout: post
+title: How I Made It Through College Without A Loan
+tags: education, university, SLB, money, family
+date: 2017-01-02
+read_time: 10 min
+introduction: Going to University is an asperation of many, but the cost of funding this venture is often daunting. As a living testimony, I was able to able to fund my teritary educaiton without using any form of loan and I wish to share my experience hoping that someone may benefit from it.
+---
 
-Hi All, Happy New Year and I wish for you and your families all the joys and success this year has to offer.
+Hi All, Happy New Year and I wish for you and your family all the best for the new year.
 
-This is my second blog post and I wish to share my experience on how I made it through University without a Load. It is often said that Education is the key, rightly so. As the opportuniteis which it affords you,your family and country are tremendous and we should make the effort to grasping it with both hands. As [Person said] [Find a Jamaica quote on Teritary Education] Teritary education is an integral to the country's development. Persuing Teritary Education should be supported by reseach in field of preference + current & future job markets & demand for skills [Link supporting this data].
+This is my second blog post and I wish to share my experience on how I made it through University without a Loan. It is often said that Education is the key, rightly so. As the opportuniteis which it affords you,your family and country are tremendous and we should make the effort to grasping it with both hands. As [Person said] [Find a Jamaica quote on Teritary Education] Teritary education is an integral to the country's development. Persuing Teritary Education should be supported by reseach in field of preference + current & future job markets & demand for skills [Link supporting this data].
 
 
 So now that I am through with the ground work it is time for the "meat of the matter", let us begin to outline the sequence of events & my thought processes in a shortened version. If you wish to not read my shortened version, here is is a summary:
