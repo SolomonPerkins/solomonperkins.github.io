@@ -65,11 +65,22 @@ Why Am I blogging
 
 
 
-How I made it through college without the SLB
+How I made it through college without the SLB (Dec.)
+======================================
+	- With great challenges, comes great opportunity.
+	- Is college for everyone, and why should you go?
+	- Identify the cost of a degree doing my tenure
+	- Identify the future cost.
+	- How do we prepare? 
+	-- Proper long term financial planning.
+	-- 
+
+My Yearly Birthday Review
 =========================
 	- 
 
-My Yearly Birthday Review
-====================
+Why I am donating Computers to School in my community
+============================================
 	- 
+
 
