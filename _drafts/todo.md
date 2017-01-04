@@ -75,12 +75,24 @@ How I made it through college without the SLB (Dec.)
 	-- Proper long term financial planning.
 	-- 
 
-My Yearly Birthday Review
+2016 Year in Review
 =========================
-	- 
+	- Donations: Donated computers, Giving back to the elderly & homeless
+	- Started my Renewable Energy Project
+	- Read: Rich Dad Poor Dad, How to Make Money with Stocks, Re-read Lean Startup
+	- Personally: More control of my life. 
+	
 
-Why I am donating Computers to School in my community
+Why I am donating Computers to Schools in my community
 ============================================
 	- 
+
+
+Create A Project Section/Timeline
+========================
+[Building Timeline Example](https://codyhouse.co/gem/vertical-timeline/)
+	- Create Project Page
+	- Showcase all the projects from College days to current.
+
 
 
