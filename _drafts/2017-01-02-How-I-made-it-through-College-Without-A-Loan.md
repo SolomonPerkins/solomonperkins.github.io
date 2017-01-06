@@ -51,7 +51,7 @@ Time for action, so I went and apply to a few of financial-aid programs I had do
 ![my_sltop_photo](/images/blog/me_at_nwc_slops.jpb "Working at NWC via SL-Tops Program").
 
 
-The other pogram which made my dark path lit up and increase the possiblity of futhuring my studies was the [JAMVAT program](Link to the JAMVAT). They will offer up to 30% of your tuition on a yearly basis provided that you are qualified. This option only requires 1000hours of voluntary service at any given institution. 
+The other pogram which made my path brighter and increased the possiblity of futhuring my studies was the [JAMVAT program](http://scholarshipjamaica.com/jamvat-scholarship/). This program offers up to 30% of your tuition on a yearly basis provided that you are qualified. This option only requires 1000hours of voluntary service at any given institution. 
 
 By this time I had a guaranted 20% from NYS, and an assume ungauranteed 30% from JAMVAT in total will be 50% of my goal. I then now realised that I need to go get help from my family members. So I humbly went to my uncles and aunts seeking support for the remaining capital. One agreed to provide me with the support I so badly needed. There you have it, 100% funding with God, hard work and time.
 
