@@ -76,7 +76,7 @@ A few weeks in my first semester, my prayers were answered, I was selected for t
 
 <br/>
 
-As the years progressed, so was the level of difficulty. The environment became a true stress test of one's potential - my grandmother once said "If yuh wah good, yuh nose haffi run". "My nose was running", as by the end of my third year I was faced with another financial challenge. The NYS program only lasted for three years, this means that my 20% cushion will be no more. At this point I really had no clude as I didn't knew what my next move was. However it so happened that I my obsession with computers and my field of study landed me a scholarship. Yes! it was so unexpected that I went on the student's portal multiple times checking if it was an error with my financial balance. This brings me to the next major lesson: 
+As the years progressed, so was the level of difficulty. The environment became a true stress test of one's potential - my grandmother once said "If yuh wah good, yuh nose haffi run". "My nose was running", as by the end of my third year I was faced with another financial challenge. The NYS program only lasted for three years, this means that my 20% cushion will be no more. At this point I really had no clude as I didn't knew what my next move was. However it so happened that my obsession with computers and that field of study landed me a scholarship. Yes! it was so unexpected that I went on the student's portal multiple times checking if it was an error with my financial balance. This brings me to the next major lesson: 
 
 > Following what you believe in and it will yield the results you desire.
 
