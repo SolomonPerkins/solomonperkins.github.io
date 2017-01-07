@@ -4,7 +4,7 @@ title: How I Made It Through University Without A Loan
 tags: education university SLB money family
 date: 2017-01-07
 read_time: 10 min
-introduction: Attending and successfully completing university is an aspiration of many, however the main challenge facing most families is the cost. Despite the various challenges I was able to accomplish this dream by funding my tertiary education without the need for a loan from the SLB. I wish to share how I manage to pull of such a difficult.
+introduction: Attending and successfully completing university is the aspiration of many, however the main challenge facing most families is the financial burden. Despite the various challenges I was able to accomplish this dream by funding my tertiary education without the need for a loan from the SLB. Let me tell you how I did it.
 ---
 
 !["College Life"](/images/blog/people-coffee-notes-tea.jpg){:target="_blank"}
