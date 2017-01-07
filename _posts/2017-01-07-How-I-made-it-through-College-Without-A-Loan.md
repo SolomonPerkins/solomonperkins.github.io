@@ -33,7 +33,7 @@ Please note that my only intentions are to provide real proof as to how I achiev
 **Family Background**
 
 
-So let me provide some background before you start assuming that my parent(s) is/are wealthy or they started saving beforehand in preparation for tertiary education. None of the above, not even close. I grew up in the cool cool hills of Clarendon in a single parent household. My dad played the role of both parents, a true hero. He is a small-scale farmer: rearing cattle and cultivating small crops for survival. Am essentially saying we survived on less than ~$300JMD per day and we had to struggle to make ends meet even though it was a single parent household.
+So let me provide some background before you start assuming that my parent(s) is/are wealthy or they started saving beforehand in preparation for tertiary education. None of the above, not even close. I grew up in the cool hills of Clarendon in a single parent household. My dad played the role of both parents, a true hero. He is a small-scale farmer: rearing cattle and cultivating small crops for survival. Am essentially saying we survived on less than ~$300JMD per day and we had to struggle to make ends meet even though it was a single parent household.
 
 <br/>
 
