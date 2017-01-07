@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Made It Through University Without A Loan
+title: How I Made It Through University Without A Loan.
 tags: education university SLB money family
 date: 2017-01-07
 read_time: 10 min
