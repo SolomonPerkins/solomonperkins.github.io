@@ -39,7 +39,7 @@ So let me provide some background before you start assuming that my parent(s) is
 
 **The Journey Begins: My Final Years at High School**
 
-Jump to my fourth year at Clarendon College High School, at this time I was almost through the gates and I started thinking seriously about university and my career path. By this time I had realized that my only option was to make the best of my remaining years. Knowing that I had no money to fund my tertiary education, I started to research ways of funding this venture. While doing my summer job at Chapelton Public Hospital, through the [National Youth Service (NYS)](http://www.nysjamaica.org/){:target="_blank"} summer program, I learnt of the NYS 20% education program. During the same time I also heard about: JNCB scholarship program, Clarendon College Scholarship Program (your high school may offer one as well), VMBS Scholarship programs, and the popular [Student Loan Bureau (SLB)](http://www.slbja.com/){:target="_blank"}. 
+Jump to my fourth year at Clarendon College High School, at this time I was almost through the gates and I started thinking seriously about university and my career path. By this time I had realized that my only option was to make the best of my remaining years. Knowing that I had no capital (money) to fund my tertiary education, I started to research ways of funding this venture. While doing my summer job at Chapelton Public Hospital, through the [National Youth Service (NYS)](http://www.nysjamaica.org/){:target="_blank"} summer program, I learnt of the NYS 20% education program. During the same time I also heard about: JNCB scholarship program, Clarendon College Scholarship Program (your high school may offer one as well), VMBS Scholarship programs, and the popular [Student Loan Bureau (SLB)](http://www.slbja.com/){:target="_blank"}. 
 
 Fast forward to the end of sixth form, reality had set in, as all my friends were ready to matritriculate into either UWI, NCU, Knox or Cuba University. At this point I had gotten through to UWI and the SLB was the only option I had steering me in the face. I wanted to know the pros and cons of using this loan program so I did some research and here were some of the findings:
 
@@ -70,7 +70,7 @@ By this time I had a guaranteed 20% from the NYS, and an ungauranteed 30% from J
 
 A little side note: attending UTECH was more like visiting a first world country: expensive, beautiful and I felt misplaced but my visit was for a worthy cause.
 
-A few weeks in my first semester, my prayers were answered, I was selected for the JAMVAT scholarship program. Now I was able to fund all of my tuition cost at least for a year. My celebrations were short lived, as I then had to figure out how I'll be funding my daily expense. This was the time I realised that if you really need it, your mind will find a way to achieve it. Under pressure, my mind engineered my first budget and I then found ways and means of saving and earning. Fortunately, the money I had saved while doing the SL-TOP & NYS came to my rescue on multiple occasions, as I had to purchase the necessary tools for my studies. Friends, for that I can't stress enough the next lesson:
+A few weeks in my first semester, my prayers were answered, I was selected for the JAMVAT scholarship program. Now I was able to fund all of my tuition cost at least for a year. My celebrations were short lived, as I then had to figure out how I'll be funding my daily expense. This was the time I realised that if you really need it, your mind will find a way to achieve it. Under pressure, my mind engineered my first budget and I then found ways and means of saving and earning. Fortunately, the capital I had saved, while doing the SL-TOP & NYS, came to my rescue on multiple occasions, as I had to purchase the necessary tools for my studies. Friends, for that I can't stress enough the next lesson:
 
 > Saving for a rainy day is very important. 
 
@@ -84,7 +84,7 @@ As the years progressed, so was the level of difficulty. The environment became 
 
 **Watching My Final Expenses**
 
-Horray! At this point I was at the end of my four years at UTECH and every money spent up to this point, had to be justified. Graduation was the next money guzzler, and yes I questioned if it was a need or a want. I opted not to spend ~$19,500 on graduation ceremony ($17,000 fee + $2,500 photos shoot). Instead, I purchased a well-needed pair of shoes then I travelled home & celebrated with my father. 
+Horray! At this point I was at the end of my four years at UTECH and every cent spent up to this point, had to be justified. Graduation was the next cash guzzler, and yes I questioned if it was a need or a want. I opted not to spend ~$19,500 on graduation ceremony ($17,000 fee + $2,500 photos shoot). Instead, I purchased a well-needed pair of shoes then I travelled home & celebrated with my father. 
 
 <br/>
 
