@@ -8,7 +8,7 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
-About Me / Who am I.
+About Me / Who am I. 
 ========================	
 	Short and detailed
 	Shouldn't contain irrelevant information
@@ -20,7 +20,7 @@ About Me / Who am I.
 
 
 
-Why Am I blogging
+Why Am I blogging √
 ========================	
 [Reference on the benefits of blogging](http://howtostartablogonline.net/why-blog/)
 
@@ -65,7 +65,7 @@ Why Am I blogging
 
 
 
-How I made it through college without the SLB (Dec.)
+How I made it through college without the SLB (Dec.) √
 ======================================
 	- With great challenges, comes great opportunity.
 	- Is college for everyone, and why should you go?
@@ -75,7 +75,7 @@ How I made it through college without the SLB (Dec.)
 	-- Proper long term financial planning.
 	-- 
 
-2016 Year in Review
+2016 Year in Review 
 =========================
 	- Donations: Donated computers, Giving back to the elderly & homeless
 	- Started my Renewable Energy Project
