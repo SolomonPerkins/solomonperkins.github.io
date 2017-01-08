@@ -776,6 +776,50 @@ footer a:hover {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
+
+
+/* SKILLS MARKUP */
+#skills-list {
+
+}
+
+#skills-list .skill-list-item {
+  list-style-type: none;
+}
+#skills-list .skill-list-item:nth-child(even){
+}
+.skill-list-item .skill-name {
+  text-align: right;
+  min-width: 30%;
+  font-size: 11px;
+  font-weight: bold;
+  float: left;
+  margin-top: 2px;
+  margin-right: 10px;
+}
+.skill-name, .skill-bar{
+  display: inline-block;
+}
+.skill-list-item .skill-bar {
+  border: 1px solid #9ddcff;
+  min-width: 60%;
+  display: inline-block;
+  height: 10px;
+}
+.skill-list-item .skill-bar:before {
+  background: #2879d0;
+  content: '';
+  /*width: 30%;*/
+  height: 100%;
+  display: inline-block;
+  float: left;
+    -moz-transition: width 1s ease;
+  -webkit-transition: width 1s ease;
+  -o-transition: width 1s ease;
+  transition: width 1s ease;
+}
+
+
 /* #Media Queries
 ================================================== */
 
@@ -946,6 +990,18 @@ header #profile-image a#my-logo img{
   }
   header #profile-image a#my-logo img{
     width: 50px;
+  }
+
+
+  #skills-list .skill-list-item *{
+    text-align: left;
+  }
+  #skills-list .skill-list-item {
+    margin-bottom: 10px;
+  }
+  #skills-list .skill-list-item .skill-name {
+    width: 100%;
+
   }
 }
 

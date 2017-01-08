@@ -57,6 +57,9 @@ jekyll-archives:
 
 enabled: all
 
+# JS files
+jskills:
+  - javascripts/skills.js
 
 #Pagination configs
 paginate: 7
