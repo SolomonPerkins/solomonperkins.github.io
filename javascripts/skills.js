@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 		} catch(exception){
 			progress.setAttribute('class', 'skill-bar quirk');
-			progress.innerHTML = " / " + strength + " %";
+			progress.innerHTML = " <span class='spacer'> &#8226; </span> " + strength + " %";
 			console.error(" Fail to generate graph (exception): ", exception);
 
 		}
