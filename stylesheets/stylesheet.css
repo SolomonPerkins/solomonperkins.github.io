@@ -477,6 +477,7 @@ header h2 {
   letter-spacing: 0;
 }
 
+
 .inner {
   position: relative;
   width: 940px;
@@ -817,6 +818,12 @@ footer a:hover {
   -webkit-transition: width 1s ease;
   -o-transition: width 1s ease;
   transition: width 1s ease;
+}
+.skill-list-item .skill-bar.quirk {
+  background: transparent;
+  border: none;
+  color: #2879d0;
+  
 }
 
 
