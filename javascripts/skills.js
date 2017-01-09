@@ -1,11 +1,11 @@
 document.addEventListener("DOMContentLoaded", function(event) { 
-
-
+	//Setting variables
 	var skills_data = "skills_metrics.json";
 	var skills_url = "/javascripts/" + skills_data;
 	var wrapper_id = 'skills-list';
-	
 	var row;
+
+	//Handle the callback on file load by looping through the json array
 	var process = function( data ){
 		for(var i=0; i < data.length; i++){
 			row = data[i];
@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		}
 	}
 
+	//Build the DOM elements + attributes using the data given
 	var build = function( row ) {
 		if(!row['skill'] || row['skill'].trim() == "") {
 			return;
@@ -31,21 +32,27 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		var id = row['id'];
 		var strength = ( val / max )* 100;
 		var progress = document.createElement('span');
-		progress.setAttribute('class', 'skill-bar')
-		progress.setAttribute('id', 'skill-bar-' + id )
+		progress.setAttribute('id', 'skill-bar-' + id );
 		// progress.setAttribute('width', strength + '%');
+
 		try{
-			document.styleSheets[0].insertRule( '#skill-bar-' + id + ':before { width: ' + strength + '%;} ', 0)
-			
+			document.styleSheets[0].insertRule( '#skill-bar-' + id + ':before { width: ' + strength + '%;} ', 1)
+			progress.setAttribute('class', 'skill-bar');
+
 		} catch(exception){
-			console.error(" exception", exception);
+			progress.setAttribute('class', 'skill-bar quirk');
+			progress.innerHTML = " / " + strength + " %";
+			console.error(" Fail to generate graph (exception): ", exception);
+
 		}
+
 		item.appendChild(title);
 		item.appendChild(progress);
 		
 		parent.appendChild(item);
 	}
 
+	//Load the JSON file with custom XHR request.
 	var loadJSON = function(url, callback) {
 		var xobj = new XMLHttpRequest();
 		xobj.overrideMimeType("application/json");
