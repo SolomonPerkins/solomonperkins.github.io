@@ -4,7 +4,7 @@ title: What is the purpose of this blog?
 tags: welcome
 date: 2016-11-11
 read_time: 1 min
-introduction: Yes I am really doing this! <br/><br/> But we already have enough professional writters, why bother? Well for starters we all have our own path to follow and life stories to tell, and I am willing to share mine. Sharing some of my experiences my help someone get over their hurdles. Besides the point, you'll never stop learning, so let us do this then - time to take the plunge. The interesting thing is that the thought of doing a blog has been pounding in my head for sometime now. So with that said, I am just scratching that itch... 
+introduction: Yes I am really doing this! <br/><br/> The internet is full of professional writters, so why bother? Well for starters we all have our own path to follow and life stories to tell and I am willing to share mine. Sharing some of my experiences my help someone get over their hurdle(s). Besides the point, you'll never stop learning, so let us do this then - time to take the plunge. The interesting thing is that the thought of doing a blog has been pounding in my head for sometime now. So with that said, I am just scratching that itch... 
 ---
 
 !["The Blog"](/images/blog/reason-for-blog-header.jpg "The blog")
