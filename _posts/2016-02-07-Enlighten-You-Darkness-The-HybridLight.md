@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enlighten Your Darkness - The HybridLight
-tags: welcome
+tags: solar renewable energy dad gifts
 date: 2017-02-10
 read_time: 7 min
 header_image: /images/blog/hybrid-solar-flashlights.jpg
@@ -11,7 +11,7 @@ introduction: Having the power of the sun in the palm of your hands is exaclty w
 
 !["Flashlight"](/images/blog/hybrid-solar-flashlights.jpg)
 
-Hey folks, I finally got the "Power of the sun in the palm of my hands". Well, maybe not all of its power but still the feeling I got after owning these amazing flashlights is quite powerful - I'm still powered up. Please pardon me as I won't be giving a 101 session on solar-renewable energy. In this post I'll be share with you a simple yet fascinating story as to how I manage to get my hands on a few of them. Shall we begin?
+Hey folks, I finally got the "Power of the sun in the palm of my hands". Well, maybe not all of its power but still the feeling I got after owning these amazing flashlights is quite powerful - I'm still powered up. Please pardon me as I won't be giving a 101 session on solar-renewable energy. In this post I'll be sharing with you a simple yet fascinating story as to how I manage to get my hands on a few of them. Shall we begin?
 
 
 <br/>
@@ -51,7 +51,7 @@ _Farmers are the next reason_: It has been said that a farmer's job is never don
 <br/>
 **Why I Need It?**
 
-I went through all the trouble stating the benefits about not because I'm a huge fan of solar, but because my dad would find this tool very useful, now let me explain why. My dad likes to visit the shop at nights to play dominoes and lime with his friends. The road he takes doesn't have proper lighting and as such he uses the light from his banger-phone to guide him. Of all the years I've been there I haven't thought about this problem until I started working in the city. Just the mere thought of him travelling on that dark road without proper lighting scares me. That forced me to find a solution to this problem and since I'm all in on renewable energy this is the perfect product. To sweeten the deal, he doesn't have to think about buying batteries - #savings. Having the power of the sun in your hands sounds pretty exciting and powerful - Yes it is.
+I went through all the trouble stating the benefits of this product not because I'm a huge fan of solar, but because my dad would find this tool very useful, now let me explain why. My dad likes to visit the shop at nights to play dominoes and lime with his friends. The road he takes doesn't have proper lighting and as such he uses the light from his banger-phone to guide him. Of all the years I've been there I haven't thought about this problem until I started working in the city. Just the mere thought of him travelling on that dark road without proper lighting scares me. That forced me to find a solution to this problem and since I'm all in on renewable energy this is the perfect product. To sweeten the deal, he doesn't have to think about buying batteries - #savings. Having the power of the sun in your hands sounds pretty exciting and powerful - Yes it is.
 
 <br/>
 **How I Got Buzz on this Product**
