@@ -75,7 +75,7 @@ How I made it through college without the SLB (Dec.) √
 	-- Proper long term financial planning.
 	-- 
 
-Enlightening My Darkness - The Hybrid Light 120
+Enlightening My Darkness - The Hybrid Light 120 √
 =========================================
 	
 	-Intro explaining my excitment / A Flashlight made my day
@@ -126,7 +126,7 @@ My Church offering/tides: Helping the Elites or Feeding the Poor?
 	- Read: Rich Dad Poor Dad, How to Make Money with Stocks, Re-read Lean Startup
 	- Personally: More control of my life. 
 
-Donated My First Computer to My Primary School
+Donated My First Computer to My Primary School 
 ============================
 	- How it all started.
 	- Background on the school and who life is there. [Include photos of me playing marble with students]
@@ -141,7 +141,6 @@ Donated My First Computer to My Primary School
 	- My aim/objective of this venture.
 	- 
 
-	
 
 Books I've Read
 =================
@@ -167,6 +166,23 @@ Why I am donating Computers to Schools in my community
 ============================================
 	- 
 
+
+Jamaica Going Solar
+==================================
+	- [PCJ DONATE TO WOLMERS GIRLS](http://www.jamaicaobserver.com/news/PCJ-establishes-energy-efficient-systems-at-Wolmer-s-Girls-School)
+	
+	- [DHL Solar](http://jamaica-gleaner.com/article/business/20150308/dhl-jamaica-negotiating-netbilling-arrangement-jps)
+
+	- [HoneyBun Invest US$250,000 On Solar](http://honeybunja.com/431/)
+
+	- [RainForest Seafood](http://www.jamaicaobserver.com/news/Energy-Minister-hails-Rainforest-Seafoods--solar-energy-project)
+
+	- [NCB major move](http://solarbuzzjamaica.com/tag/ncb/)
+
+	- [Grand Palladium](http://www.jamaicaobserver.com/latestnews/Grand-Palladium-Resort-unveils-largest-solar-PV-plant-in-Jamaica)
+
+	- [solar plant clarendon](http://www.pv-tech.org/projects/clarendon_jamaica)
+	[pv solar](http://www.jamaicaobserver.com/news/PM-breaks-ground-for-US-60-m-solar-energy-plant-in-Clarendon_19204486)
 
 Create A Project Section/Timeline
 ========================
