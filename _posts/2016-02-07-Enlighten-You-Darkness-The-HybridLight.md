@@ -5,7 +5,7 @@ tags: solar renewable energy dad gifts
 date: 2017-02-10
 read_time: 7 min
 header_image: /images/blog/hybrid-solar-flashlights.jpg
-introduction: Having the power of the sun in the palm of your hands is exaclty what this flashlight gives you. Let me tell you about my journey in hawning the sun's power.
+introduction: Having the power of the sun in the palm of your hands is exaclty what this flashlight provides. Let me tell you about my journey in capturing the sun's energy.
 ---
 
 
