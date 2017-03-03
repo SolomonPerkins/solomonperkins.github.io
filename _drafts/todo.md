@@ -8,6 +8,19 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+TODO:
+=============
+	- Read about fonts and typeface.. Improve the current settings
+	- Setup Next & Previous Button on Each Blog Post. : Prevent folks from going back to view content
+	- Create a page: Writing&Speaking
+		- UTECH Sapna Presentation on how Companies my use Free Software
+		- UWI Presentation on Automated TEsting : March 
+	
+	- Create page to showcase projects: Projects
+		- Donating Raspberry Pi.
+		- The AI prolog program. : There is a tool to record terminal (nice to have)
+		- The Remdi Project.
+
 About Me / Who am I. √
 ========================	
 	Short and detailed
@@ -75,7 +88,7 @@ How I made it through college without the SLB (Dec.) √
 	-- Proper long term financial planning.
 	-- 
 
-Enlightening My Darkness - The Hybrid Light 120
+Enlightening My Darkness - The Hybrid Light 120 √
 =========================================
 	
 	-Intro explaining my excitment / A Flashlight made my day
@@ -100,8 +113,9 @@ Enlightening My Darkness - The Hybrid Light 120
 		[An article explaining how flexibile the flash light is](http://www.arizonabushman.com/reviews/the-hybrid-light-120/)
 
 	   > Wanted a gift for my dad that is practical and robust enough to keep up with his lifestyle.
+
 	
-My Church offering/tides: Helping the Elites or Feeding the Poor?
+My Church Offering/Tides: Helping the Elites or Feeding the Poor?
 =========================================================
 	- What this post is about: 
 		- Seek to find out how the church manage their financing.
@@ -109,14 +123,17 @@ My Church offering/tides: Helping the Elites or Feeding the Poor?
 		- Tell you about my friend who goes by the name: Bull.
 
 	- Disclaimer:
-		- I'm a member of SDA
+		- I'm a member of SDA - I actually grew up in the church.
 		- I also attend other churches, as I believe in hearing other views even if I'm not in agreement
 			- [Find a quote that support this point]
 		- I believe in the core values and principles being taught by such a great instution.
+		- The benefits are clearly visible in our culture and positive moral standards - or what is left of it.
 		- I also acknowledge that it was forced upon us [slavery](Find Reference to support this point)
-		- I wish to Thank my dad for playing his part, even got flogged on multiple occassions.
-
-	- 
+		- I wish to Thank my dad for playing his part, even got flogged on multiple occassions when I resist going to church. On friday evenings I often stay by my best friend's house in an effort to avoid church.
+		- 
+	- My Story
+		- It started with me visiting church one Sunday morning - yes I do go - passed a homeless man on the street
+		- I felt 
 
 
 2016 Year in Review XX - Cancel this and iterate on each item
@@ -126,7 +143,7 @@ My Church offering/tides: Helping the Elites or Feeding the Poor?
 	- Read: Rich Dad Poor Dad, How to Make Money with Stocks, Re-read Lean Startup
 	- Personally: More control of my life. 
 
-Donated My First Computer to My Primary School
+Donated My First Computer to My Primary School 
 ============================
 	- How it all started.
 	- Background on the school and who life is there. [Include photos of me playing marble with students]
