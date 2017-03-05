@@ -10,22 +10,28 @@
     <a href="/about">About Me</a>
   </p>
   <p>
+    <a class="anchor" href="/projects" aria-hidden="true">Projects</a>
+  </p>
+  <p>
+    <a class="anchor" href="/contacts" aria-hidden="true">Contacts</a>
+  </p>
+  <p>
     <a href="/archive">Archive</a>
   </p>
-  <p>
-    {% if site.footer-links.twitter %}<a class="anchor" href="https://twitter.com/{{ site.footer-links.twitter}}" aria-hidden="true" target="_blank">Twitter</a>{% endif %}
-  </p>
-  <p>
-    {% if site.footer-links.github %}<a class="anchor" href="https://github.com/{{ site.footer-links.github}}" aria-hidden="true" target="_blank">Github</a>{% endif %}
-  </p>
-
+  
   <p class="copyright-border" id="footer-year">
     Solomon Perkins</br>
        Nov 2016 - 2017
   </p>
 </aside>
 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/javascripts/main.js"></script>
-{% if page.title == "About Me" %}
+{% if page.meta == "aboutme" %}
 <script type="text/javascript" src="{{ site.baseurl }}/javascripts/skills.js"></script>
 {% endif %}
+
+{% if page.meta == "projects" %}
+<script type="text/javascript" src="{{ site.baseurl }}/javascripts/vertical-timeline.js"></script>
+{% endif %}
+
