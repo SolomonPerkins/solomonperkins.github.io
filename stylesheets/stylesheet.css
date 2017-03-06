@@ -827,6 +827,36 @@ footer a:hover {
 }
 
 
+
+/** POST PREVIOUS AND NEXT **/
+.page-navigation {
+  display: flex;
+  border:none;
+  border-top: 1px solid #ddd;
+  /*border-bottom: 1px solid #ddd;*/
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.navigator {
+  flex-grow: 1;
+  display: inline-block;
+  width: ;
+
+}
+.navigator .link {
+  display: block;
+  font-weight: 400;
+  font-size: 12px;
+}
+.next-navigator {
+  text-align: right;
+}
+.navigator strong{
+  display: block;
+  font-size: 9px;
+  color: #cacaca;
+}
+
 /* #Media Queries
 ================================================== */
 
