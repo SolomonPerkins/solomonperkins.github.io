@@ -11,10 +11,12 @@ introduction:
 TODO:
 =============
 	- Read about fonts and typeface.. Improve the current settings
-	- Setup Next & Previous Button on Each Blog Post. : Prevent folks from going back to view content
-	- Create a page: Writing&Speaking
+	- Setup Next & Previous Button on Each Blog Post. : Prevent folks from going back to view content √
+	- Create a page: Writing&Speaking 
 		- UTECH Sapna Presentation on how Companies my use Free Software
+		- Wrote Articles on Geezam Blog : 
 		- UWI Presentation on Automated TEsting : March 
+
 	
 	- Create page to showcase projects: Projects
 		- Donating Raspberry Pi.
