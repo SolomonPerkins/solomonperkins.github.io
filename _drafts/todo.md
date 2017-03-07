@@ -79,7 +79,6 @@ Why Am I blogging √
 		Starting out on a new venture is challenging, but the journey is worthwhile
 
 
-
 How I made it through college without the SLB (Dec.) √
 ======================================
 	- With great challenges, comes great opportunity.
@@ -117,6 +116,114 @@ Enlightening My Darkness - The Hybrid Light 120 √
 	   > Wanted a gift for my dad that is practical and robust enough to keep up with his lifestyle.
 
 	
+
+Books I've Read in 2015-2016
+====================================
+	- Introduction
+		- They might not be much.
+		- I'm not trying to compete with the great book lovers of our time: locally (Gordon Swaby). Internationally: Zuckerberg, Richard Brandson
+		- A huge quest for knowledge and the desire to change my persepctives drove my curiosity are the common themes you'll notice.
+		- In college reading was not a hobby, the exception was for Linux and open source technology.
+		- After I finished college I was more entrenced in technology without the desire of connecting the knowledge to the real world.
+	
+	- Running Lean - Ash Maurya
+		- How I manage to own a copy 
+			- This book was introduced to me by my company, I've spent the past 4 years owning and growing in my craft.
+		- What is the Book about
+			- Build, Measure, Learn are the three main concepts it emphasises.
+			- It focuses on optimizing the SDLC by creating a new approach in how business models are structure.
+			- It puts the customer at the front of the cycle, and ensure they (customer) drives the product
+			- The new disruptive strategy deviates from the traditional approach of spending months identifying business feasibility far away form the customer and then give them an unwanted product at the end.
+		- Its impact on my life
+			- Rewire my brain, allowed me to think and connect this new approach affects our modus operandi.
+			- Creates more managable and scalable cycle. Just like Agile software development it breaks down the improtant and integral flow.
+			- If you are a young entreprenure and want/hoping to start your business in the future, this is the best model to iterate on. Learn from Ash Maurya pain, and follow his book to the "T" and I'm sure you'll see the unbiased benefits being offered.
+	
+	- Rich Dad Poor Dad - Robert Kiosaki
+		- My Ears Got Me In Trouble
+			- At work and a few co-workers were talking stuff they enjoyed. This book was then mentioned.
+			- Being inquisitive, I instantly jumped right in the middle of the conversation asking more details.
+
+		- This Book Will Make You Rich - Rich With Knowledge
+			- First and foremost, this book is amazing. Knowledge is definately power.
+			- It teaches financial knowledge, the knowledge school fail to teach.
+			- The main theme is about getting out of the rat race, a journey not taken by the 99%.
+			- It explorse the patterns of life, and how we are wrong we are. It depicts a story of a boy having two dads a rich (not formally educated) and and a poor dad (formally educated).
+			- 
+		- Dammnn This Book is Powerful!
+			- I'm always interested in knowing the route not taken by the majority. This book is perfect.
+			- The lessons thought are still governing my life. Even my evaluations of wants and needs are being put into question. 
+			- It's impact is so far reaching, I often sit and question our priorities and truly distinguishing needs from wants.
+			- Even propelled me into tweeting about questions like these: [](/images/blog/rich-dad-poor-dad-inspired-tweet).
+			- That knowledged learned form reading this book is unquantifiable and for that I'm forever grateful.
+			- I advice, young recruits, college students or anyone who wants to open their perspective on how our society is structured.
+			- This book is definitely future and generation proof.
+
+
+	- How to Make Money With Stocks
+		- "Rich Dad Poor Dad" -> Now This
+			- After getting some new knowledge from reading Rich Dad Poor Dad I was so interested in learning about how these different equipty market works.
+			- I searched for this one.
+			- It was as if college had failed to educated me of proper spending habits or how I these other entities work.
+			- Admittedly I didn't went to college for this, so I guess they told us stuff on a need to know basis. I think it however accomplishes one goal: increase my curiosity about the world.
+		- What is This Stocks Thingy About?
+			- So you've heard about stocks, bonds and all forms of so called "iniquity" - cough I mean equipty.
+			- But actually this book provides an insight into how you should prepare for the future.
+			- Noticed how the simple 9-5 can't cover for basic expenses, and how it can't stretch to fit your life.
+			- This is how it has always been, and for a comfortable life, one should have a more serious discussion on these matters. This book helps to form those ideal questions and help guide your thoughts.
+			- I had no clue, except for the definition, as to what stocks and bonds are about.
+			- I wanted to know how wealth maybe gained, or how I may go about chanting my own course in life.
+			- This doesn't mean I am pursuing this path head on, but knowledge can NEVER be enough.
+			- I highly recommend this book, only after you've had your brain re-wired by "Rich Dad Poor Dad".
+			
+	- New Testment Version of The Bible
+		- A Treasure Trove of knowledge
+			- I won't get to bliblical here, so I hope you stick through this with me.
+			- I read the New Testment because I wanted to learn more, become more humble and understand some hidden secrets to life.
+			- There was no other way to find one book that governs humans activity, the advices shared in has helped to guide my life.
+		- It Teaches Simple Lessons 
+			- We often get caught up in doing multiple things, we often forget that simplicity is key.
+			- So I ready a newer version of the bible called "The Message", it simplifies some of the complex terms such as: "Wence", "Thou" and "Thine" to a language I can understand, english - No I can't read that patois/creole bible. "Yeah me chat patois but nuh tell me fi read it rasta".
+			- Moving on, It teaches how simple things affects our lives, and how we should be living.
+			- Alot of those insperational quotes, are often times linked to bible scriptures. 
+			- It also teaches you how to care for your family, enemies and on a wider scale, your fellow neighbours.
+			- I agree that some sections are a bit confusing, but the Bible even provide the key to unlock these complex sections - pray and read slowly with an open mind.
+		- The Everlasting Impact
+			- Providing powerful yet some great advice. 
+			- Having issues with your personal life, health, mental state, crisis? This section has a solution for you. 
+			- I often quickly load up the app to get a quick daily quote, and suprisingly the information are linked to my situation.
+			- I'll employer anyone to read this book wether you are: egotistic, Mr/Mrs know-it-all, Mr. omnipotent, or even superman himself - as we all have our kryptonite.
+			- I sincerely recommend anyone to read this book, and in a couple months and you'll see how those simple scriptures impacts your life, especially the ones in Proverbs.
+
+	- The Healing Wonders of Herbs - H. G. Ladion
+		- The Bush Cure
+			- So let us stripe the capitalist and mas-marketing culture aside for a few and talk about a book that I've read.
+			- I was curious of finding out how I could learn about all these amazing plants and how they maybe used to cure various illnesses.
+			- So my grandmother was a wizard at this knowledge, but after she passed away I felt empty as I had no clue what most of these hers do - except for ciruse, peppermint, alovera, tuna and tabrine tree.
+			- While liming with a few co-workers and expressing my loss of knowledge about mother nature, one mentioned he has a book about herbs.
+			- Basically you know what happens next, I beg until he loaned it to me: which reminds me I need to return it. 
+		- All About Cure
+			- Yep, it contains a treasure trove of cures for various types of ailment. 
+			- From a simple cold to getting a serious cut, this books have some amazing nature forms of cures. 
+			- These cures ranges from herbal treatment to water based treatments.
+			- The details provided, are based on scientific/herbal research data extracted by the author who has years of research in this fields.
+		- What It Has Done For Me.
+			- Firstly, you can't imagine how I felt after I got my hands on this book.
+			- I started filling up my knowledge base once more with these critical life-saving information.
+			- I believe my grandmother would have been proud to know that he had a power impact on my life
+			- Action does speak louder than words: and this information is so valuable, I'm working on an API to share this data with you. 
+			- Taking matters in my own hands, I started to use more of these natural herbs to prevent and improve my defense mechanism. 
+			- Back to the capitalist mindset, we are acustom to buying a pill once you feel your head twinging or a simple cough. 
+			- These tablets may solve the problem but it doesn't benefit your immune system the way that the God given remedy would. 
+			- Why not use the natural remedies given to us to cure these ailments.
+			- I agree that most melinnials won't even tolerate this final list of suggestions but here are some of my personal uses.
+			- For flue I used, honey and lime. For high pressure I use soursop leaf tea. To purge my blood I use ciruse tea, among other stuff. My first case of chicken pox I used tambrine leaf - worked much faster than the ointment given to me by the doctor.
+			- Natural remedies has done so much for me, I can't help but blog about it.
+
+	So there you have it folks, a list of life changing books I'd strongly encourage everyone to read. It is true, reading actually transform your mind and body into a different relm. A relm full of knowledge waiting for you to go and explore. 
+	Final quote: "Want to hide things from black man, put it inna book".
+
+
 My Church Offering/Tides: Helping the Elites or Feeding the Poor?
 =========================================================
 	- What this post is about: 
@@ -146,7 +253,7 @@ My Church Offering/Tides: Helping the Elites or Feeding the Poor?
 	- Personally: More control of my life. 
 
 Donated My First Computer to My Primary School 
-============================
+==============================================
 	- How it all started.
 	- Background on the school and who life is there. [Include photos of me playing marble with students]
 		- Explain which section of Clarendon they are located at
@@ -162,15 +269,6 @@ Donated My First Computer to My Primary School
 
 	
 
-Books I've Read
-=================
-	2016:
-	- Running Lean - Ash Maurya
-	- Rich Dad Poor Dad - Robert Kiosaki
-	- How to Make Money With Stocks
-	- New Testment Bible
-	- The Healing Wonders of Herbs - H. G. Ladion
-
 Technologies I'm greatful for
 =============================
 	- Markdown
@@ -182,7 +280,7 @@ Technologies I'm greatful for
 	- 
 
 
-Why I am donating Computers to Schools in my community
+Simple Yet Effecient - LEDs
 ============================================
 	- 
 
