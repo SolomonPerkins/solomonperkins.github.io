@@ -119,6 +119,7 @@ Enlightening My Darkness - The Hybrid Light 120 √
 
 Books I've Read in 2015-2016
 ====================================
+![Books Read Photo](/images/blog/books-read-2015-2016.jpg)
 	- Introduction
 		- They might not be much.
 		- I'm not trying to compete with the great book lovers of our time: locally (Gordon Swaby). Internationally: Zuckerberg, Richard Brandson
@@ -127,29 +128,34 @@ Books I've Read in 2015-2016
 		- After I finished college I was more entrenced in technology without the desire of connecting the knowledge to the real world.
 	
 	- Running Lean - Ash Maurya
+	![Running Lean](/images/blog/running-lean-book.jpeg)
 		- How I manage to own a copy 
-			- This book was introduced to me by my company, I've spent the past 4 years owning and growing in my craft.
+			- This book was introduced to me by Medullan, the IT firm I've spent the past 4 years owning and growing in my craft.
 		- What is the Book about
 			- Build, Measure, Learn are the three main concepts it emphasises.
 			- It focuses on optimizing the SDLC by creating a new approach in how business models are structure.
 			- It puts the customer at the front of the cycle, and ensure they (customer) drives the product
 			- The new disruptive strategy deviates from the traditional approach of spending months identifying business feasibility far away form the customer and then give them an unwanted product at the end.
+			- Doing away with a twenty page business, they encournage a one page business plan called the canvas. 
+			- This then transforms who presentation or product pitch is done - hitting the main points for that 5 minutes pitch.
 		- Its impact on my life
 			- Rewire my brain, allowed me to think and connect this new approach affects our modus operandi.
 			- Creates more managable and scalable cycle. Just like Agile software development it breaks down the improtant and integral flow.
 			- If you are a young entreprenure and want/hoping to start your business in the future, this is the best model to iterate on. Learn from Ash Maurya pain, and follow his book to the "T" and I'm sure you'll see the unbiased benefits being offered.
 	
 	- Rich Dad Poor Dad - Robert Kiosaki
+		![The Rich Dad Cover](/images/blog/rich-dad-poor-dad-book.jpeg)
+
 		- My Ears Got Me In Trouble
 			- At work and a few co-workers were talking stuff they enjoyed. This book was then mentioned.
 			- Being inquisitive, I instantly jumped right in the middle of the conversation asking more details.
 
 		- This Book Will Make You Rich - Rich With Knowledge
-			- First and foremost, this book is amazing. Knowledge is definately power.
+			- First and foremost, this book is amazing. Knowledge is definitely power.
 			- It teaches financial knowledge, the knowledge school fail to teach.
 			- The main theme is about getting out of the rat race, a journey not taken by the 99%.
 			- It explorse the patterns of life, and how we are wrong we are. It depicts a story of a boy having two dads a rich (not formally educated) and and a poor dad (formally educated).
-			- 
+			- The approach taught by the book may be summed up with this quote: "Work to learn. Don't work for money... Look for jobs that can help you develop the skills, systems and people rather than just pay you well".
 		- Dammnn This Book is Powerful!
 			- I'm always interested in knowing the route not taken by the majority. This book is perfect.
 			- The lessons thought are still governing my life. Even my evaluations of wants and needs are being put into question. 
@@ -175,8 +181,10 @@ Books I've Read in 2015-2016
 			- I wanted to know how wealth maybe gained, or how I may go about chanting my own course in life.
 			- This doesn't mean I am pursuing this path head on, but knowledge can NEVER be enough.
 			- I highly recommend this book, only after you've had your brain re-wired by "Rich Dad Poor Dad".
-			
+
 	- New Testment Version of The Bible
+		![The Bible](/images/blog/the-bible-book.jpeg)
+
 		- A Treasure Trove of knowledge
 			- I won't get to bliblical here, so I hope you stick through this with me.
 			- I read the New Testment because I wanted to learn more, become more humble and understand some hidden secrets to life.
@@ -196,6 +204,8 @@ Books I've Read in 2015-2016
 			- I sincerely recommend anyone to read this book, and in a couple months and you'll see how those simple scriptures impacts your life, especially the ones in Proverbs.
 
 	- The Healing Wonders of Herbs - H. G. Ladion
+		![The Healing Wonders of Herbs - H. G. Ladion](/images/the-healing-wonders-of-herbs-book.jpeg)
+
 		- The Bush Cure
 			- So let us stripe the capitalist and mas-marketing culture aside for a few and talk about a book that I've read.
 			- I was curious of finding out how I could learn about all these amazing plants and how they maybe used to cure various illnesses.

@@ -496,6 +496,8 @@ header h2 {
 
 #main-content img {
   max-width: 100%;
+  border: 4px solid whitesmoke;
+  outline: 1px solid #dbdbdb;
 }
 
 aside#sidebar {
