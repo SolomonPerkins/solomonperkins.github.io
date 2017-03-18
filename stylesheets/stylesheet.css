@@ -859,6 +859,20 @@ footer a:hover {
   color: #cacaca;
 }
 
+
+.archive-posts {
+}
+.archive-posts li,
+.writing-speaking-posts li {
+  list-style: none;
+}
+.post-date {
+  color: #aaa;
+}
+.writing-speaking-msg {
+  color: #2879d0;
+}
+
 /* #Media Queries
 ================================================== */
 

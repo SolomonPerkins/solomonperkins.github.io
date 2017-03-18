@@ -1,0 +1,30 @@
+- type: speaking
+  title: Software development and Testing
+  location: Startup Jamaica symposium by MakeBetter
+  date: 2017-03-24
+
+- type: writing
+  title: SMBE – Running on Open Source Software
+  location: "<a href='http://geezam.com/smbe-running-open-source-software'>geezam.com</a>"
+  date: 2017-03-17
+
+- type: speaking
+  title: Software Testing & Automation
+  location: UWI Mona
+  # image: /images/writing+speaking/software-testing-uwi.png
+  link: "https://drive.google.com/file/d/0B_lzOkuf68oAaWRwQWlzdmpweWc/view?usp=sharing"
+  date: 2017-02-28
+
+- type: writing
+  title: "Linux and Other Open Source Technologies: The Benefits for Jamaica"
+  location: "<a href='http://geezam.com/linux-open-source-technologies-benefits-jamaica'>geezam.com</a>"
+  date: 2017-02-28
+
+- type: speaking
+  title: Web Entrepreneurship Bootcamp
+  location: UTECH, Sapna
+  image: /images/writing+speaking/sapna-presentation.jpeg
+  date: 2013-10-10
+
+
+
