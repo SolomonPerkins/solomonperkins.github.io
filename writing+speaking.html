@@ -34,10 +34,16 @@ tags: [speaking, presentations]
 					</span>
 					
 					{% if activity.link %}
-						<a href="{{ activity.link }}" target="_blank" class="">View Content</a>
+						<a href="{{ activity.link }}" target="_blank" class="">(View Content Here)</a>
 					{% endif %}
 					{% if activity.image %}
+						{% if activity.link %}
+							<a href="{{ activity.link }}" target="_blank" class="">
+						{% endif %}
 						<img src="{{ activity.image }}" alt="{{ activity.title }}" />
+						{% if activity.link %}
+							</a>
+						{% endif %}
 					{% endif %}
 
 				</p>	
