@@ -9,7 +9,7 @@ introduction: Yes I am really doing this! <br/><br/> The internet is full of pro
 ---
 
 !["The Blog"](/images/blog/reason-for-blog-header.jpg "The blog")
-*Reference: [Pexels][head_image]*
+<small>*Reference: [Pexels][head_image]{:target="_blank"}*</small>
 
 
 
