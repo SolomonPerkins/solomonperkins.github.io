@@ -4,22 +4,23 @@ layout: default
 
 <h2>Blog</h2>
 {% for post in site.posts %}
-	{% assign currentdate = post.date | date: "%Y" %}
-	{% if currentdate != date %}
-		{% unless forloop.first %}
-			</ul>
-		{% endunless %}
-		<h3 class="year-headline">{{ currentdate }}</h3>
-		<ul class="archive-posts">
-		{% assign date = currentdate %}
-	{% endif %}
+	{% assign postdate = post.date | date: "%Y" %}
+	{% assign currentdate = 'now' | date: "%Y-%m-%d" %}
+		{% if postdate != date %}
+			{% unless forloop.first %}
+				</ul>
+			{% endunless %}
+			<h3 class="year-headline">{{ postdate }}</h3>
+			<ul class="archive-posts">
+			{% assign date = postdate %}
+		{% endif %}
 
-	  <li>
-	    <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-	    <span class="spacer"> &#8226; </span>
-		<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-	  </li>
-	{% if forloop.last %}
-		</ul>
-	{% endif %}
+		  <li>
+		    <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+		    <span class="spacer"> &#8226; </span>
+			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+		  </li>
+		{% if forloop.last %}
+			</ul>
+		{% endif %}
 {% endfor %}
