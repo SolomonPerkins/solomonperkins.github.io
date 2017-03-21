@@ -432,7 +432,8 @@ body {
   font-size: 15px;
   font-weight: 400;
   line-height: 1.5;
-  color: #666;
+  // color: #666;
+  color: #333333;
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
 }
 
@@ -826,6 +827,35 @@ footer a:hover {
   border: none;
   color: #2879d0;
   
+}
+
+/** POST PREVIOUS AND NEXT **/
+.page-navigation {
+  display: flex;
+  border:none;
+  border-top: 1px solid #ddd;
+  /*border-bottom: 1px solid #ddd;*/
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.navigator {
+  flex-grow: 1;
+  display: inline-block;
+  width: ;
+
+}
+.navigator .link {
+  display: block;
+  font-weight: 400;
+  font-size: 12px;
+}
+.next-navigator {
+  text-align: right;
+}
+.navigator strong{
+  display: block;
+  font-size: 9px;
+  color: #cacaca;
 }
 
 

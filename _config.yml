@@ -67,5 +67,6 @@ paginate_path: "/page:num/index.html"
 
 #Footer links
 footer-links:
+  linkedin: "solomon-perkins-212011a6"
   github: SolomonPerkins
   twitter: DAlexForce
