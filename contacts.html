@@ -1,0 +1,21 @@
+---
+title: Contacts
+layout: default
+meta: contacts
+tags: [personal, contacts]
+---
+
+<h2>Contact Me</h2>
+
+<p>Twitter: follow me 
+	{% if site.footer-links.twitter %}
+		<a class="anchor" href="https://twitter.com/{{ site.footer-links.twitter}}" aria-hidden="true" target="_blank">@DAlexForce</a>
+	{% endif %}
+</p>
+
+<p>
+	Checkout my public 
+	{% if site.footer-links.github %}
+		<a class="anchor" href="https://github.com/{{ site.footer-links.github}}" aria-hidden="true" target="_blank">Github repository</a>
+	{% endif %}
+</p>

@@ -9,7 +9,7 @@ introduction: Attending and successfully completing university is the aspiration
 ---
 
 !["College Life"](/images/blog/people-coffee-notes-tea.jpg){:target="_blank"}
-*Reference: [Pexels][head_image]*
+<small>*Reference: [Pexels][head_image]{:target="_blank"}*</small>
 
 Hi, Happy New Year and best wishes for you and your family.
 
