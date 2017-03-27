@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Graduates, Your Resume Needs Validation
+title: Graduates, Your Resume Needs Validation.
 tags: resume job graduates career advice
 date: 2017-03-26
 read_time: 7 min
-header_image: /images/blog/
+header_image: /images/blog/graduates-your-resume-needs-validation-header.jpg
 introduction: Knowing what to put on your resume is big deal, but knowing how to represent your skills and potential should be an even bigger deal. There must be a better way of expressing one's potential. Join me as I share my story.
 ---
-
 
 <blockquote class="twitter-tweet" data-lang="en">
 	<p lang="en" dir="ltr">A part of the difficulty in landing a job in Ja is crafting an effective cover letter and CV that say exactly what they want</p>&mdash; Gerbs (@GerbryJA) 
@@ -80,7 +79,7 @@ I firmly believe that this approach provides the missing validation piece requir
 
 Wish you all the best.
 
-
+|*Just a side note: The [#leggocareer2017](https://twitter.com/search?f=tweets&q=%23leggocareer2016%20&src=typd){:target="_blank"} hash tag on twitter have a few job opportunites you should check them out - still checkout the companies even if the opportunities expire.*
 
 
 
