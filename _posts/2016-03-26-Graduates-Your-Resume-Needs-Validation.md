@@ -30,7 +30,7 @@ Traditionally speaking, we've been taught that the steps required in getting a g
 
 1. Attend school (college preferably) and get straight A's
 2. Then create that perfect 1-2 page resume with a dashing CV as if it was written by the queen herself.
-3. Apply to the top companies. The prepare for the interview by looking at yourself in the mirror and swat the answers to the most common interview questions - Repeat until.
+3. Apply to the top companies. Then prepare for the interview by looking at yourself in the mirror and swat the answers to the most common interview questions - Repeat until.
 4. Turn up to your interview like a king: dress code shaper than a razor, spotless resume and speaking like the queen's representative.
 
 <br/>
