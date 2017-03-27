@@ -40,7 +40,7 @@ I agree that the traditional approach can land you a job but the issue lies in i
 
 1. The first issue is that getting all A's don't necessarily equate to you being competent within a particular field of study - I can swat my way to the top. 
 
-2. The next issue is around marketing your skills on your resume and CV. Think of a resume as doing a 5 minutes elevator pitch without samples of your work. It lacks prototype, the interview spends more time identifying your abilities as opposed to validating your skills. 
+2. The next issue is around marketing your skills on your resume and CV. Think of an interview as doing a 5 minutes elevator pitch without samples of your work. Having just a resume lacks prototype, the interviewer spends more time identifying your abilities as opposed to validating your skills. 
 
 3. Placing too much focus on the most asked interview questions is also an overkill. Too much attention on FAQs for interviews results in less focus on your skills and capabilities but more so on the well-written resume/CV. You, the interviewee, should be driving that session by focusing on what you wish to highlight about yourself.
 
@@ -79,7 +79,7 @@ I firmly believe that this approach provides the missing validation piece requir
 
 Wish you all the best.
 
-|*Just a side note: The [#leggocareer2017](https://twitter.com/search?f=tweets&q=%23leggocareer2016%20&src=typd){:target="_blank"} hash tag on twitter have a few job opportunites you should check them out - still checkout the companies even if the opportunities expire.*
+|*Just a side note: The [@CareerJamaica](https://twitter.com/CareerJamaica){:target="_blank"} &amp; [#leggocareer2017](https://twitter.com/search?f=tweets&q=%23leggocareer2016%20&src=typd){:target="_blank"} hash tag on twitter have a few job opportunites, you should check them out - still checkout the companies even if the opportunities expire.*
 
 
 
