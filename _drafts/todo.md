@@ -8,14 +8,75 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+Graduates, Your Resume Needs Validation
+================================
+	- Introduction
+		- You're ready for the working world and the traditional questions kicks in, similar to a question asked by Gerby 
+		- It all started with this tweet: 
+			<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A part of the difficulty in landing a job in Ja is crafting an effective cover letter and CV that say exactly what they want</p>&mdash; Gerbs (@GerbryJA) <a href="https://twitter.com/GerbryJA/status/845407481924866050">March 24, 2017</a></blockquote>
+			<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		- Speaking about how the job market has changed and a new level of thinking is required to stay ahead.
+
+	- The Traditional Approach
+		- Traditionally the first rule is to A's all your courses.
+		- Having A's equates to the fact that you're good at remembering things, doesn't necessarliry translates to Knowledge level or practical competence.
+		- Next is to create an resume & cv that is perfect and hit a home run.
+		- Perform the infront of the class repeating who am I, what I represent and what I can bring to the table.
+		- Then you turn up for the interview and hope that your Aced resume will land you that first gig.
+
+	- The Problem With That
+		- No doubt that the traditional approch has been working.
+		- I don't think it helps you to stand out.
+		- It fails to translate your capabilities.
+		- It is difficult to express your self on 1-2 pages.
+		- And no one looks at the CV letter, at least I didn't.
+		- Essential we are doing an old routine that is outdated.
+		- It is difficult to showcase your skills to the interviewee.
+		- The most intellecutual speaker showing the right personality gets hired.
+
+	- My Advice
+		- My suggestions are not based on scientific data, they are based on my personal experience.
+		- Seek a summer job in your field, volunteer if you have to 
+		- Doing one or two side projects linked to your area of study.
+		- Course work done are more valuable than you think. 
+		- Read about your specialisation and understand the best practices
+		- Combine all the above into an archive/portfolio/blog.
+		- Create that resume and CV.
+		- Seek feedback on your resume from the relevant groups in your school.
+		- Iterate on the resume until it is perfect.
+		- During your next interview bring that portfolio & resume and present both to your interviewer(s) and see which they are more excited to see.
+
+	- #AlternativeFacts or Legitimate Advice?
+		- I believe in proving the concept before sharing its worth.
+		- The advice shared above is excalty what got me my gig at the company I'm currently employed at.
+		- I went in that interview with a working prototype, portfolio & a resume.
+		- 90% of the interview was spent discussing my prototype & portfolio.
+		- The remaining 10% was done resume and working environment, which were just a matter of formality.
+		- Yes, my advice worked for me and tweaking it should work for you.
+
+		- When compared to the traditional approach, this approach lives up to the mantra "action speaks louder than words"
+		- Showing your skills essentially allows the interviewer to validate your skills and then connect the dots by info. on your resume.
+		
+	- Job Recruitment Qualifications? N/A
+		- I'm merely sharing what worked for me and I have not professional certificate to validate.
+		- I however once volunteered for one of our recruitment drive where I offered my assistance with a few interviews.
+		- Yes we did that 90% : 10% as well.
+
+	- My Final Thoughts
+		- The traditional approach will not suffice.
+		- Interviewers often have to interview alot of individuals, the key is to prove that you are worth it by showing off your skills.
+		- Your resume doesn't truely reflect your true potential
+		
+
+
 TODO:
 =============
 	- Read about fonts and typeface.. Improve the current settings
 	- Setup Next & Previous Button on Each Blog Post. : Prevent folks from going back to view content √
-	- Create a page: Writing&Speaking 
-		- UTECH Sapna Presentation on how Companies my use Free Software
-		- Wrote Articles on Geezam Blog : 
-		- UWI Presentation on Automated TEsting : March 
+	- Create a page: Writing&Speaking √
+		- UTECH Sapna Presentation on how Companies my use Free Software √
+		- Wrote Articles on Geezam Blog : √
+		- UWI Presentation on Automated TEsting : March  √
 
 	
 	- Create page to showcase projects: Projects
