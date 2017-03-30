@@ -8,7 +8,7 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
-Graduates, Your Resume Needs Validation
+Graduates, Your Resume Needs Validation √
 ================================
 	- Introduction
 		- You're ready for the working world and the traditional questions kicks in, similar to a question asked by Gerby 
