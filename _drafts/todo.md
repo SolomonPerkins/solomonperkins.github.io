@@ -8,6 +8,18 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+Shuttleworth Pulling Down The Unity Shutters
+============================================
+	- http://www.zdnet.com/article/mark-shuttleworth-considering-canonical-ipo/
+	- Ubuntu is a public company
+	- They got distracted by pushing to mobile, Ubuntu TV and IoTs: running down the latest
+	- They moved away from the desktop without capturing the market fully.
+	- The move to Gnome may have a good and bad impact:
+		- New Ubuntu users only knows Unity
+		- There seems to be the need to look more attractive to investors
+		- 
+
+
 Graduates, Your Resume Needs Validation √
 ================================
 	- Introduction
@@ -71,6 +83,7 @@ Graduates, Your Resume Needs Validation √
 
 TODO:
 =============
+	- On list view, set date and read time in a new line
 	- Read about fonts and typeface.. Improve the current settings
 	- Setup Next & Previous Button on Each Blog Post. : Prevent folks from going back to view content √
 	- Create a page: Writing&Speaking √
