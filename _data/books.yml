@@ -1,0 +1,48 @@
+- name: Rich Dad Poor Dad
+  author: Robery Kiyosaki
+  read: 2015
+  cover: /images/books/rich-dad-poor-dad.jpg
+  summary: Some information
+  personal-impact: IT has helped me to realise 
+
+- name: Running Lean
+  author: Ash Maurya
+  read: 2015
+  cover: /images/books/running-lean.jpg
+  summary: THis is the summary aodn fasdofn asdof sodaf noasd nfosad nfoasn dfosa fdo fmsd fdosdmf osdf msdofm sdof msdfo msdfomds fosdm 
+  personal-impact: This is the personal-impact aodn aondf aosdn faosd nfosdn foasd nfoasd nfoasdn fa sodan fodn afon adf 
+
+- name: Nudge
+  author: Richard H. Thaler
+  read: 2015
+  cover: /images/books/nudge.jpg
+  summary:
+  personal-impact:
+
+- name: How To Make Money With Stocks
+  author: William J. O'Neil
+  read: 2016
+  cover: /images/books/how-to-make-money-with-stocks.jpg
+  summary:
+  personal-impact:
+
+- name: The Bible (New Testement)
+  author: The Message
+  read: 2016
+  cover: /images/books/the-message-bible.jpg
+  summary:
+  personal-impact:
+
+- name: The Healing Wonders of Herbs
+  author: Herminia de Guzman-Ladion
+  read: 2014
+  cover:  /images/books/healing-wonders-of-herbs.jpg
+  summary:
+  personal-impact:
+
+- name: The Virgin Way
+  author: Richard Branson
+  read: 2017
+  cover: /images/books/the-virgin-way.jpg
+  summary:
+  personal-impact:

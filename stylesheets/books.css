@@ -1,0 +1,38 @@
+#main-content .books img {
+	border: none;
+	outline: none;
+	padding: 0;
+	margin: 0;
+}
+
+.books a, .books div {
+	display: inline-block;
+	position: relative;
+}
+.books .book-content {
+	display: none;
+	width: 300px;
+}
+
+.book-cover-wrapper, .book-content-wrapper {
+	float: left;
+	padding: 10px;
+}
+
+.book-cover-wrapper {
+	border-right: 1px solid #cacaca;
+}
+
+.book-content-wrapper {
+	min-width: 400px;
+	max-width: 450px;
+}
+.book-content-wrapper h2 {
+	padding-top: 0;
+	margin-top: 0;
+	color: #2879d0;
+}
+.book-content-wrapper p span {
+	font-size: 12px;
+	color: #2879d0;
+}
