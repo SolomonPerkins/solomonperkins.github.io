@@ -36,7 +36,7 @@ Traditionally speaking, we've been taught that the steps required in getting a g
 <br/>
 **The Caveats**
 
-I agree that the traditional approach can land you a job but the issue lies in it's effectiveness in communicating your worth to the interested party. Let us identify a few pitfalls in this approach. 
+I agree that the traditional approach can land you a job but the issue lies in its effectiveness in communicating your worth to the interested party. Let us identify a few pitfalls in this approach. 
 
 1. The first issue is that getting all A's doesn't necessarily equate to you being competent within a particular field of study - I can swat my way to the top. 
 
