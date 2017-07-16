@@ -39,9 +39,9 @@ Traditionally speaking, we've been taught that the steps required in getting a g
 <br/>
 **The Caveats**
 
-I agree that the traditional approach can land you a job but the issue lies in it's effectiveness in communicating your worth to the interested party. Let us identify a few pitfalls in this approach. 
+I agree that the traditional approach can land you a job but the issue lies in its effectiveness in communicating your worth to the interested party. Let us identify a few pitfalls in this approach. 
 
-1. The first issue is that getting all A's don't necessarily equate to you being competent within a particular field of study - I can swat my way to the top. 
+1. The first issue is that getting all A's doesn't necessarily equate to you being competent within a particular field of study - I can swat my way to the top. 
 
 2. The next issue is around marketing your skills on your resume and CV. Think of an interview as doing a 5 minutes elevator pitch without samples of your work. Having just a resume lacks prototype, the interviewer spends more time identifying your abilities as opposed to validating your skills. 
 
@@ -50,13 +50,13 @@ I agree that the traditional approach can land you a job but the issue lies in i
 <br/>
 **My Advice**
 
-The approach I'm about to outline is not based on any scientific data/research, they are based on my personal experience and what worked for me - challenging the status quo worked. I also noticed that the current shift in the business industry supplements these points. So let us get on with the show:
+The approach I'm about to outline is not based on any scientific data/research, it is based on my personal experience and what worked for me - challenging the status quo worked. I also noticed that the current shift in the business industry supplements these points. So let us get on with the show:
 
 1. First thing, find a summer job in your field. This is an important step as it will aid in connecting your course material to the real world. Sometimes landing a paid summer job maybe a challenge, so volunteering is the next best option. Besides volunteering maybe the better option in the long run. Either way it is a win-win as it will improve your professional network while providing hands-on experience.
 
 2. Bang out a few side projects. Irrespective of your specialisation there is always a side project you can do that will showcase your skills and understanding. This will not only help in showcasing your talent but you may learn a thing or two. As a word of encouragement a lot of business ideas started out as side projects.
 
-3. That coursework still has value. Of all the courses you've done, I'm sure there were a few course related projects. Package them to be more presentable is a great idea even if they aren't at the professional level - learning your craft maybe untidy at first. Be sure to check if your school is ok with you using those course materials - don't be ignorate, go check.
+3. That coursework still has value. Of all the courses you've done, I'm sure there were a few course related projects. Package them to be more presentable is a great idea even if they aren't at the professional level - learning your craft maybe untidy at first. Be sure to check if your school is ok with you using those course materials - don't be ignorant, go check.
 
 4. Time to consolidate your work. After you've done such a tremendous work gaining practical experience it is now time to package and summarise what you've done thus far. Irrespective of your feild of study you can represent your materials in various forms: graphs, summary, pictures etc. Take for example a law student: simple graphs showing hidden patterns in court cases that you've noticed works. I recommend creating a blog or portfolio (similar to what I did [here](https://drive.google.com/file/d/0B55XR_CXXBd8OXRzZFpMcHFGQlU/view?usp=sharing){:target="_blank"}). Essentially providing visual proof of your capabilities.  
 
@@ -74,7 +74,7 @@ As a form of disclaimer, I have no formal qualification in recruitment or human 
 <br/>
 <br/>
 
-Essentially this approach ensured that your skills takes precedence and the resume acts as a reference point or a matter of formality. Irrespective of your career field there is a way for you to express your skills. 
+Essentially this approach will ensure that your skills take precedence and the resume acts as a reference point or a matter of formality. Irrespective of your career field there is a way for you to express your skills. 
 
 > Besides action speaks louder than words.
 
