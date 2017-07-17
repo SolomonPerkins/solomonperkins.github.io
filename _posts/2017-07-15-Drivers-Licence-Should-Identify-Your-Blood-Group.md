@@ -18,7 +18,8 @@ Less than a year ago I got my license and it is by no stretch an achievement for
 <br/>
 <br/>
 !["Road Safety Unity Statistics"](/images/blog/road-accidents-stats.jpg "The Road Safety Unit Stats. on Accidents")
-According to data form the [Road Safety Unity in Jamaica, an average of 333 people died on our roads between 2005-2015](https://twitter.com/RoadSafetyJA/status/812347864886235136){:target="_blank"}. Last year (2016) report showed that 377 people were killed and they are expecting a 15% (321 deaths) this year - [Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20170104/road-fatalities-decline-2016-safety-unit-projects-further-decrease){:target="_blank"}. I'm not an expert, but I believe that there are multiple factors contributing to this high number:
+According to data form the [Road Safety Unity in Jamaica, an average of 3,654 people died on our roads between 2005-2015](https://twitter.com/RoadSafetyJA/status/812347864886235136){:target="_blank"}. Last year (2016) report showed that 377 people were killed and they are expecting a 15% (321 deaths) this year - [Jamaica Gleaner](http://jamaica-gleaner.com/article/news/20170104/road-fatalities-decline-2016-safety-unit-projects-further-decrease){:target="_blank"}. I'm not an expert, but I believe that there are multiple factors contributing to this high number:
+
 
 1. Road users (passengers,drivers & cyclists) aren't wearing the safety gears.
 2. Drivers aren't obeying the speed limit and [pedestrians are being affected](https://twitter.com/RoadSafetyJA/status/863428949564674048){:target="_blank"}. 
