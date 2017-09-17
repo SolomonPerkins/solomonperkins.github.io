@@ -15,6 +15,9 @@
   <!-- <p>
     <a class="anchor" href="/projects" aria-hidden="true">Projects</a>
   </p> -->
+  <!-- <p>
+    <a class="anchor" href="/books" aria-hidden="true">Books</a>
+  </p> -->
   <p>
     <a href="/blog">Blog</a>
   </p>
@@ -40,6 +43,10 @@
 <script type="text/javascript" src="{{ site.baseurl }}/javascripts/vertical-timeline.js"></script>
 {% endif %}
 
+{% if page.meta == "books" %}
+  <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.2/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+{% endif %}
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
@@ -47,4 +54,3 @@
     enable_page_level_ads: true
   });
 </script>
-

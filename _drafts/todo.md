@@ -8,6 +8,60 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+My House is Off-Grid (DIY Project)
+=====================
+	- How it all started
+		- In life there are always push factors.
+		- 
+	- Why I Choose Off-Grid
+		- Decentralize electricity
+		- ROI seemed feasible.
+		- We don't have stable power in the country area.
+		- Regular increase in electricty bill.
+		- Companies are subsidising their electricity bill.
+		- No tax on renewable energy products.
+		- It is right for the environment.
+	- The Journey Began.
+		- Research about the technology.
+		- Find people with similar passion.
+			- Kimroy Bailey, Co-Worker Andrew Hall
+		- Have dialog and conversation with co-workers.
+		- Become facinated with the technology: Travelling and looking for setups.
+		- Did a twitter moments on the few I know about.
+	-  Market Research & Resource Allocation:
+		- Doing market research was a roller coaster ride. 
+		- Went to a couple dealers, most was for the high-end customers.
+		- To my liking found: CyberMedia, GetSol, FosRich, Pegasus Traders and Kimroy Bailey.
+		- Resource allocation took a year to complete.
+	-  Design/Installation
+		- After watching 100s of videos on youtube, reading countless experts it was time to design my very own system.
+		- Design consideration: flexibility, scalability, extend current infrastructure. 
+		- All things considered I ended up designing the system to accommodate to run the following:
+			- A refridgerator, LCD TV, Radio, ~4 light
+		- For implementation, finding an electrical expert wasn't difficulty. One of my best friends: Kenel Douglas - electrician lived close by.
+		- Installation was done in a phase by phase basis started on Saturday September 9, 2017 and ended the following Sunday.
+		- Essentially installation involves: setup equiptment, wiring and pv panel installation (in that order).
+		- 
+	- Reactions
+		- I did this all for my dad and boy-was he happy. For each item I turned on all we could here was my dad saying "thanks man many thanks", weather it was the Tv, lights, radio or the refridgerator.
+		- For me I was impressed as I finally completed this project after all our hardwork we finally did it - Thank God!
+	- System Caveats:
+		- As you know solar system runs off the sun and so if you don't have any sunshine then you know what that means. System was designed to sustain 1night and 4hours without sun.
+		- High energy consumption activies such as ironing, must be done in the day time.
+		- 
+		
+
+
+God Code!
+=========
+	- The fix that fix them all.
+	- How sometimes you shouldn't worry about your problems.
+	- Objective of the story
+	- Product Deploy was coming up, defect stack was high.
+	- It wasn't working the night
+	- Following morning prayed
+	- Went to work, didn't change anything.. Issues were fixed.
+	-
 Shuttleworth Pulling Down The Unity Shutters
 ============================================
 	- http://www.zdnet.com/article/mark-shuttleworth-considering-canonical-ipo/
@@ -17,8 +71,38 @@ Shuttleworth Pulling Down The Unity Shutters
 	- The move to Gnome may have a good and bad impact:
 		- New Ubuntu users only knows Unity
 		- There seems to be the need to look more attractive to investors
-		- 
 
+		
+
+Driver's Licence should have your blood group √
+============================================
+[Reference](https://medlineplus.gov/ency/article/003345.htm)
+ 	- Introduction
+ 		- Less than a year ago I got my license and it is by no stretch an achievement for me.
+ 		I've been driving cows and goats from an early age so driving a machine is not such a huge challenge.
+ 		- In all seriousness I believe we should have our blood group on the driver's license as it could help to save the lives in case of a life-threatening accident.
+
+ 	- It is no accident why we have so many Accidents
+ 		- "Increase in accidents" Based on statistics form the [transport authority]('FIND LINK'), there has been a constant increase in the number of accidents on our roads.
+ 		- More vechile are on the road and the road surface area in towns and cities remain constant. - just increase the chance
+ 		- Most are being taught hit the throttle fast and brake late, but not to handle the vechile during difficult situations.
+ 		- Most aren't obeying the speed limits. Even in areas where this is most important, schools, hospitals etc. It is sad to know that so many lives are being lost
+ 		- Yes the culture, fast driving is cool and if you are a slow driver you are a sissy!
+ 		- DUI.. of substances which will affect your ability to manage the vehile is also annother issue
+
+ 		Combining these factors provides a clear reason as to why there are so many accidents on our roads.
+
+ 	- Saves Time
+ 		- Your blood group is very important and you should know yours - I'm serious guys.
+ 		- Having it on the driver's license will provide faster access to that information in a situation where time is of the essence.
+ 		- In the event of a critical accident which requires time is of the essence blood type by just viewing their license takes less time when compared to doing a blood test [ABO test](Find LINK)
+ 		- In case of a serious accident having all the information up from could help to save a life.
+ 		- Outside of that it may help you to remember/know your blood type so you may help others in time of need.
+
+ 	- 
+ 	I do understand that this idea may not be a priority at the moment but is the little things that will make the system works better. The roads are becoming ever more dangerious, even the dogs & mangooses are taking note so let us do our part to
+
+ 	
 
 Graduates, Your Resume Needs Validation √
 ================================
