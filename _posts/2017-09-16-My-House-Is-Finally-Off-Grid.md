@@ -14,11 +14,8 @@ introduction: When life gives you lemons, make lemonade. This statement is direc
 
 > ["When life gives you lemons, make lemonade"](https://en.wikipedia.org/wiki/When_life_gives_you_lemons%2C_make_lemonade). 
 
-<<<<<<< HEAD
-This statement is directly applicable to my life, as our power was disconnected (literally blown-off) from the main power line in early 2015. In looking back this unfortunate incident turned out to be a blessing and so this is a story of how we managed to install a fully functioning off-grid solar panel renewable energy system. **Let me show you how I turned my darkness into sweet-sunshine.**
-=======
+
 This statement is directly applicable to my life, as our power got disconnected (literally blown-off) from the main power line in early 2015. In looking back this unfortunate incident turned out to be a blessing and so this is a story of how we managed to install a fully functioning off-grid solar panel renewable energy system. **Let me show you how I turned my darkness into sweet-sunshine.**
->>>>>>> my-off-grid
 
 Just for context, this installation was done on a two-bed room house in Clarendon with an average electricity bill at ~$5,000/mon. The main purpose of this blog is to tell you how I did it and in a future post will explain why you should also consider using renewable energy.
 
