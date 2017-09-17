@@ -10,7 +10,7 @@ introduction: When life gives you lemons, make lemonade. This statement is direc
 ---
 !["Off Grid Project"](/images/blog/house-off-grid-header.jpg)
 <br/>
-**How it all started**
+**How It All Started**
 
 > ["When life gives you lemons, make lemonade"](https://en.wikipedia.org/wiki/When_life_gives_you_lemons%2C_make_lemonade). 
 
@@ -88,7 +88,7 @@ Let me explain a few caveats:
 
 
 <br/>
-**The Financials**
+**Cost and ROI**
 
 So you might be asking what is the cost of a project like this?
  
