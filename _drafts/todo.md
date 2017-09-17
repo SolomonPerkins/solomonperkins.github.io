@@ -62,6 +62,7 @@ God Code!
 	- Following morning prayed
 	- Went to work, didn't change anything.. Issues were fixed.
 	-
+
 Shuttleworth Pulling Down The Unity Shutters
 ============================================
 	- http://www.zdnet.com/article/mark-shuttleworth-considering-canonical-ipo/
@@ -71,8 +72,6 @@ Shuttleworth Pulling Down The Unity Shutters
 	- The move to Gnome may have a good and bad impact:
 		- New Ubuntu users only knows Unity
 		- There seems to be the need to look more attractive to investors
-
-		
 
 Driver's Licence should have your blood group √
 ============================================
