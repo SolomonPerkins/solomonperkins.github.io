@@ -5,7 +5,7 @@ tags: off-grid renewable solar energy jamaica electricity
 date: 2017-09-16
 read_time: 8 min
 header_image: /images/blog/house-off-grid-header.jpg
-introduction: When life gives you lemons, make lemonade. This statement is directly applicable to my life, as our power got disconnected (literally blown-off) from the main power line in early 2015. In looking back this unfortunate incident turned out to be a blessing and so this is a story of how we (my friend and I) managed to install a fully functioning off-grid solar panel renewable energy system. Let me show you how I turned my darkness into sweet-sunshine!
+introduction: When life gives you lemons, make lemonade. This statement is directly applicable to my life, as our power got disconnected (literally blown-off) from the main power line in early 2015. In looking back this unfortunate incident turned out to be a blessing and so this is a story of how I managed to install a fully functioning off-grid solar panel renewable energy system. Let me show you how I turned my darkness into sweet-sunshine!
 
 ---
 !["Off Grid Project"](/images/blog/house-off-grid-header.jpg)
@@ -15,7 +15,7 @@ introduction: When life gives you lemons, make lemonade. This statement is direc
 > ["When life gives you lemons, make lemonade"](https://en.wikipedia.org/wiki/When_life_gives_you_lemons%2C_make_lemonade). 
 
 
-This statement is directly applicable to my life, as our power got disconnected (literally blown-off) from the main power line in early 2015. In looking back this unfortunate incident turned out to be a blessing and so this is a story of how we (my friend and I) managed to install a fully functioning off-grid solar panel renewable energy system. **Let me show you how I turned my darkness into sweet-sunshine.**
+This statement is directly applicable to my life, as our power got disconnected (literally blown-off) from the main power line in early 2015. In looking back this unfortunate incident turned out to be a blessing and so this is a story of how I managed to install a fully functioning off-grid solar panel renewable energy system. **Let me show you how I turned my darkness into sweet-sunshine.**
 
 Just for context, this installation was done on a two-bed room house in Clarendon with an average electricity bill at ~$5,000/mon. The main purpose of this blog is to tell you how I did it and in a future post will explain why you should also consider using renewable energy.
 
@@ -23,7 +23,7 @@ Just for context, this installation was done on a two-bed room house in Clarendo
 
 **Why I Went Off-Grid**
 
-After we lost power in early 2015, due to one of the neighbours overloading the powerline with his sound system, I had to figure out how to provide power to the house. During that time I wasn't thinking about solar and so we spend the next couple months sourcing power from another neighbour. They would share their electricity and we would in turn contribute to their monthly bills. As time went on, the agreement became chaotic and we needed another option. Fortunately for us, a well-known community member was distributing some small 10W (Watt) solar system. These were powerful enough to only provide basic lighting and to charge electronic devices. So opted to take one of these systems while asking our neighbours to assist with ironing & refrigeration. This new arrangement went on from early 2016 to __September 10, 2017__.
+After we (my dad and I) lost power in early 2015, due to one of the neighbours overloading the powerline with his sound system, I had to figure out how to provide power to the house. During that time I wasn't thinking about solar and so we spend the next couple months sourcing power from another neighbour. They would share their electricity and we would in turn contribute to their monthly bills. As time went on, the agreement became chaotic and we needed another option. Fortunately for us, a well-known community member was distributing some small 10W (Watt) solar system. These were powerful enough to only provide basic lighting and to charge electronic devices. So opted to take one of these systems while asking our neighbours to assist with ironing & refrigeration. This new arrangement went on from early 2016 to __September 10, 2017__.
 
 In June of 2016, I saw the potential of the small 10W system and I realised the practicality of renewable energy in providing a reliable source of power for the house. During that time I was also thinking about reapplying for a new JPS connection, however the idea of using off-grid was a more feasible option. Here are some of the push & pull factors which solidified my decision:
 
