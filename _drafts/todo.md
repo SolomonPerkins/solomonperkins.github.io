@@ -8,6 +8,61 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+My House is Off-Grid (DIY Project)
+=====================
+	- How it all started
+		- In life there are always push factors.
+		- 
+	- Why I Choose Off-Grid
+		- Decentralize electricity
+		- ROI seemed feasible.
+		- We don't have stable power in the country area.
+		- Regular increase in electricty bill.
+		- Companies are subsidising their electricity bill.
+		- No tax on renewable energy products.
+		- It is right for the environment.
+	- The Journey Began.
+		- Research about the technology.
+		- Find people with similar passion.
+			- Kimroy Bailey, Co-Worker Andrew Hall
+		- Have dialog and conversation with co-workers.
+		- Become facinated with the technology: Travelling and looking for setups.
+		- Did a twitter moments on the few I know about.
+	-  Market Research & Resource Allocation:
+		- Doing market research was a roller coaster ride. 
+		- Went to a couple dealers, most was for the high-end customers.
+		- To my liking found: CyberMedia, GetSol, FosRich, Pegasus Traders and Kimroy Bailey.
+		- Resource allocation took a year to complete.
+	-  Design/Installation
+		- After watching 100s of videos on youtube, reading countless experts it was time to design my very own system.
+		- Design consideration: flexibility, scalability, extend current infrastructure. 
+		- All things considered I ended up designing the system to accommodate to run the following:
+			- A refridgerator, LCD TV, Radio, ~4 light
+		- For implementation, finding an electrical expert wasn't difficulty. One of my best friends: Kenel Douglas - electrician lived close by.
+		- Installation was done in a phase by phase basis started on Saturday September 9, 2017 and ended the following Sunday.
+		- Essentially installation involves: setup equiptment, wiring and pv panel installation (in that order).
+		- 
+	- Reactions
+		- I did this all for my dad and boy-was he happy. For each item I turned on all we could here was my dad saying "thanks man many thanks", weather it was the Tv, lights, radio or the refridgerator.
+		- For me I was impressed as I finally completed this project after all our hardwork we finally did it - Thank God!
+	- System Caveats:
+		- As you know solar system runs off the sun and so if you don't have any sunshine then you know what that means. System was designed to sustain 1night and 4hours without sun.
+		- High energy consumption activies such as ironing, must be done in the day time.
+		- 
+		
+
+
+God Code!
+=========
+	- The fix that fix them all.
+	- How sometimes you shouldn't worry about your problems.
+	- Objective of the story
+	- Product Deploy was coming up, defect stack was high.
+	- It wasn't working the night
+	- Following morning prayed
+	- Went to work, didn't change anything.. Issues were fixed.
+	-
+
 Shuttleworth Pulling Down The Unity Shutters
 ============================================
 	- http://www.zdnet.com/article/mark-shuttleworth-considering-canonical-ipo/
@@ -17,9 +72,9 @@ Shuttleworth Pulling Down The Unity Shutters
 	- The move to Gnome may have a good and bad impact:
 		- New Ubuntu users only knows Unity
 		- There seems to be the need to look more attractive to investors
-		- 
+		
 
-Driver's Licence should have your blood group
+Driver's Licence should have your blood group √
 ============================================
 [Reference](https://medlineplus.gov/ency/article/003345.htm)
  	- Introduction
