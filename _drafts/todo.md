@@ -8,6 +8,64 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+2017, An Epic Year in Review
+============================
+	Its the season for new year resolution, but I'm taking a different route. This time around I'll focus on relecting on how blessed 2017 has been for me and my family.
+
+	- I Jumped the broom.
+		- My favourite, love your life perfect your life. 
+		- I married my best friend.
+		- The best decision I've made since year.
+		- Life is too short and if you have someone great in your corner
+
+	- Being the Best Man For Two of My Friends Wedding
+		- The year of wedding bliss for my friends as well.
+		- Wasn't planned this way, it just happened.
+		- Being the best man for two of my friends wedding was a humbling experience.
+
+	- My largest donation.
+		- In 2016 I gave away small raspberry pi computers to my primary school.
+		- We (my wife and I) opted to sponsor a student who'll be matriculating into high school.
+		- We were able to provide a scholarship to the most improved student for 2017, Janice.
+		- The scholarship was valued at 20,000 and it was suffienet to cover her books.
+		- We went a step further and became her mentor.
+
+	- House is fully off grid.
+		- It so happened that I was able to get all the pieces of my off grid project and this is the year my house went off grid.
+		- In [this grid post] I explained how and why I did it.
+		-  
+
+	- Sharing The "Renewable Dream"
+		- Renewable energy living is not just an idea it is a lifestyle.
+		- I started focusing on sharing energy tips and suggestions to my co-workers.
+		- Started selling the best solar powered flashlights.
+		- Changed out all the light bulbs to LEDs
+		- Share the experience with friends.
+		- I hope that more Jamaicans should subsidize their energy bill
+		- To top it off, the Renewable energy conference held in New Kingston was a great experience.
+		- 
+
+	- Got My First Pair of Wallabee Clarks.
+		- This one is for my childhood.
+		- Clarks is a big thing in Jamaica. We love the quality shoes and our music culture endorses it.
+		- Ever since highschool I wanted to own my every own Clarks. 
+		- Including the kit directly from the manufacture.
+		- Getting not only but three Clarks is a great feeling.
+
+	- Purchased My First Linux based Laptop.
+
+	- 5K Walk Run - Food For the Poor
+		- Food for the Poor is an excellent non-profit organisation, geared towards the irradiaction of poverty in Jamaica. 
+		- They wanted to build 700 (verify with link) for homeless.
+		- To top it off each home will have a small solar system (The "Renewable Dream")
+		- With the help of donors and a couple thousand citizens, Food for the Poor achieved their goal.
+		- Keep up the good work and I look forward to another 5k.
+
+	- Enjoying Our History & Culture
+		- Millions of people visit the island on a yearly basis to soak-up our rich culture & heritage.
+		- This year I started my catalog of Jamaican plays
+
+
 My House is Off-Grid (DIY Project)
 =====================
 	- How it all started
