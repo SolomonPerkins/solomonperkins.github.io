@@ -5,7 +5,7 @@ tags: renewable, fire, safety, flashlight, hybridlights, solar, renewableenergy,
 date: 2018-02-10
 read_time: 5 min
 header_image: /images/blog/open-letter-to-prime-minister-of-jamaica-no-more-kerosene-lamps.png
-introduction: Open Letter To Prime Minister of Jamaica. Regarding No More Kerosene Lamps or Candles.
+introduction: This letter is in support of the program aimed at replacing traditional light sources with safe alternatives for residents living in vulnerable communities.
 ---
 
 
