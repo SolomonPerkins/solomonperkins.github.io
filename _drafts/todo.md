@@ -8,7 +8,53 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
-2017, An Epic Year in Review
+?? Car Ownership Lasting Longer Than Marriages = Unimportant blog post / so why write it?.
+===========================================
+	- Gov. ensure you take the right steps.
+	- Gov. will give you a license to marry someone in a few seconds.
+	- 
+
+
+
+Renewable Light Source - Open Letter to our Prime Miniter
+========================================================
+	- Another fire: <iframe width="505" height="379" src="https://www.youtube.com/embed/APOum-0VCgQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	- Government seeking to encourage: https://pbs.twimg.com/media/DUl9W1-UQAAIBTO.jpg
+	- Statistics supporting the need for proactive measures in the fight agains building fires: http://jamaica-gleaner.com/article/news/20170615/more-2000-jamaicans-left-homeless-fire-2016
+
+	- Introduction
+		- What is the purpose of this letter
+			- In light of the recent fire which claimed the lives two innocent lives.
+			- I pause to express my condolences to the family and and friend of those who we've     
+		
+		- What I intend to contribute on this said matter.
+			- I also wish to commend the effort you & your team in making the home a much safe place by replacing traditional forms of light source such as kerosine lamp.
+			- I've been using and sharing the benefits of affordable renewable energy products and I wish to share my thoughts and the benefits.  
+
+	- Introducing the products
+		- A flashlight and mini-solar energy system are two renewable energy products I wish to share my thoughts on 
+		- These products ranges from hand held devices to mini-portable home systems.
+		- Hand Held/Portable devices.
+
+	- Explain the benefits of each
+
+	- How my family has benefitted.
+	
+
+	- Fires affecting Family Foundation
+		- Talk about the statistics.
+		- How this impacts family life
+		- How this impact the economy
+
+	- What Can We Do
+		- Educating the population
+			- The Jamaican Fire Brigade as done an eductional campaign: http://jis.gov.jm/jamaica-fire-brigade-reports-success-campaign/
+		- Expo will provide information, however we are a practical set of people.
+		- Providing access to these products is of great importance.
+
+
+
+2017, An Epic Year in Review √
 ============================
 	Its the season for new year resolution, but I'm taking a different route. This time around I'll focus on relecting on how blessed 2017 has been for me and my family.
 
@@ -66,7 +112,7 @@ introduction:
 		- This year I started my catalog of Jamaican plays
 
 
-My House is Off-Grid (DIY Project)
+My House is Off-Grid (DIY Project) √
 =====================
 	- How it all started
 		- In life there are always push factors.
