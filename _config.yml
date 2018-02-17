@@ -43,7 +43,7 @@ sass:
   style: :compressed
 
 # Install the gem required to handle archive
-gems: [jekyll-archives, jekyll-paginate]
+plugins: [jekyll-archives, jekyll-paginate]
 
 jekyll-archives:
   enabled: []
@@ -62,7 +62,7 @@ jskills:
   - javascripts/skills.js
 
 #Pagination configs
-paginate: 7
+paginate: 10
 paginate_path: "/page:num/index.html" 
 
 #Footer links
