@@ -25,16 +25,16 @@ layout: default
 
 
 <!-- Pagination links -->
-<div class="pagination">
+<div class="pagination page-navigation">
 	{% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page }}" class="pager previous">&rsaquo; prev</a>
+		<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pager previous prev-navigator navigator">&laquo; Newer</a>
 	{% else %}	
-		<!-- <span class="pager previous disabled">prev</span> -->
+		<span class="pager previous disabled navigator prev-navigator">&nbsp;</span>
 	{% endif %}
-	<!-- <span class="page_number"> | {{ paginator.page }} of {{ paginator.total_pages }} |</span> -->
+	<span class="page_number"><small>/ {{ paginator.page }} of {{ paginator.total_pages }} /</small></span>
 	{% if paginator.next_page %}
-		<a href="{{ paginator.next_page }}" class="pager next">prev</a>
+		<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/'}}" class="pager next next-navigator navigator">Older &raquo;</a>
 	{% else %}
-		<!-- <span class="pager next disabled">next &rsaquo;</span> -->
+		<span class="pager next disabled navigator next-navigator">&nbsp;</span>
 	{% endif %}
 </div>
