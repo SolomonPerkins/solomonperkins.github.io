@@ -12,16 +12,53 @@ The Delicate Balance of Life
 ============================
 
 
-
-?? Car Ownership Lasting Longer Than Marriages = Unimportant blog post / so why write it?.
+Performance Testing - Scaling our Online Services √
 ===========================================
-	- Gov. ensure you take the right steps.
-	- Gov. will give you a license to marry someone in a few seconds.
-	- 
+	- Objective:
+		- While we transform our society to become more tech savvy, we should focus on the capacity of these systems.
+		- Great emphasis should be placed on the critical services such as: Tax, bill payment systems, pension management systems, health and other essential govenment services.
+	
+	- What is Performance Testing:
+		- Similar to food industry the food inspector validates the rediness of the food for human consumption. So it performance testing to applications.
+		- Figuring out the capacity of the system is called performance testing.
+		- Having true visiblity in your system becomes evermore relevant based on the importance of the infrastructure.
+		- It is a technique/practice used to understand: how many/where may break your system.
+		- The end result is a report.
+
+
+    - What Prompted This Article:
+    	- Jamaica Champs2018 and the # of folks complaining about the poor performance of TVJ online stream service (https://twitter.com/nigeeeeeeee/status/977724814801555456).
+    	- During the streaming they also notified of technical difficulties (https://twitter.com/garveygirl/status/977767402803990528) and (https://twitter.com/ricksocool/status/977863268575449090).
+    	- Throught this article will use this incident as point of reference to acknowledge the relevance of capacity planning. Also assumptions and evaluations done are based on my assumptions.
+    
+    - What If..
+    	- Champs is just a couple days event and majority of the viewers watch it via TV
+    	- Escalate this issue at a government service level.
+    	- What if it happened when majority of the citizens decides to utilize a public service at any given time?
+    		- Case in point: all dilenquent traffic offenders decides to pay their finds online at the final minute.
+    	- If you think these situations won't happen, consider these incidents:
+    		- Affordable Care Act (Obama Care Roll out)
+    		- ...
+
+
+    - The Relevance:
+    	- As the population increases & the economy continues to grow the pop. will gravitate to online services.
+    	- Trust, Confidence and availability are important NFRs consumers value dearly.
+    	- Consumers are being exposed to online services. They expect the same standard at home.
+    
+    - Mitigation Strategies:
+    	- Integrating performance testing as a requirement for all essential IT contracts. 
+    	- This could be included as a checklist to be carried out in the final phase of a project.
+    	- Revsion and system check should be done based on key population data eg. population increases.
+    	
+
+    "When trouble a come shell nuh blow", let us heed that warning from my grandmother and anticipate these pitfalls expereinced by companies/government worldwide.  
 
 
 
-Renewable Light Source - Open Letter to our Prime Miniter
+
+
+Renewable Light Source - Open Letter to our Prime Miniter √
 ========================================================
 	- Another fire: <iframe width="505" height="379" src="https://www.youtube.com/embed/APOum-0VCgQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	- Government seeking to encourage: https://pbs.twimg.com/media/DUl9W1-UQAAIBTO.jpg
