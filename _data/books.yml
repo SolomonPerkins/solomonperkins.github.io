@@ -1,48 +1,78 @@
+- name: The Healing Wonders of Herbs
+  author: Herminia de Guzman-Ladion
+  read: 2014
+  cover:  /images/books/healing-wonders-of-herbs.jpg
+  summary: Herbs have the same benefits today as they did in the past. This is a book sharing how we can cure simple ailments with use of water and other type of herbs.
+  personal-impact: Before my grandmother passed away, she taught me about herbs and their different health benefits. I however took that knowledge for granted, so now I'm grateful to have recooperated a portion of it. My aim is to have this information available to the public (if possible).
+
+
 - name: Rich Dad Poor Dad
   author: Robery Kiyosaki
   read: 2015
   cover: /images/books/rich-dad-poor-dad.jpg
-  summary: Some information
-  personal-impact: IT has helped me to realise 
+  summary: This is the most powerful book I've ever read around financial education and how to understand the unwrittern rules around your finance. It tells a story about a young man and his friend how had two fathers. 
+  personal-impact: I over-heard my past workers expressing their interest in this book. This book changed my life. I no longer think about $ as the 99% of the population do. My financial education started as a result of this book.
 
 - name: Running Lean
   author: Ash Maurya
   read: 2015
   cover: /images/books/running-lean.jpg
-  summary: THis is the summary aodn fasdofn asdof sodaf noasd nfosad nfoasn dfosa fdo fmsd fdosdmf osdf msdofm sdof msdfo msdfomds fosdm 
-  personal-impact: This is the personal-impact aodn aondf aosdn faosd nfosdn foasd nfoasd nfoasdn fa sodan fodn afon adf 
+  summary: Build, Measure, Learn are the key concepts when testing any business idea. It teaches entreprenures how to iterate & test the problem-solution fit in the most effecient manner.
+  personal-impact: It taught me about the bigger picture of how to first find the customer and build the product around them. To this day all my personal projects are done using this level of iteration.
 
 - name: Nudge
   author: Richard H. Thaler
   read: 2015
   cover: /images/books/nudge.jpg
-  summary:
-  personal-impact:
+  summary: As the name suggests, it encourages its audience to change their view about society by taking small steps. The simple action may not have large impact but with time they can form the foundation for success.
+  personal-impact: When I'm unable to complete a task, I often think about the smallest action I can take which would get me closer to the goal.
 
 - name: How To Make Money With Stocks
   author: William J. O'Neil
   read: 2016
   cover: /images/books/how-to-make-money-with-stocks.jpg
-  summary:
-  personal-impact:
+  summary: A comprehensive guide on how to identify all the key indicators when trading on the stock market. 
+  personal-impact: Learn about the important data points integral when trading. The historial lessons gave good insights on how trade. 
 
 - name: The Bible (New Testement)
-  author: The Message
+  author: The Most High?
   read: 2016
   cover: /images/books/the-message-bible.jpg
-  summary:
-  personal-impact:
-
-- name: The Healing Wonders of Herbs
-  author: Herminia de Guzman-Ladion
-  read: 2014
-  cover:  /images/books/healing-wonders-of-herbs.jpg
-  summary:
-  personal-impact:
+  summary: The Christian holy book.
+  personal-impact: Creates that inner peace which helps me go through the daily challenges. This holy book taught me how to care for others and how to workship the Most High. It must be authored by a higher being as it is the only book which governs our life irrespective of your generation, culture or ethnicity.
 
 - name: The Virgin Way
   author: Richard Branson
   read: 2017
   cover: /images/books/the-virgin-way.jpg
-  summary:
-  personal-impact:
+  summary: A leadership book teaching how to achieve your goals through the eyes of Richard Branson. This powerful book provide a full account of all the challenges he went through during the process.
+  personal-impact: The book encourages me to follow my passion irrespective of what others may think or say. It also prepares me for the challenges ahead and how to overcome them.
+
+- name: The Go Giver
+  author: Bob Burg and John David Mann
+  read: 2017
+  cover: /images/books/the-go-giver.jpg
+  summary: A little story about a powerful Idea and how the five laws of stratospheric success ( The Law of ..Value, Compensation, Influence, Authencity and Receptivity) propelled him to great heights.
+  personal-impact: This book made me shed a tear. This book has such a lasting impact on my life, up to this day I'm governed by the lessons it has taught me. I've tried and proven all five laws multiple times and for that I say it is a must read.
+
+- name: 5 Step To Getting What You Want Out Of Life
+  author: Kemal Brown
+  read: 2017
+  cover: /images/books/5-steps-to-getting-what-you-want-out-of-life.jpg
+  summary: A quick top 5 recommened action you should take in order to achieve what you hope for in life. In this book Kemal share his entrepreneural experience.
+  personal-impact: I appreciate reading this book as it is from a Jamaican who has international reach. I thoroughly appreciate the advices given in this short sync.
+
+- name: Who Moved My Cheese
+  author: Dr. Spencer Johnson
+  read: 2018
+  cover: /images/books/who-moved-my-cheese.jpg
+  summary: Never get comfortable, keep looking for more opportunities even when you've achieved your initial goal. These are some of the lessons which can be found in this 30min read.
+  personal-impact: Despite it being a short book, the story line compelled me to substitue my own experience while reading it. I ended up thinking if I'd get too comfortable and stop going after new cheese.   
+
+- name: "Grab You Some Lemons: Make the Best Out of Life's Sour Moments"
+  author: Damien Marcus Williams
+  read: 2018
+  cover: /images/books/grab-you-some-lemons.jpg
+  summary: A Grenadian/Jamaican author sharing his story of how he transformed his life by turning all his challenges into opportunities.
+  personal-impact: This book encourages me to continue to server and help others as much as I can. Trusing the process and believe in your abilities and the Most High will find a way to bless you. 
+

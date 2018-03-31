@@ -1,4 +1,19 @@
 - type: writing
+  title: "System76 Lemur: My Purebred Linux Laptop"
+  location: "<a href='http://geezam.com/system-76-lemur-purebred-linux-laptop/'>System76 Lemur: My Purebred Linux Laptop</a>"
+  date: 2018-03-31
+
+- type: writing
+  title: 'Breaking News: “Government of Jamaica to Actively Pursue Greater Use of Open Source Software”'
+  location: "<a href='http://geezam.com/breaking-news-government-jamaica-actively-pursue-greater-use-open-source-software/'>Breaking News: “Government of Jamaica to Actively Pursue Greater Use of Open Source Software”</a>"
+  date: 2018-02-14
+
+- type: writing
+  title: Geezam! Barcelona Declaring Independence from Proprietary software
+  location: "<a href='http://geezam.com/geezam-barcelona-declaring-independence-proprietary-software/'>Geezam! Barcelona Declaring Independence from Proprietary software</a>"
+  date: 2018-01-22
+
+- type: writing
   title: Tertiary Institutions in Jamaica should use more Open Source
   location: "<a href='http://geezam.com/tertiary-institutions-jamaica-use-open-source/'>geezam.com</a>"
   date: 2017-04-16
@@ -30,6 +45,7 @@
   location: UTECH, Sapna
   image: /images/writing+speaking/sapna-presentation.jpeg
   date: 2013-10-10
+
 
 
 
