@@ -11,7 +11,15 @@ tags: [books]
 {% assign sorted_books = site.data.books | sort: 'read' | reverse %}
 {% for book in sorted_books %}
 	{% assign loopindex = forloop.index %}
-	<div>
+	{% if loopindex.index == 1 %}
+      {% assign prevflag = 0 %}
+      {% assign nextflag = 1 %}
+    {% elsif loopindex.index == forloop.length %}
+      {% assign prevflag = 1 %}
+      {% assign nextflag = 0 %}
+    {% endif %}
+	
+	<div class="book-item">
 		<a href="#" data-featherlight="#book-{{ loopindex }}">
 			<img src="{{ book.cover }}" alt="{{ book.name }} by {{ book.author }}"  />
 		</a>
