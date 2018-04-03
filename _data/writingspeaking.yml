@@ -1,16 +1,16 @@
 - type: writing
   title: "System76 Lemur: My Purebred Linux Laptop"
-  location: "<a href='http://geezam.com/system-76-lemur-purebred-linux-laptop/'>System76 Lemur: My Purebred Linux Laptop</a>"
+  location: "<a href='http://geezam.com/system-76-lemur-purebred-linux-laptop/'>geezam.com</a>"
   date: 2018-03-31
 
 - type: writing
   title: 'Breaking News: “Government of Jamaica to Actively Pursue Greater Use of Open Source Software”'
-  location: "<a href='http://geezam.com/breaking-news-government-jamaica-actively-pursue-greater-use-open-source-software/'>Breaking News: “Government of Jamaica to Actively Pursue Greater Use of Open Source Software”</a>"
+  location: "<a href='http://geezam.com/breaking-news-government-jamaica-actively-pursue-greater-use-open-source-software/'>geezam.com</a>"
   date: 2018-02-14
 
 - type: writing
   title: Geezam! Barcelona Declaring Independence from Proprietary software
-  location: "<a href='http://geezam.com/geezam-barcelona-declaring-independence-proprietary-software/'>Geezam! Barcelona Declaring Independence from Proprietary software</a>"
+  location: "<a href='http://geezam.com/geezam-barcelona-declaring-independence-proprietary-software/'>geezam.com</a>"
   date: 2018-01-22
 
 - type: writing
@@ -20,6 +20,7 @@
 
 - type: speaking
   title: Software development and Testing
+  image: /images/writing+speaking/startup-jamaica-presentation.jpg
   location: Startup Jamaica MakeBetter symposium by Alteroo
   date: 2017-03-24
 
