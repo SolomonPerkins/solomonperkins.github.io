@@ -14,7 +14,7 @@ introduction: Helping your fellow citizen climb the ladder of success is the res
 <br/>
 Helping your fellow citizen climb the ladder of success is the responsibility we all share. There is also a greater responsibility on those who've stood on those rungs and understand what is required to climb higher. Mentorship so happens to be the most impactful way of sharing those life "how to".
 
-Well last year July we, my wife & I, intentionally started a mentorship program in an effort to help young people achieve their goals through guidance. We've seen some great results and so I'll pause celebrate and share a few good news.
+Well last year July we, my wife & I, intentionally started a mentorship program in an effort to help young people achieve their goals through guidance. We've seen some great results and so I'll pause to celebrate and share a few good news.
 
 **How It All Started**
 <br/>
