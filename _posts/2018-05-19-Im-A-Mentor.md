@@ -9,7 +9,7 @@ introduction: Helping your fellow citizen climb the ladder of success is the res
 ---
 
 !["Helping Others"](/images/blog/climb-ladder.jpeg)
-<small>*Reference: [Pexels][head_image]{:target="_blank"}*</small>
+<small>*Reference: [Keane Blog][head_image]{:target="_blank"}*</small>
 
 <br/>
 Helping your fellow citizen climb the ladder of success is the responsibility we all share. There is also a greater responsibility on those who've stood on those rungs and understand what is required to climb higher. Mentorship so happens to be the most impactful way of sharing those life "how to".
@@ -62,7 +62,7 @@ I've also learnt that we all need mentors in all/most aspect of our lives. Irres
 I look forward to the day when my mentees achieve their goals. I look forward to the day when they stand on the platform as I've done. So let us not be selfish and get so caught up with success and forget your primary responsibility in helping others. Besides someone had to help you to get to this point in life, why not help another? Go forth and help another. 
 
 
-[head_image]: https://www.pexels.com/photo/man-s-hand-in-shallow-focus-and-grayscale-photography-167964/
+[head_image]: https://my.wealthyaffiliate.com/keane/blog/how-i-climb-my-success-ladder-insider-secrets
 [janice-award]: /images/blog/janice-award.jpg
 
 
