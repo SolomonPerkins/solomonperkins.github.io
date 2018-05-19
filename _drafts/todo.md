@@ -8,6 +8,37 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+I'm A Mentor? √
+============
+ 	- Life = Expect the Unexpected.
+ 		- Have you ever done something you thought you weren't equipt to do?
+ 		- I am the type who wanted to go through life without being seen?
+ 		- Making the next generation better is all about doing a `dd` copy of all the valuable lessons to the next generation.
+ 		- Mentorship has mechanism by which humanity can continue to advance. 
+
+ 	- How It All Started.
+ 		- Suprise Janice
+ 		- My wife thought about mentoring, I was a bit hesitant - responsible.
+ 		- But I gave it a shot.
+ 		- Now we are mentoring two students, 1 about to go UTECH the other 1st year in high school.
+ 		- Sukie, my cousin.
+
+ 	- Current Update
+ 		- The objective of this life long program is to make better young men women of tomorrow.
+ 		- We're less than a year in and the results are amazing.
+ 		- Preparing them for all the challenges.
+ 		-  
+
+ 	- Be Like the Go Giver
+ 		- I read a book called the Go Giver and it changed my life.
+ 		- The five laws are all centered around 
+ 		- 
+
+ 	- Learning Learning Learning.
+ 		- Eventhough I'm unqualified, I'm qualified - the road they're trodding.
+ 		- 
+
+
 The Delicate Balance of Life
 ============================
 
