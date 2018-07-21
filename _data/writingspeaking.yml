@@ -1,3 +1,10 @@
+- type: speaking
+  title: Performance Testing - The Missing Element
+  location: WebCraftConf at JAMPRO 
+  image: /images/writing+speaking/webcrafconf-performance-testing.jpg
+  link: "https://drive.google.com/file/d/1YrojSKXUl-yfQHZsmABjs5P-DseXf2lh/view"
+  date: 2018-07-19
+
 - type: writing
   title: "System76 Lemur: My Purebred Linux Laptop"
   location: "<a href='http://geezam.com/system-76-lemur-purebred-linux-laptop/'>geezam.com</a>"
@@ -46,6 +53,7 @@
   location: UTECH, Sapna
   image: /images/writing+speaking/sapna-presentation.jpeg
   date: 2013-10-10
+
 
 
 
