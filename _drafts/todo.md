@@ -8,6 +8,47 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+
+Gratefulness is flowing from My Heart 🎶  √
+=================================================
+	Great research around gratitude: https://www.huffingtonpost.com/randy-kamen-gredinger/the-transformative-power-_2_b_6982152.html
+
+	- So much to be grateful for
+		- 
+
+	- The benefits of gratitude
+		- Improved social and emotional well-beign
+		- Greater optimisim and happiness
+		- Increase health, immune system and low blood pressure
+	- What I'm grateful for.
+		- Life
+			- I continiously seek growth
+			- Not afarid to fail
+
+		- Family
+			- There nothing like family - good family.
+			- Having people who have your best interest at heart.
+			- Having people of non-blood like
+		- Challenges
+			- Diamond is made only with pressure.
+			- It is due to adversities why we are here
+			- 
+	- My Theme Phrase
+		- Daily Theme and how it changed my perception.
+		- This blog is about that said purpose.
+
+
+	- A Common Factor
+		- The books I've read speaks highly of being grateful.
+		- Speaking good in your life and in the life of others.
+		- Be grateful for what you have
+
+	- Are You Alive?
+		- One there is life there is hope
+		- What you should be grateful for.
+		- 
+
+
 I'm A Mentor? √
 ============
  	- Life = Expect the Unexpected.
