@@ -81,8 +81,7 @@ Re: Who Am I School Program, I'm just the mouth-piece for Aunty Missan's program
 For security purposes, I do recommend you contact me so I can share Aunty Missan details with you via any of the following:
 
 1. Email: socialgames111@gmail.com
-2. Phone/WhatsApp: (876)848-7873
-3. Twitter: [@DAlexForce](https://twitter.com/DAlexForce)
+2. Twitter: [@DAlexForce](https://twitter.com/DAlexForce)
 
 All funds should be sent in Aunty Missan's name (please contact me for her full details) as she will be the person handling the cash or items.
 
