@@ -64,10 +64,10 @@ I can personally attest to her love for the community as I grew up a few chains 
 
 **We Need Your Assistance Please..**
 <br/>
-I got word about her secret back-to-school about three weeks ago. I believe it is incumbent upon me to share her work and to do my part in helping her gather the much-needed funds. Based on my conversation with her, this year has proven to be challenging and she is in NEED of your help for the program. The photo below, is an "empty" box, providing clear evidence that she is in need of assistance ASAP. 
+I got word about her secret back-to-school about three weeks ago. I believe it is incumbent upon me to share her work and to do my part in helping her gather the much-needed funds. Based on my conversation with her, this year has proven to be challenging and she is in NEED of your help for the program. The photo above, is an "empty" box, providing clear evidence that she is in need of assistance ASAP. 
 
 
-I am therefore asking for your support in whatever way possible - cash or kind. If you reside in another country, I recommend you send cash via MoneyGram or Western Union - instructions below. However, if you send materials via Jamaica Customs - we will experience major challenge during the clearing process as a result of recent government policies ([exhibit A](http://www.jamaicaobserver.com/business/Customs-duties-in-Jamaica-among-world-s-highest_19222744), [exhibit B](/images/blog/missan-back-to-school-1.jpg)). If however you are living in Jamaica, please feel free to contact me or Aunty Missan - instructions below.
+I am therefore asking for your support in whatever way possible - cash or kind. If you reside in another country, I recommend you send cash via MoneyGram or Western Union - instructions below. However, if you send materials via Jamaica Customs - we will experience major challenge during the clearing process as a result of recent government policies ([exhibit A](http://www.jamaicaobserver.com/business/Customs-duties-in-Jamaica-among-world-s-highest_19222744){:target="_blank"}, [exhibit B](/images/blog/missan-back-to-school-4.jpg){:target="_blank"}). If however you are living in Jamaica, please feel free to contact me or Aunty Missan - instructions below.
 
 As stated earlier, this is a yearly event and if you are unable to contribute, please do so when you can as she is in need of support for the next academic year. Thank you in advance. Please note that all funds or items received will go directly towards helping the students.
 
