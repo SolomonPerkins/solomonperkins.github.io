@@ -5,7 +5,7 @@ tags: community volunteerism backToSchool education donation
 date: 2018-08-12
 read_time: 10 min
 header_image: /images/blog/missan-back-to-school-1.jpg
-introduction: Past Residents of Coxswain Community: Greetings one and all! I do hope you and your family are in good health and are enjoying God's richest blessings. This public letter is directed to all the past residents of Coxswain Community and the surrounding communities.
+introduction: Past Residents of Coxswain Community - Greetings one and all! I do hope you and your family are in good health and are enjoying God's richest blessings. This public letter is directed to all the past residents of Coxswain Community and the surrounding communities.
 ---
 
 
