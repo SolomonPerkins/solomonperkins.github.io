@@ -9,6 +9,40 @@ introduction:
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
 
+Off Grid Solar System - First Year Anniversary
+=============================================
+- Introduction
+	- Talk about the journey
+
+- Benefits
+	- Reliable power source
+	- Neighbours got in on the action : asking to charge device during power outage.
+	- Neighbours noticed the benefits and want in.
+	- My father has become more energy concious
+	- Plug into the existing infrastructure, reduce the need for additional wiring.
+
+- Power Generation
+	- It has generated over 0.5MG of electricity
+	- The good:
+		- Performs well during cool days.
+		- start production from 9am - 5pm (tree at my house)
+		- rearly discharges below 50%
+		- provides adiquate and reliable power supply through the period
+	- The bad:
+		- The refridgerator utilize excess power during the peak summer
+		- We noticed a discard warning, which has been resolved - due to the backflow of the system.
+
+- What I've learned
+	- Being a DIY project, I got to fully appreciate electricity.
+	- Climate Change is real, being off the grid saved the country from purchaing extra fuel.
+	- Connecting with nature is mindblowing.
+		- Once you connect with nature, it will push you further
+		- Want to create a biodigester plant in hopes of generating electricity.
+
+	- The geeky side: battery life is based on usage.
+	- The geeky side: the effeciency of your equiptment is of great importance. It doesn't matter how much you produce it is the effeciency rate. 
+
+
 Gratefulness is flowing from My Heart 🎶  √
 =================================================
 	Great research around gratitude: https://www.huffingtonpost.com/randy-kamen-gredinger/the-transformative-power-_2_b_6982152.html
