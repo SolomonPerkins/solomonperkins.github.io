@@ -1,4 +1,11 @@
 - type: speaking
+  title: HR Integration Systems... The Era of Shared Services 
+  location: HRMAJ (Human Resource Management Association Jamaica) Conference 
+  image: /images/writing+speaking/hrmaj-presentation.png
+  link: "https://drive.google.com/open?id=12pY4VEwOgTiztfR6qwOgzjcY4nhqmUhJHrH9BYMIYCQ"
+  date: 2018-11-19
+
+- type: speaking
   title: Performance Testing - The Missing Element
   location: WebCraftConf at JAMPRO 
   image: /images/writing+speaking/webcrafconf-performance-testing.jpg
