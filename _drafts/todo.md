@@ -9,6 +9,30 @@ introduction:
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
 
+2018 - The Year In Review
+=========================
+- Introduction
+	- So many things happened, from career to personal growth.
+	- I've seen improvements in various aspect of my life.
+
+- Career
+	- Took a brave step in my career path
+
+- Entreprenurship
+	- My attempt at applying the venture capitailst approach to farming
+	- 
+- Personal Growth
+	- Listen more.
+	- More appreciative of life.
+	- Took on another personal project
+
+- Looking For Better And Greater Things.
+	- Getting comfortable with the uncomfortable
+	- Constantly disrupt myself.
+	- Help others
+	- Look forward to raise my baby boy.
+
+
 Off Grid Solar System - First Year Anniversary
 =============================================
 - Introduction
