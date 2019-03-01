@@ -1,3 +1,22 @@
+- type: speaking
+  title: HR Integration Systems... The Era of Shared Services 
+  location: HRMAJ (Human Resource Management Association Jamaica) Conference 
+  image: /images/writing+speaking/hrmaj-presentation.png
+  link: "https://drive.google.com/open?id=12pY4VEwOgTiztfR6qwOgzjcY4nhqmUhJHrH9BYMIYCQ"
+  date: 2018-11-19
+
+- type: speaking
+  title: Performance Testing - The Missing Element
+  location: WebCraftConf at JAMPRO 
+  image: /images/writing+speaking/webcrafconf-performance-testing.jpg
+  link: "https://drive.google.com/file/d/1YrojSKXUl-yfQHZsmABjs5P-DseXf2lh/view"
+  date: 2018-07-19
+
+- type: writing
+  title: "Open Sourcing the Caribbean – St. Lucia Open Data Portal" 
+  location: "<a href='http://geezam.com/open-sourcing-the-caribbean-st-lucia-open-data-portal/'>geezam.com</a>"
+  date: 2018-07-10
+
 - type: writing
   title: "System76 Lemur: My Purebred Linux Laptop"
   location: "<a href='http://geezam.com/system-76-lemur-purebred-linux-laptop/'>geezam.com</a>"
@@ -46,6 +65,7 @@
   location: UTECH, Sapna
   image: /images/writing+speaking/sapna-presentation.jpeg
   date: 2013-10-10
+
 
 
 

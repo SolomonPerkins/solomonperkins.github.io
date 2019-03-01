@@ -8,6 +8,136 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+
+2018 - The Year In Review
+=========================
+- Introduction
+	- So many things happened, from career to personal growth.
+	- I've seen improvements in various aspect of my life.
+
+- Career
+	- Took a brave step in my career path
+
+- Entreprenurship
+	- My attempt at applying the venture capitailst approach to farming
+	- 
+- Personal Growth
+	- Listen more.
+	- More appreciative of life.
+	- Took on another personal project
+
+- Looking For Better And Greater Things.
+	- Getting comfortable with the uncomfortable
+	- Constantly disrupt myself.
+	- Help others
+	- Look forward to raise my baby boy.
+
+
+Off Grid Solar System - First Year Anniversary
+=============================================
+- Introduction
+	- Talk about the journey
+
+- Benefits
+	- Reliable power source
+	- Neighbours got in on the action : asking to charge device during power outage.
+	- Neighbours noticed the benefits and want in.
+	- My father has become more energy concious
+	- Plug into the existing infrastructure, reduce the need for additional wiring.
+
+- Power Generation
+	- It has generated over 0.5MG of electricity
+	- The good:
+		- Performs well during cool days.
+		- start production from 9am - 5pm (tree at my house)
+		- rearly discharges below 50%
+		- provides adiquate and reliable power supply through the period
+	- The bad:
+		- The refridgerator utilize excess power during the peak summer
+		- We noticed a discard warning, which has been resolved - due to the backflow of the system.
+
+- What I've learned
+	- Being a DIY project, I got to fully appreciate electricity.
+	- Climate Change is real, being off the grid saved the country from purchaing extra fuel.
+	- Connecting with nature is mindblowing.
+		- Once you connect with nature, it will push you further
+		- Want to create a biodigester plant in hopes of generating electricity.
+
+	- The geeky side: battery life is based on usage.
+	- The geeky side: the effeciency of your equiptment is of great importance. It doesn't matter how much you produce it is the effeciency rate. 
+
+
+Gratefulness is flowing from My Heart 🎶  √
+=================================================
+	Great research around gratitude: https://www.huffingtonpost.com/randy-kamen-gredinger/the-transformative-power-_2_b_6982152.html
+
+	- So much to be grateful for
+		- 
+
+	- The benefits of gratitude
+		- Improved social and emotional well-beign
+		- Greater optimisim and happiness
+		- Increase health, immune system and low blood pressure
+	- What I'm grateful for.
+		- Life
+			- I continiously seek growth
+			- Not afarid to fail
+
+		- Family
+			- There nothing like family - good family.
+			- Having people who have your best interest at heart.
+			- Having people of non-blood like
+		- Challenges
+			- Diamond is made only with pressure.
+			- It is due to adversities why we are here
+			- 
+	- My Theme Phrase
+		- Daily Theme and how it changed my perception.
+		- This blog is about that said purpose.
+
+
+	- A Common Factor
+		- The books I've read speaks highly of being grateful.
+		- Speaking good in your life and in the life of others.
+		- Be grateful for what you have
+
+	- Are You Alive?
+		- One there is life there is hope
+		- What you should be grateful for.
+		- 
+
+
+I'm A Mentor? √
+============
+ 	- Life = Expect the Unexpected.
+ 		- Have you ever done something you thought you weren't equipt to do?
+ 		- I am the type who wanted to go through life without being seen?
+ 		- Making the next generation better is all about doing a `dd` copy of all the valuable lessons to the next generation.
+ 		- Mentorship has mechanism by which humanity can continue to advance. 
+
+ 	- How It All Started.
+ 		- Suprise Janice
+ 		- My wife thought about mentoring, I was a bit hesitant - responsible.
+ 		- But I gave it a shot.
+ 		- Now we are mentoring two students, 1 about to go UTECH the other 1st year in high school.
+ 		- Sukie, my cousin.
+
+ 	- Current Update
+ 		- The objective of this life long program is to make better young men women of tomorrow.
+ 		- We're less than a year in and the results are amazing.
+ 		- Preparing them for all the challenges.
+ 		-  
+
+ 	- Be Like the Go Giver
+ 		- I read a book called the Go Giver and it changed my life.
+ 		- The five laws are all centered around 
+ 		- 
+
+ 	- Learning Learning Learning.
+ 		- Eventhough I'm unqualified, I'm qualified - the road they're trodding.
+ 		- 
+
+
 The Delicate Balance of Life
 ============================
 
