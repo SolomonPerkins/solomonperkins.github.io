@@ -2,7 +2,7 @@
 layout: post
 title: A New Instance Of Me
 tags: achievements blessings birth baby
-date: 2019-08-09
+date: 2019-09-09
 read_time: 4 min
 header_image: /images/blog/new_instance_me.png
 introduction: "March 28, 2019, at 12:15:20 am was the date and time my life changed. My son, SJ, was born. In purely technical terms: a new instance of me is on the planet and I'm very fortunate to have such a wonderful and health blessing.." 
