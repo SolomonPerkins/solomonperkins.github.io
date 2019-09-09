@@ -8,6 +8,30 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+A New Instance Of Me (Listen To Ted Talk to help)
+====================
+- March 28, 2019 at 12:15:20am was when my life changed.
+- Explain the joy - Joy cometh In the morning:
+	- Mental change
+	- First time experincing child birth.
+	- Holding the little one in my arm.
+	- Unexplainable joy.
+- Lessons Learned:
+	- I tip my hat off to my wife.
+	- She is truly a strong woman.
+	- New level of appreciation for enduring 18hrs of intense labour.
+	- I have a new boss.
+	- 
+- Explain the horror and the emotional toll 
+	- As they say, no pain no gain. 
+	- 
+- 
+
+
+My First Failed Business Venture
+================================
+- 
+
 
 2018 - The Year In Review
 =========================
