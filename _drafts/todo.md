@@ -8,7 +8,7 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
-A New Instance Of Me (Listen To Ted Talk to help)
+A New Instance Of Me (Listen To Ted Talk to help) √
 ====================
 - March 28, 2019 at 12:15:20am was when my life changed.
 - Explain the joy - Joy cometh In the morning:
@@ -33,7 +33,7 @@ My First Failed Business Venture
 - 
 
 
-2018 - The Year In Review
+2018 - The Year In Review √
 =========================
 - Introduction
 	- So many things happened, from career to personal growth.
@@ -57,7 +57,7 @@ My First Failed Business Venture
 	- Look forward to raise my baby boy.
 
 
-Off Grid Solar System - First Year Anniversary
+Off Grid Solar System - First Year Anniversary √
 =============================================
 - Introduction
 	- Talk about the journey
