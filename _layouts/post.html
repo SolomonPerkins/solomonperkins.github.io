@@ -18,14 +18,14 @@ layout: default
 		{% if page.previous.url %}
 			<div class="prev-navigator navigator">
 				<strong>PREV</strong>
-				<a class="prev link" href="{{page.previous.url}}">&laquo; {{page.previous.title | truncate_words: 20}}</a>
+				<a class="prev link" href="{{page.previous.url}}">&laquo; {{page.previous.title | truncatewords: 20}}</a>
 			</div>
 		{% endif %}
 
 		{% if page.next.url %}
 			<div class="next-navigator navigator">
 				<strong>NEXT</strong>
-				<a class="next link" href="{{page.next.url}}">{{page.next.title | truncate_words: 20}} &raquo;</a>
+				<a class="next link" href="{{page.next.url}}">{{page.next.title | truncatewords: 20}} &raquo;</a>
 			</div>
 		{% endif %}
 	</div>
