@@ -8,6 +8,30 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+Off Grid Solar System - Second Year Anniversary
+=============================================
+- Talk about process
+	- Show chart around energy generated.
+	- Talk about no need for maintenance.
+	- Talk about recent system glitch.
+
+- Did I make the right decision?
+	- Carbon Footprint and Importance
+	- How the industry is changing: Wigton IPO, more utility solar projects, major disrpution happening to
+	- JPS taking extra step to ensure customers are adhereing (https://twitter.com/DJCourtneyJm/status/1172170818618630151). After experincing a 25% drop in monthly bill, he got multiple visits from separate teams.
+
+- Potential Risk to Project:
+	- Hurrican season and mitigation strategy.
+	- Jamaica law allows for generation but not for distribution. What happen if the law changes (tax stand point)?
+	
+- Industry Leaders
+	- James, met him once
+	- Emma climate activist dirving from an environmental standpoint
+	- Visited Solar expo. 
+
+
+
+
 A New Instance Of Me (Listen To Ted Talk to help) √
 ====================
 - March 28, 2019 at 12:15:20am was when my life changed.
