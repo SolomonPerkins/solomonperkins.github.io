@@ -1,8 +1,18 @@
 ---
 layout: default
+meta: blog
 ---
 
 <h2>Blog</h2>
+<div id="writing_progress">
+	<p>One of the main purpose of this blog is to improve my writing skills. This data will help me keep track of how far I've come and to identify areas of improvement going forward.</p>
+
+	<div id="writing_skills_chart">
+		<!-- <svg></svg> -->
+	</div>
+
+</div>
+
 {% for post in site.posts %}
 	{% assign postdate = post.date | date: "%Y" %}
 	{% assign currentdate = 'now' | date: "%Y-%m-%d" %}
