@@ -1,5 +1,5 @@
 var generateChart = function(){
-    var wDom = document.querySelector(".writing-speaking");
+    var wDom = document.querySelector("#writing_progress");
     var margin = {top: 20, right: 20, bottom: 70, left: 40},
         width = wDom.clientWidth - margin.left - margin.right,
         height = 300 - margin.top - margin.bottom;
