@@ -6,6 +6,8 @@ date: 2016-11-08
 
 # The name of the blog
 name: Solomon Perkins
+startdate: "Nov 2016"
+currentdate: "2019"
 
 # Description of the blog
 description: "Sharing my opinions on the things I find valuable."
@@ -60,6 +62,7 @@ enabled: all
 # JS files
 jskills:
   - javascripts/skills.js
+  - javascripts/writing_skills_script.js
 
 #Pagination configs
 paginate: 10
