@@ -26,14 +26,22 @@
   </p>
   
   <p class="copyright-border" id="footer-year">
-    Solomon Perkins</br>
-       Nov 2016 - 2019
+    {{ site.name }}</br>
+       {{ site.startdate }} - {{ site.currentdate }}
   </p>
 </aside>
 
 <!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> -->
 <script type="text/javascript" src="{{ site.baseurl }}/javascripts/jquery.v1.11.min.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/javascripts/main.js"></script>
+
+{% if page.meta == "writing+speaking" %}
+<script type="text/javascript" src="{{ site.baseurl }}/javascripts/d3.v5.js"></script>
+
+<script type="text/javascript" src="{{ site.baseurl }}/javascripts/writing_skills_script.js"></script>
+
+{% endif %}
+
 
 {% if page.meta == "aboutme" %}
 <!-- <script type="text/javascript" src="{{ site.baseurl }}/javascripts/skills.js"></script> -->
