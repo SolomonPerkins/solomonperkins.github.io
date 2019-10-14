@@ -4,42 +4,54 @@ layout: default
 meta: projects
 tags: [personal, projects]
 ---
-<h2>Projects</h2>
+<h2>Projects / <small>timeline</small></h2>
 
-<section class="projects">
-
-	<div class="project">
-		<div class="project-visual-wrapper">
-			<img class="image" src="/images/blog/the-healing-wonders-of-herbs-book.jpeg" alt="The name of item">
-		</div>
-		<div class="project-meta">
-			<p class="project-intro">This project is about</p>
-			<small class="project-date">Dec 12, 2015</small>
-			
-		</div>
-	</div>
-
-	<div class="project">
-		<div class="project-visual-wrapper">
-			<img class="image" src="/images/blog/the-healing-wonders-of-herbs-book.jpeg" alt="The name of item">
-		</div>
-		<div class="project-meta">
-			<p class="project-intro">This project is about</p>
-			<small class="project-date">Dec 12, 2015</small>
-
-		</div>
-		
-	</div>
-
-	<div class="project">
-		<div class="project-visual-wrapper">
-			<img class="image" src="/images/blog/the-healing-wonders-of-herbs-book.jpeg" alt="The name of item">
-		</div>
-		<div class="project-meta">
-			<p class="project-intro">This project is abouta doas foasn dfaosn dfaosdn fsado</p>
-			<small class="project-date">Dec 12, 2015</small>
-		
-		</div>
-	</div>
-
+<section id="portfolio" >
+	<ul class="timeline">
+		{% assign sorted_projects = site.data.projects | sort: 'date' | reverse%}
+		{% for item in sorted_projects %}
+		  <li class="timeline-event">
+		  	<div class="item_image">
+		  		{{ item.images}}
+		  		{% for image in item.images %}
+		  		<img src="{{item.url}}" />
+		  		{% endfor %}
+		  	</div>
+		    <label class="timeline-event-icon"></label>
+		    <div class="timeline-event-copy">
+		      <p class="timeline-event-thumbnail">{{item.date}}</p>
+		      <p>
+		      	<strong>{{ item.name }}</strong><br/>
+		     	{{ item.description }}
+		      </p>
+		      <p>
+		      	  <strong>Features</strong><br/>
+			      {% for feature in item.features %}
+			      	<i>{{ feature }}, </i>
+			      {% endfor %}
+			      <br/>
+		  	  </p>
+		      <p><strong>Program Language:</strong><br>
+		      	{{ item.languages}}
+		      </p>
+		    </div>
+		  </li>
+		{% endfor %}
+<!-- 	  <li class="timeline-event">
+	    <label class="timeline-event-icon"></label>
+	    <div class="timeline-event-copy">
+	      <p class="timeline-event-thumbnail">November 2009 - März 2011</p>
+	      <p><strong>Geil,Danke! GmbH</strong></p>
+	      <p>Konzeption, Design und Produktion von Digitalen Magazinen mit InDesign, der Adobe Digital Publishing Suite und HTML5. Co-Autorin der Fachbücher "Digitales Publizieren für Tablets" und "Adobe Digital Publishing Suite" erschienen im dpunkt.verlag.</p>
+	    </div>
+	  </li>
+	  <li class="timeline-event">
+	    <label class="timeline-event-icon"></label>
+	    <div class="timeline-event-copy">
+	      <p class="timeline-event-thumbnail">April 2011 - heute</p>
+	      <strong>Geil,Danke! GmbH</strong>
+	      <p><strong>Systemarchitektur, Consulting</strong><br>Konzeption und Modellierung von Systemen und APIs für Digital Publishing und Entitlement nach SOA</p>
+	    </div>
+	  </li> -->
+	</ul>  
 </section>

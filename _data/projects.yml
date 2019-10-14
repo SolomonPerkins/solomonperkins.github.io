@@ -1,0 +1,25 @@
+- name: Intelligent Flight System
+  date: 2011
+  images: 
+    - url: "/images/personal-projects/image1.jpeg"
+  description: An intelligent flight system used to assist persons in reaching their destination from various airports.
+  features: 
+    - Identify closed airports
+    - Locate the fastest route to a selected destination
+    - Locate the lease expensive route to a selected destination
+    - Located all possible routes to a destination  
+  link: github.io
+  languages: Prolog
+  category: Artifical Intelligence
+
+- name: Sapna Bootcamp Website 
+  date: 2012
+  images: 
+    - url: "/images/personal-projects/image1.jpeg"
+  description: "Website used to enroll applicants into the Sapna Initiative program"
+  features:
+    - Management the summer enrollment process.
+    - Track user progress throughout the camp.
+  link: "" 
+  languages: PHP, JavaScript, CSS, HTML 
+  category: Web Application
