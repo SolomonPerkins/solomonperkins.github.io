@@ -52,7 +52,7 @@ Living in the Caribbean means that we are prone to hurricanes. My roof-top solar
 As solar installation increases, they will become less reliant on JPS for the majority of their energy need. In the medium/long term, I do foresee the government modifying the local tax policy to manage this change. A few things happening why I believe this change is coming:
 * The government has made some strides to divest their shares in local utility provider, JPS. 
 * JPS has been seeing a relatively constant demand from their customers and also a reduction in peak demand. This is at a time when the country is experiencing some significant growth. This could be attributed to energy being obtained from other sources - renewables. 
-!["JPS Power Generation Data"](./images/blog/jps-peak-demand-decline.png)
+!["JPS Power Generation Data"](/images/blog/jps-peak-demand-decline.png)
 
 * At any point in time, the system can fail due to a malfunctioning part. My batteries are being operated at the optimal conditions but that still doesn't alleviate the potential for failures.
 

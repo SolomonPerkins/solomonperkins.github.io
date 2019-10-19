@@ -17,7 +17,7 @@ introduction: Yes I am really doing this! <br/><br/> The internet is full of pro
 
 Yes [I](/about) am really doing this! 
 
-The internet is full of professional writters, so why bother? Well for starters we all have our own path to follow and life stories to tell and I am willing to share mine. Sharing some of my experiences my help someone get over their hurdle(s). Besides the point, you'll never stop learning, so let us do this then - time to take the plunge. The interesting thing is that the thought of doing a blog has been pounding in my head for sometime now. So with that said, I am just scratching that itch.
+The internet is full of professional writers, so why bother? Well for starters we all have our own path to follow and life stories to tell and I am willing to share mine. Sharing some of my experiences my help someone get over their hurdle(s). Besides the point, you'll never stop learning, so let us do this then - time to take the plunge. The interesting thing is that the thought of doing a blog has been pounding in my head for sometime now. So with that said, I am just scratching that itch.
 
 To be fair, I am not a professional blogger. I'm merely using this platform to grow, learn and share interesting facts not only about my life by also of others.
 
