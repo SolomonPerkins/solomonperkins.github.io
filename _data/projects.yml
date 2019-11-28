@@ -23,3 +23,18 @@
   link: "" 
   languages: PHP, JavaScript, CSS, HTML 
   category: Web Application
+
+- name: Resume - Mobile App 
+  date: 2015
+  images: 
+    - url: /images/personal-projects/resume-mobile-app.png
+  description: "After getting continious feedback from the Carrer center, I was able to perfect my resume. 
+ I believe that played an important role on my first job offer - a few months before my college graduation. 
+ Having experience the importance of a well written resume, I created this project to educate and inform students as to how they can do the same."
+  features:
+    - Provide resume tips and tricks.
+    - Easy to use, 3 step process (data entry, select template, preview & save).
+    - Beginner category and provide basic instructions.
+  link: "" 
+  languages: Android OS 
+  category: Mobile Native Application
