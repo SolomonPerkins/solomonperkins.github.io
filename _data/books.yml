@@ -1,3 +1,17 @@
+- name: "Gamify - How GamificationMotivates People To Do Extraordinary Things" 
+  author: Brian Burke - Bartner, Inc.
+  read: 2019
+  cover:  /images/books/gamifiy.jpg
+  summary: >
+          Gamification is a technique use to improve outcomes while incentiving users to achieve the intended outcome.
+          This book focuses on how projects maybe able to achieve remarkable results by engaging their users with the use of various reward system.
+          In providing a step by step process, this book showcases how projects may go about achieving this objective. It uses examples from Nike+, DirectTV among others
+          to highlight benefits and success cases from both an employer/consumer perspective.
+  personal-impact: >
+          Help me understand what is the science behind how to think about gamifiying any user experience and how to differentiate it from a simple reward model.
+          A book that was written in 2014 has done a remarkable job predicting a technology and its viability in 2020. Evidentily, I've seen gamification in various projects and I do expect this model to continue. 
+          I agree with the ideas expressed in this book as I find myself looking at the leaderboard of various programs I'm involved in.
+          
 - name: "Human + Machine: Reimagining Work in the Age of AI" 
   author: Paul R. Daugherty & H. James Wilson
   read: 2019
