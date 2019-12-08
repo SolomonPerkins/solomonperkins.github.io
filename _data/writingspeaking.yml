@@ -1,3 +1,23 @@
+- type: writing
+  title: "Improving Search By 50% With Apache Jackrabbit" 
+  location: "<a href='https://geezam.com/improve-search-experience-with-jackrabbit/'>geezam.com</a>"
+  date: 2019-12-08
+
+- type: writing
+  title: "Tesla Runs On Open Source" 
+  location: "<a href='https://geezam.com/tesla-runs-on-open-source/'>geezam.com</a>"
+  date: 2019-11-04
+
+- type: writing
+  title: "How To Save 20-50% On Your Electricity Bill Using PowerPree" 
+  location: "<a href='https://geezam.com/how-to-save-20-50-on-your-electricity-bill-using-powerpree/'>geezam.com</a>"
+  date: 2019-03-15
+
+- type: writing
+  title: "Microsoft (Loves|Likes) Open Source" 
+  location: "<a href='https://geezam.com/microsoft-loves-likes-open-source/'>geezam.com</a>"
+  date: 2019-09-10
+
 - type: speaking
   title: HR Integration Systems... The Era of Shared Services 
   location: HRMAJ (Human Resource Management Association Jamaica) Conference 
