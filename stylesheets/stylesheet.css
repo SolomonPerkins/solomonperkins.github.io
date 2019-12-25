@@ -928,7 +928,11 @@ label.menu_icon {
   display: inline-block;
   height: 55px;
   color: #2879d0;
+<<<<<<< HEAD
   border-radius: 10px;
+=======
+  border-radius: 45px;
+>>>>>>> master
   bottom: 0px;
   background: white;
   border: 1px solid #ddd;
