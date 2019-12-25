@@ -71,7 +71,7 @@ audio:not([controls]) {
 
 /**
  * Address `[hidden]` styling not present in IE 8/9/10.
- * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
+ * Hide the `template` element in IE 8/9/11, Safari, and Firefox 22.
  */
 
 [hidden],
@@ -928,11 +928,7 @@ label.menu_icon {
   display: inline-block;
   height: 55px;
   color: #2879d0;
-<<<<<<< HEAD
   border-radius: 10px;
-=======
-  border-radius: 45px;
->>>>>>> master
   bottom: 0px;
   background: white;
   border: 1px solid #ddd;
