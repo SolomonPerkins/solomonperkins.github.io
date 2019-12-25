@@ -921,14 +921,14 @@ footer a:hover {
 
 label.menu_icon {
   font-size: 100px;
-  padding: 5px;
+  padding: 0px;
   margin: 0;
   /*border: 1px solid red;*/
   line-height: 39px;
   display: inline-block;
   height: 55px;
   color: #2879d0;
-  border-radius: 10px;
+  border-radius: 20px;
   bottom: 0px;
   background: white;
   border: 1px solid #ddd;
