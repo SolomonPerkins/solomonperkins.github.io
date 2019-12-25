@@ -98,9 +98,9 @@ I failed miserably. This is my first attempt at large scale farming and we didn'
 <br/>
 **Failing Sucks**
 
-When the project stopped, it hit me hard. For weeks I spent trying to understand what I could have done better. Having seen the potential and the viability of the long term vision, it was hard to let go and consider it a loss. I would sit on my couch, thinking about the days on the farm and how I wanted to achieve something great for the community. Working a fulltime job in Kingston then having to visit Clarendon on weekends was worth every inch of my time.
 
-I saw this project as a tool we could use to help educate the younger generation that farming is an excellent career option. But I wasn't able to execute on that mission. I lover farming so I will try again - soon.
+When the project stopped, it hit me hard. For weeks I thought about what I could have done better. Having seen the potential and the viability of the long term vision, it was hard to let go and consider it a loss. I still think about the days on the farm and how I wanted to achieve something great for my community. I saw this project as a tool we could use to help educate the younger generation that farming is an excellent career option. But I wasn't able to execute on that mission. I love farming so I will try again - soon.
+
 
 
 
