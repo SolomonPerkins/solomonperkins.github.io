@@ -4,7 +4,7 @@ title: My First Failed Business Venture
 tags: business entreprenure farming agriculture
 date: 2019-12-24
 read_time: 10 min
-header_image: /images/blog/first-failed-business-idea.png
+header_image: /images/blog/2018-year_review_farmer.jpeg
 introduction: I screwed up my first business venture. Writing about my failures is more difficult than I thought. But my blog is about sharing the things I find valuable and this is in that category.
 ---
 

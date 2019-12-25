@@ -903,6 +903,93 @@ footer a:hover {
   color: #2879d0;
 }
 
+.mobile {
+  display: none;
+}
+
+.mobile.mobile_menu {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  left: 0px;
+  bottom: 0px;
+  padding-top: 5px;
+  position: fixed;
+  background: whitesmoke;
+  transition: 0.5s ease-in;
+}
+
+label.menu_icon {
+  font-size: 100px;
+  padding: 5px;
+  margin: 0;
+  /*border: 1px solid red;*/
+  line-height: 39px;
+  display: inline-block;
+  height: 55px;
+  color: #2879d0;
+  border-radius: 55px;
+  background: white;
+  border: 1px solid #ddd;
+}
+input#menu_checkbox {
+  display: none;
+}
+
+input#menu_checkbox[type="checkbox"]:checked + label {
+  animation-name: zoomin;
+  animation-duration: 0.2s;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+.mobile.mobile-nav_section {
+  background: whitesmoke;
+  width: 100%;
+  /* height: 100%; */
+  position: fixed;
+  border-top: 1px solid #ddd;
+  bottom: 70px;
+  left: 0px;
+  padding-top: 10px;
+  display: none;
+}
+
+.mobile.mobile-nav_section p {
+  text-align: center;
+  font-size: 12px;
+  
+}
+
+input#menu_checkbox[type="checkbox"]:checked ~ div.mobile-nav_section {
+/*  animation-name: showmobilenav;
+  animation-duration: 2s;
+  animation-fill-mode: both;
+  animation-timing-function: linear;
+*/
+  display: block;
+  animation: showmobilenav 0.2s linear both alternate;
+}
+
+
+@keyframes zoomin {
+  /*from {}*/
+  to {
+    transform: scale(1.1);
+  }
+}
+
+@keyframes showmobilenav {
+  0% {
+    transform: scale(1.0);
+  }
+  55% {
+    transform: scale(1.2);
+  }
+  80% { transform: scale(0.9); }
+  100%{ transform: scale(1); }
+}
+
 /* #Media Queries
 ================================================== */
 
@@ -940,6 +1027,12 @@ footer a:hover {
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
+  .mobile {
+    display: inline-block;
+  }
+  #footer-year {
+    padding-bottom: 30px;
+  }
   .inner {
     width: 93%;
   }
@@ -1034,6 +1127,11 @@ header #profile-image a#my-logo{
 }
 header #profile-image a#my-logo img{
   width: 100%;
+}
+
+.profile-image-rasterize {
+  border-radius: 5px;
+  background: transparent url('../../images/me-rasterize.png');
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
