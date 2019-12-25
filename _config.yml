@@ -37,8 +37,9 @@ defaults:
     values:
       layout: "about"
 
-#The url to the main website root
+#The URL to the main website root
 baseurl: ""
+primarydomain: "https://solomon.perkins.github.io"
 
 #Sass configuration (compressed|expanded)
 sass:
