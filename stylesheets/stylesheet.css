@@ -920,15 +920,15 @@ footer a:hover {
 }
 
 label.menu_icon {
-  font-size: 100px;
+  font-size: 60px;
   padding: 0px;
   margin: 0;
   /*border: 1px solid red;*/
-  line-height: 39px;
+  line-height: 29px;
   display: inline-block;
-  height: 55px;
+  height: 40px;
   color: #2879d0;
-  border-radius: 20px;
+  border-radius: 22px;
   bottom: 0px;
   background: white;
   border: 1px solid #ddd;
@@ -938,10 +938,11 @@ input#menu_checkbox {
 }
 
 input#menu_checkbox[type="checkbox"]:checked + label {
-  animation-name: zoomin;
+  animation-name: swing;
   animation-duration: 0.2s;
   animation-timing-function: linear;
   animation-fill-mode: forwards;
+  transform-origin: top center;
 }
 
 .mobile.mobile-nav_section {
@@ -950,7 +951,7 @@ input#menu_checkbox[type="checkbox"]:checked + label {
   /* height: 100%; */
   position: fixed;
   border-top: 1px solid #ddd;
-  bottom: 70px;
+  bottom: 47px;
   left: 0px;
   padding-top: 10px;
   display: none;
@@ -959,7 +960,10 @@ input#menu_checkbox[type="checkbox"]:checked + label {
 .mobile.mobile-nav_section p {
   text-align: center;
   font-size: 12px;
-  
+}
+
+.mobile.mobile-nav_section p a {
+  display: block;
 }
 
 input#menu_checkbox[type="checkbox"]:checked ~ div.mobile-nav_section {
@@ -969,15 +973,16 @@ input#menu_checkbox[type="checkbox"]:checked ~ div.mobile-nav_section {
   animation-timing-function: linear;
 */
   display: block;
-  animation: showmobilenav 0.2s linear both alternate;
+  animation: slideupmobilenav 0.2s ease-in both alternate;
 }
 
 
 @keyframes zoomin {
   /*from {}*/
-  to {
-    transform: scale(1.1);
-  }
+  0% { transform: scale(1); }
+  50% { transform: scale(1.5); }
+  70% { transform: scale(1.03); }
+  100% { transform: scale(1.1); }
 }
 
 @keyframes showmobilenav {
@@ -989,6 +994,22 @@ input#menu_checkbox[type="checkbox"]:checked ~ div.mobile-nav_section {
   }
   80% { transform: scale(0.9); }
   100%{ transform: scale(1); }
+}
+
+@keyframes slideupmobilenav {
+  0% { transform: translateY(300px); }
+  60% { transform: translateY(-10px); }
+  75% { transform: translateY(-5px); }
+  90% { transform: translateY(1px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes swing {
+  0% { transform: rotate(10deg); }
+  40% { transform: rotate(-10deg); }
+  60% { transform: rotate(5deg); }
+  80% { transform: rotate(-5deg); }
+  100% { transform: rotate(0deg); }
 }
 
 /* #Media Queries
