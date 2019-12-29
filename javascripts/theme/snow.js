@@ -8,7 +8,7 @@ snow.prototype.init = function() {
 
 snow.prototype.generatePelets = function(count) {
 	var width = mainPanel.clientWidth,
-		maxDelay = 30,
+		maxDelay = 5,
 		snowpelets = [];
 
 	for(var i = 0; i < count; i++) {

@@ -1,4 +1,4 @@
-.show-time {
+.snow-time {
 
     width: 230px;
     height: 130;
@@ -15,6 +15,7 @@
 	animation-fill-mode: both;
 	background: whitesmoke;
     position: absolute;
+    top: -30px;
 }
 
 .snow .snow-pelets-0 {
@@ -38,5 +39,14 @@
 
 @keyframes snowfall {
 	from { transform: translateY(-200px);}
-	to { transform: translateY(200px); }
+	to { transform: translateY(400px); }
+}
+
+
+@media only screen and (max-width: 479px) {
+	.snow-time {
+		width: 153px;
+		bottom: -20px;
+		right: -20px;
+	}
 }
