@@ -1,3 +1,16 @@
+- name: "The Missing Piece" 
+  author: "Paul J. Rosen"
+  read: 2019
+  cover:  /images/books/book-missing-piece.png
+  summary: >
+          This is an introduction to Nutrition Response Testing. Which is an effective method used to effectively highlight the underlaying
+          cause of various body ailments. This deviates from the current medial profession, whereby a broad brush approach is used to resolve ailments. 
+          This method instead focus on what the body requires inorder to resolve this issue.
+  personal-impact: >
+          This short read was very informative. It highlights the way in which the various sectors of my body is related. 
+          It also highlights how my body function and what approach I can use to identify various issues by tapping into the body's
+          natrual response mechanism. 
+
 - name: "Gamify - How GamificationMotivates People To Do Extraordinary Things" 
   author: Brian Burke - Bartner, Inc.
   read: 2019
