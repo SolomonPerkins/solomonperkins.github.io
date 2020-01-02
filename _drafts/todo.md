@@ -8,6 +8,42 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+Strategy Design Pattern Saved Me
+================================
+	- Introduction:
+		- Story about how a client know their end goal but not the steps.
+		- Every profession have a framework they use:
+			- Construction: foundation, scafolding, build walls then roof.
+		- Our foundation is design patterns.
+		- Unlink constructions, the client may ask you to change a section of the house without destorying the roof or any other area. 
+		- How Strategy design pattern saved me.
+
+	- The Ideal Story:
+		- Project started out with a simple roadmap. 
+		- The goal was broken down into 3 phases:
+			- Impelement items
+			- Add More features
+			- Integrate with existing systems.
+		- Project had a set deadline for phase 1.
+		- Simple enough right?
+	- The True Story:
+		- The client scope creep/crawl/walk/run..
+		- Nothing went as planned.
+		- Project took over a year
+		- All three phases got rolled into one.
+		- At this point we had multiple destination points.
+		- Was able to implement all clients requirements - in the shortest possible time.
+
+	- The Strategy That Saved Us:
+		- We did all the initial steps in the SDLC.
+		- From the onset I decided to use design pattern.Strategy design pattern was choosen.
+		- This will help figure out the complexities.
+		- Benefits:
+			- Regression testing was reduced at a mininal
+			- No major updates to unit tests.
+			- I was able to maintain my sanity.
+			
+
 Off Grid Solar System - Second Year Anniversary
 =============================================
 - Talk about process
