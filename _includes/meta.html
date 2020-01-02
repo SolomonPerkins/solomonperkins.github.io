@@ -21,8 +21,8 @@
 	<meta name="twitter:title" content="{{ page.title }}" />
 {% endif %} 
 {% if page.header_image %}
-	<meta property="og:image" content="{{ page.header_image }}" />
-	<meta name="twitter:image" content="{{ page.header_image }}" />
+	<meta property="og:image" content="{{site.primarydomain}}{{ page.header_image }}" />
+	<meta name="twitter:image" content="{{site.primarydomain}}{{ page.header_image }}" />
 {% endif%}
 
 <meta name="twitter:description" content="{{ page.introduction }}" />
