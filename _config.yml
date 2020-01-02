@@ -39,7 +39,7 @@ defaults:
 
 #The URL to the main website root
 baseurl: ""
-primarydomain: "https://solomon.perkins.github.io"
+primarydomain: "https://solomonperkins.github.io"
 
 #Sass configuration (compressed|expanded)
 sass:
