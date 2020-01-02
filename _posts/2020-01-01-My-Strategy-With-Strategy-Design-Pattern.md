@@ -4,8 +4,8 @@ title: My Strategy With Strategy Design Pattern
 tags: tech programming sdlc business strategy design pattern
 date: 2020-01-01
 read_time: 5 min
-header_image: /images/blog/strategy-design-pattern.jpeg
-introduction: 
+header_image: /images/blog/the-master-program.jpg
+introduction: In the world of IT (Information Technology), clients do understand their goals and objectives of a particular project. The challenge lies in ensuring that project is done in a timely manner. Developers are other at the mercy of multiple business requirements. This is a short story about how the Strategy Design pattern helped in my survival of a category 5 hurricane (I mean project).
 ---
 
 !["Design Pattern"](/images/blog/the-master-program.jpg "Strategy Design Pattern")
