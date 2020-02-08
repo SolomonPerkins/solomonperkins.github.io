@@ -8,6 +8,37 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+GoodBye Jason :(
+==============================
+	- Introduction
+		- Jan 25 7:33am phone rings
+		- I never thought this day would come.
+		- I'm still wondering how I can undo this events.
+	
+	- His Memory Shall Live On
+		- He was successful. Took it life from nothing to something
+		- We grew up together and so I know him personally also he was one of my mentee.
+		- He wanted whats best for his family. He took care of his grandmother, send his sister to high school and take care of his kids.
+		- He went from selling bag juice, wiping car glass to work and travel in the caribbean.
+		- His next goal was to own his own home.
+		- He is not the type of person who gives up.
+
+	- Mental Health Is No Joke
+		- Men are malleable.
+		- Mental health is something we should be disussing.
+		- My friend would have been alive today if it wasn't for relationhsip issues.
+		- Being the type not to give up was his downfall.
+
+	- My Advice To Us Men
+		- We are being told not to cry.
+		- But I did shed a few tears. Internally I'm still moaning.
+		- 
+
+	- I Miss Him.
+		- We use to spend hours speaking about life.
+		- We exchange ideas. He taught me how to be street smart. I told him the little I know about money-management.
+		- I miss him -
+ 
 Strategy Design Pattern Saved Me
 ================================
 	- Introduction:
