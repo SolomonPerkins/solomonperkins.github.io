@@ -18,15 +18,17 @@ Jason was a close friend, mentee & and brother from another mother. I want to us
 <br/>
 **He Was A Go-Getter**
 
-He is a role model in the community. Most would say he came from nothing to something. Having watched him transform his life made him a beacon of hope. In a matter of five-six years, every naysayer went from downtaking to giving kudos. Folks who once said he was a good for nothing SOB, are now shocked based on his level of achievement. I mean remarkable achievements:
+He is a role model in the community. Most would say he came from nothing to something. In a matter of five-six years, every naysayer gave him kudos for what he has done with his life. Folks who once said he was a good for nothing S.O.B, are now shocked based on his level of achievement. I'm talking remarkable achievements:
 
-1. After his Uncle evicted him, he started selling coconuts in the community.
+1. After his Uncle kicked him out, he started selling coconuts in the community.
 2. Then he moved to Kingston (slept in the market) and started selling bag juice.
 3. He then became a windscreen wiper.
 4. Made enough funds to purchase his first ticket to travel to a Caribbean island for a six (6) months work program.
 5. During his tenure, he worked 3 jobs.
 6. He ended up getting his CSME Certificate as a result of his skills.
 7. He ultimately got a full-time contract due to his worth ethic and drive.
+
+[I'm always bragging about what he has done](https://twitter.com/DAlexForce/status/1053068419048919040?s=20)
 
 > He accomplished all of this while taking care of two young children, funding his sister through high school and caring for his Grandmother. He did all of this without a high school diploma.
 
