@@ -1,3 +1,50 @@
+- type: writing
+  title: "How Can We Help The Open Data Initiative?" 
+  location: "<a href='https://geezam.com/how-can-we-help-the-open-data-initiative/'>geezam.com</a>"
+  date: 2020-02-02
+
+- type: writing
+  title: "10 Pre-Birth Tips For New Fathers" 
+  location: "<a href='https://medium.com/@daddyblog/10-pre-birth-tips-for-new-fathers-cd2c4e7f627b'>Medium</a>"
+  date: 2020-01-25
+
+- type: writing
+  title: "A New Instance Of Me - My First Child (Republish)" 
+  location: "<a href='https://medium.com/@daddyblog/a-new-instance-of-me-my-first-child-87b75caa1214?source=---------4------------------'>Medium</a>"
+  date: 2020-01-11
+
+- type: writing
+  title: "Huawei Might Create an Open Source OS" 
+  location: "<a href='https://geezam.com/huawei-might-create-an-open-source-os/'>geezam.com</a>"
+  date: 2020-01-18
+
+- type: writing
+  title: "Improving Search By 50% With Apache Jackrabbit" 
+  location: "<a href='https://geezam.com/improve-search-experience-with-jackrabbit/'>geezam.com</a>"
+  date: 2019-12-08
+
+- type: writing
+  title: "Tesla Runs On Open Source" 
+  location: "<a href='https://geezam.com/tesla-runs-on-open-source/'>geezam.com</a>"
+  date: 2019-11-04
+
+- type: writing
+  title: "How To Save 20-50% On Your Electricity Bill Using PowerPree" 
+  location: "<a href='https://geezam.com/how-to-save-20-50-on-your-electricity-bill-using-powerpree/'>geezam.com</a>"
+  date: 2019-03-15
+
+- type: writing
+  title: "Microsoft (Loves|Likes) Open Source" 
+  location: "<a href='https://geezam.com/microsoft-loves-likes-open-source/'>geezam.com</a>"
+  date: 2019-09-10
+
+- type: speaking
+  title: HR Integration Systems... The Era of Shared Services 
+  location: HRMAJ (Human Resource Management Association Jamaica) Conference 
+  image: /images/writing+speaking/hrmaj-presentation.png
+  link: "https://drive.google.com/open?id=12pY4VEwOgTiztfR6qwOgzjcY4nhqmUhJHrH9BYMIYCQ"
+  date: 2018-11-19
+
 - type: speaking
   title: Performance Testing - The Missing Element
   location: WebCraftConf at JAMPRO 

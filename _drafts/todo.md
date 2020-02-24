@@ -8,6 +8,220 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+GoodBye Jason :(
+==============================
+	- Introduction
+		- Jan 25 7:33am phone rings
+		- I never thought this day would come.
+		- I'm still wondering how I can undo this events.
+	
+	- His Memory Shall Live On
+		- He was successful. Took it life from nothing to something
+		- We grew up together and so I know him personally also he was one of my mentee.
+		- He wanted whats best for his family. He took care of his grandmother, send his sister to high school and take care of his kids.
+		- He went from selling bag juice, wiping car glass to work and travel in the caribbean.
+		- His next goal was to own his own home.
+		- He is not the type of person who gives up.
+
+	- Mental Health Is No Joke
+		- Men are malleable.
+		- Mental health is something we should be disussing.
+		- My friend would have been alive today if it wasn't for relationhsip issues.
+		- Being the type not to give up was his downfall.
+
+	- My Advice To Us Men
+		- We are being told not to cry.
+		- But I did shed a few tears. Internally I'm still moaning.
+		- 
+
+	- I Miss Him.
+		- We use to spend hours speaking about life.
+		- We exchange ideas. He taught me how to be street smart. I told him the little I know about money-management.
+		- I miss him -
+ 
+Strategy Design Pattern Saved Me
+================================
+	- Introduction:
+		- Story about how a client know their end goal but not the steps.
+		- Every profession have a framework they use:
+			- Construction: foundation, scafolding, build walls then roof.
+		- Our foundation is design patterns.
+		- Unlink constructions, the client may ask you to change a section of the house without destorying the roof or any other area. 
+		- How Strategy design pattern saved me.
+
+	- The Ideal Story:
+		- Project started out with a simple roadmap. 
+		- The goal was broken down into 3 phases:
+			- Impelement items
+			- Add More features
+			- Integrate with existing systems.
+		- Project had a set deadline for phase 1.
+		- Simple enough right?
+	- The True Story:
+		- The client scope creep/crawl/walk/run..
+		- Nothing went as planned.
+		- Project took over a year
+		- All three phases got rolled into one.
+		- At this point we had multiple destination points.
+		- Was able to implement all clients requirements - in the shortest possible time.
+
+	- The Strategy That Saved Us:
+		- We did all the initial steps in the SDLC.
+		- From the onset I decided to use design pattern.Strategy design pattern was choosen.
+		- This will help figure out the complexities.
+		- Benefits:
+			- Regression testing was reduced at a mininal
+			- No major updates to unit tests.
+			- I was able to maintain my sanity.
+			
+
+Off Grid Solar System - Second Year Anniversary
+=============================================
+- Talk about process
+	- Show chart around energy generated.
+	- Talk about no need for maintenance.
+	- Talk about recent system glitch.
+
+- Did I make the right decision?
+	- Carbon Footprint and Importance
+	- How the industry is changing: Wigton IPO, more utility solar projects, major disrpution happening to
+	- JPS taking extra step to ensure customers are adhereing (https://twitter.com/DJCourtneyJm/status/1172170818618630151). After experincing a 25% drop in monthly bill, he got multiple visits from separate teams.
+
+- Potential Risk to Project:
+	- Hurrican season and mitigation strategy.
+	- Jamaica law allows for generation but not for distribution. What happen if the law changes (tax stand point)?
+	
+- Industry Leaders
+	- James, met him once
+	- Emma climate activist dirving from an environmental standpoint
+	- Visited Solar expo. 
+
+
+
+
+A New Instance Of Me (Listen To Ted Talk to help) √
+====================
+- March 28, 2019 at 12:15:20am was when my life changed.
+- Explain the joy - Joy cometh In the morning:
+	- Mental change
+	- First time experincing child birth.
+	- Holding the little one in my arm.
+	- Unexplainable joy.
+- Lessons Learned:
+	- I tip my hat off to my wife.
+	- She is truly a strong woman.
+	- New level of appreciation for enduring 18hrs of intense labour.
+	- I have a new boss.
+	- 
+- Explain the horror and the emotional toll 
+	- As they say, no pain no gain. 
+	- 
+- 
+
+
+My First Failed Business Venture
+================================
+- 
+
+
+2018 - The Year In Review √
+=========================
+- Introduction
+	- So many things happened, from career to personal growth.
+	- I've seen improvements in various aspect of my life.
+
+- Career
+	- Took a brave step in my career path
+
+- Entreprenurship
+	- My attempt at applying the venture capitailst approach to farming
+	- 
+- Personal Growth
+	- Listen more.
+	- More appreciative of life.
+	- Took on another personal project
+
+- Looking For Better And Greater Things.
+	- Getting comfortable with the uncomfortable
+	- Constantly disrupt myself.
+	- Help others
+	- Look forward to raise my baby boy.
+
+
+Off Grid Solar System - First Year Anniversary √
+=============================================
+- Introduction
+	- Talk about the journey
+
+- Benefits
+	- Reliable power source
+	- Neighbours got in on the action : asking to charge device during power outage.
+	- Neighbours noticed the benefits and want in.
+	- My father has become more energy concious
+	- Plug into the existing infrastructure, reduce the need for additional wiring.
+
+- Power Generation
+	- It has generated over 0.5MG of electricity
+	- The good:
+		- Performs well during cool days.
+		- start production from 9am - 5pm (tree at my house)
+		- rearly discharges below 50%
+		- provides adiquate and reliable power supply through the period
+	- The bad:
+		- The refridgerator utilize excess power during the peak summer
+		- We noticed a discard warning, which has been resolved - due to the backflow of the system.
+
+- What I've learned
+	- Being a DIY project, I got to fully appreciate electricity.
+	- Climate Change is real, being off the grid saved the country from purchaing extra fuel.
+	- Connecting with nature is mindblowing.
+		- Once you connect with nature, it will push you further
+		- Want to create a biodigester plant in hopes of generating electricity.
+
+	- The geeky side: battery life is based on usage.
+	- The geeky side: the effeciency of your equiptment is of great importance. It doesn't matter how much you produce it is the effeciency rate. 
+
+
+Gratefulness is flowing from My Heart 🎶  √
+=================================================
+	Great research around gratitude: https://www.huffingtonpost.com/randy-kamen-gredinger/the-transformative-power-_2_b_6982152.html
+
+	- So much to be grateful for
+		- 
+
+	- The benefits of gratitude
+		- Improved social and emotional well-beign
+		- Greater optimisim and happiness
+		- Increase health, immune system and low blood pressure
+	- What I'm grateful for.
+		- Life
+			- I continiously seek growth
+			- Not afarid to fail
+
+		- Family
+			- There nothing like family - good family.
+			- Having people who have your best interest at heart.
+			- Having people of non-blood like
+		- Challenges
+			- Diamond is made only with pressure.
+			- It is due to adversities why we are here
+			- 
+	- My Theme Phrase
+		- Daily Theme and how it changed my perception.
+		- This blog is about that said purpose.
+
+
+	- A Common Factor
+		- The books I've read speaks highly of being grateful.
+		- Speaking good in your life and in the life of others.
+		- Be grateful for what you have
+
+	- Are You Alive?
+		- One there is life there is hope
+		- What you should be grateful for.
+		- 
+
+
 I'm A Mentor? √
 ============
  	- Life = Expect the Unexpected.

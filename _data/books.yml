@@ -1,3 +1,50 @@
+- name: "Elon Musk. Tesla, SpaceX, and the Quest for a Fantastic Future"
+  author: "Ashlee Vance"
+  read: 2020
+  cover: /images/books/elon-musk.jpeg
+  summary: >
+          A full insight into the life of Elon Musk, who is widely known as one of the greatest disruptive entreprenure of our time.
+          The book provides a detail view of his life, spanning from his childhood days up to 2015. As the Wall Street Journal puts it, "[A] spirited and riveting biography".
+          Being constantly referred to as Tony Stark (Iron Man), he has proven lived up to the name. Due to his grit and high tolerance of failure.
+  personal-impact: >
+
+        Having spent a week to complete this book, I fully understand why I understood his mission. Disruption is happening on all levels, but he has managed to take on the 
+        hardest problems despite the pushbacks. All his companies are leading the way for a cleaner and better race and that I'm greatful for.
+
+- name: "The Missing Piece" 
+  author: "Paul J. Rosen"
+  read: 2019
+  cover:  /images/books/book-missing-piece.png
+  summary: >
+          This is an introduction to Nutrition Response Testing. Which is an effective method used to effectively highlight the underlaying
+          cause of various body ailments. This deviates from the current medial profession, whereby a broad brush approach is used to resolve ailments. 
+          This method instead focus on what the body requires inorder to resolve this issue.
+  personal-impact: >
+          This short read was very informative. It highlights the way in which the various sectors of my body is related. 
+          It also highlights how my body function and what approach I can use to identify various issues by tapping into the body's
+          natrual response mechanism. 
+
+- name: "Gamify - How GamificationMotivates People To Do Extraordinary Things" 
+  author: Brian Burke - Bartner, Inc.
+  read: 2019
+  cover:  /images/books/gamifiy.jpg
+  summary: >
+          Gamification is a technique use to improve outcomes while incentiving users to achieve the intended outcome.
+          This book focuses on how projects maybe able to achieve remarkable results by engaging their users with the use of various reward system.
+          In providing a step by step process, this book showcases how projects may go about achieving this objective. It uses examples from Nike+, DirectTV among others
+          to highlight benefits and success cases from both an employer/consumer perspective.
+  personal-impact: >
+          Help me understand what is the science behind how to think about gamifiying any user experience and how to differentiate it from a simple reward model.
+          A book that was written in 2014 has done a remarkable job predicting a technology and its viability in 2020. Evidentily, I've seen gamification in various projects and I do expect this model to continue. 
+          I agree with the ideas expressed in this book as I find myself looking at the leaderboard of various programs I'm involved in.
+          
+- name: "Human + Machine: Reimagining Work in the Age of AI" 
+  author: Paul R. Daugherty & H. James Wilson
+  read: 2019
+  cover:  /images/books/human_machine_age_of_ai.jpg
+  summary: With the current FUDs around artificial intelligence and its disruption in relation to job market. This book has done a great job of contextualizing the fact that this technology gave us superpowers. It lays out the plan required by companies to achive this with the use of MELDS. Mindest is needed to channel uncharted territory. Experimentation should be done in a sandbox manner and then move outwards. Leadership is necessary in alleviating those fears. Skills are important as the workforce should be reskilled to handle the new terrain. 
+  personal-impact: Provides some direct examples as to how I can contribute to this change by improving my AI skills and think about ways of using it.
+
 - name: The Healing Wonders of Herbs
   author: Herminia de Guzman-Ladion
   read: 2014
@@ -76,3 +123,9 @@
   summary: A Grenadian/Jamaican author sharing his story of how he transformed his life by turning all his challenges into opportunities.
   personal-impact: This book encourages me to continue to server and help others as much as I can. Trusing the process and believe in your abilities and the Most High will find a way to bless you. 
 
+- name: Ted Talks - The Official TED Guide for Public Speaking
+  author: Chris Andreson (Head of TED)
+  read: 2019
+  cover:  /images/books/ted-talks.png
+  summary: This book teaches at a pratical level how to plan and deliver a powerful idea through public speaking. Having an idea you're passionate about is one thing, but communicating it effectively is another. This book lays the foundation on how to execute a powerful presentation.
+  personal-impact: The adivces and the format of the book are clear and easy to follow. I'm now able to understand why I'm so drawn to Ted Talk presentations.

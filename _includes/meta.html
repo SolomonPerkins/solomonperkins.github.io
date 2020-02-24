@@ -14,11 +14,20 @@
 <meta name="description" content="{{ site.description }}">
 <meta property="og:description" content="{{ site.description }}" />
 <meta name="author" content="{{ site.name }}" />
+<meta name="url" content="{{ site.primarydomain }}{{ page.url }}" />
 
 {% if page.title %}
 	<meta property="og:title" content="{{ page.title }}" />
-	<meta property="twitter:title" content="{{ page.title }}" />
+	<meta name="twitter:title" content="{{ page.title }}" />
 {% endif %} 
+{% if page.header_image %}
+	<meta property="og:image" content="{{site.primarydomain}}{{ page.header_image }}" />
+	<meta name="twitter:image" content="{{site.primarydomain}}{{ page.header_image }}" />
+{% endif%}
+
+<meta name="twitter:description" content="{{ page.introduction }}" />
+<meta name="twitter:card" content="summary_large_image" />	
+
 
 <!--[if lt IE 9]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -29,6 +38,7 @@
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/custom-layout-template.css" media="screen"/>
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/print.css" media="print"/>
 
+
 {% if page.meta == "projects" %}
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/projects.css" media="screen"/>
 {% endif %}
@@ -37,7 +47,14 @@
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/books.css" media="screen"/>
 {% endif %}
 
+{% if page.meta == "blog" %}
+	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/blog.css" media="screen"/>
+
+{% endif %}
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/theme/snow.css" media="screen"/>
+
+
+
 
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/custom-layout-template.css" media="screen"/>
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/print.css" media="print"/>
-
