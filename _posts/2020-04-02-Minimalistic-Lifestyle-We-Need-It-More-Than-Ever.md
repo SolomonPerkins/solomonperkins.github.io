@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minimalism Lifestyle - We Need It More Than Ever
+title: Minimalistic Lifestyle - We Need It More Than Ever
 tags: minimalism lifestyle joy consumerism
 date: 2020-04-04
 read_time: 2min
