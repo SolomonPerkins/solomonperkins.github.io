@@ -1,4 +1,118 @@
-.projects{
+/*@import "compass/css3";*/
+
+/* Fonts */
+/*@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,700);*/
+body {
+  /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: 0.05em;
+}
+
+/* Layout */
+* {
+  @include box-sizing(border-box);
+}
+
+/* Styling */
+.timeline {
+  margin: 4em auto;
+  position: relative;
+  max-width: 46em;
+  
+  &:before {
+    background-color: #2879d0;
+    content: '';
+    margin-left: -1px;
+    position: absolute;
+    top: 0;
+    left: 2em;
+    width: 2px;
+    height: 100%;
+  }
+}
+
+.timeline-event {
+  position: relative;
+  list-style-type: none;
+  overflow: hidden;
+
+  &:hover {
+  
+    .timeline-event-icon {
+      @include rotate (-45deg);
+      background-color: rgb(168, 50, 121);
+    }
+    
+    .timeline-event-thumbnail {
+      @include box-shadow(inset 40em 0 0 0 rgb(168, 50, 121));
+    }
+  }
+}
+
+.timeline-event-copy {
+  padding: 2em;
+  padding-left: 3em;
+  position: relative;
+  top: -1.875em;
+  left: 2em;
+  width: 80%;
+  border-left: 1px solid #2879d0;
+  
+  h3 {
+    font-size: 1.75em;
+  }
+  
+  h4 {
+    font-size: 1.2em;
+    margin-bottom: 1.2em;
+  }
+  
+  strong {
+    font-weight: 700;
+  }
+  
+  p:not(.timeline-event-thumbnail) {
+    padding-bottom: 1.2em;
+  }
+}
+
+.timeline-event-icon {
+ /* @include transition(transform 0.2s ease-in);
+  @include rotate (45deg);
+ */ 
+  background-color: #2879d0;
+  outline: 15px solid white;
+  display: block;
+  margin: 0.5em 0.5em 0.5em -0.5em;
+  position: absolute;
+  top: 0;
+  left: 2em;
+  width: 1em;
+  height: 1em;
+  z-index: 10;
+}
+
+.timeline-event-thumbnail {
+  @include transition(box-shadow 0.5s ease-in 0.1s);
+  color: white;
+  font-size: 0.75em;
+  
+  background-color: #2879d0;
+  @include box-shadow(inset 0 0 0 0em #ef795a);
+  display: inline-block;
+  margin-bottom: 1.2em;
+  padding: 0.25em 1em 0.2em 1em;
+}
+
+.header-image {
+	display: block;
+	border-bottom: 1px solid #2879d0;
+}
+
+
+/*.projects{
 	padding: 0;
 	margin: 0;
 	position: relative;
@@ -17,12 +131,12 @@
 .project {
 	max-width: 230px;
 	max-height: 300px;
-	/*padding: 2%;*/
+	/*padding: 2%;* /
 	flex-grow: 1;
 	flex-basis: 1;
 	border: 1px solid;
 
-	/*display: flex;*/
+	/*display: flex;* /
 }
 
 
@@ -37,3 +151,4 @@
 .project-meta {
 
 }
+*/

@@ -1,0 +1,21 @@
+- name: Personal Website
+  date: 2016-11-11
+  duration: "Nov. 2016 - Present"
+  header_image: "/images/projects/image1.jpeg"
+  purpose: The purpose of this project is to improve on my communication skills while sharing & document a few valuable lessons I've learned in life.
+  description: "PRoject has a few features"
+  more_details: "<a href=''>More Details</a>"
+- name: Resume Project
+  date: 2014-01-01
+  duration: "Jan 2014 - March"
+  header_image: "/images/projects/image1.jpeg"
+  purpose: To have my resume with me in a soft copy format.
+  description: Keeping a readily accessable version
+  more_details: Click here
+- name: Another Project
+  date: 2013-10-10
+  duration: "Oct 2013 - Present"
+  header_image: "/images/projects/image1.jpeg"
+  purpose: The never ending projet
+  description: A description of what it contains
+  more_details: Another Link

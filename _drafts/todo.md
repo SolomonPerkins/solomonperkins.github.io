@@ -8,6 +8,63 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+I Want To Present At Ted Talk
+=============================
+	- Introduction
+		- I see Ted Talk as the pelican of all presentation.
+		- As Einstein use to say: IF you can't explain it you truly don't understand it.
+		- My goal for the next 3 years is to do it.
+
+	- Why This Goal
+		- Being good at Technology is not enough
+		- Communicating effectively across multiple domains is an important skill.
+		- I grew up listening to Ted Talk presentations.
+		- I learn alot form their presentation and it has shaped my life.
+		- Giving back is the leat I can do.
+		- Having read Chris Anderson Ted Talk book, I can't help but wanting to apply the lessons he has taught.
+	
+	- My Current Progress
+		- So I'm yet to master the basicis of presentations. 
+		- However I continue to practise. Both in the professional context and personal/meetups.
+		- Here are the list of presentations I've done thus far:
+		- 	
+	- I've Got Work To Do
+		- Areas I need to improve upon.
+		- How does my blog fit into this bigger picture.
+		- 
+
+Secret In Living Could Be Minimalist Lifestyle
+=======================
+	- Introduction
+		- We need to get back to the basics of life.
+		- 
+
+		- Care about my carbon footprint.
+		- I grew up with little or nothing.
+		- Having read the book, The Go Giver, I'm more motivated to give more than I take.
+		- Living a minimalism list style is counter to the current narrative. Get the latest gadget, 
+
+	- My Understanding
+		- It is a lifestlye.
+		- Allows you to live a meaningful life by removing the unnecessary clutter.
+		- It doesn't mean you should sell all your belonging and live on crackers and water.
+		- More a call to action, questioning how you can reduce your consumption of goods & services.
+
+	- Needs vs Want
+		- As you turn on the TV you're being bombarded with the lastest products.
+		- It is positioned as something that you'll need..
+	
+
+	- How I'm Declutting My Life
+		- As a lover of nature, I try to live a sustainable lifestyle.
+		- That indirectly nudges me into the direction of only getting what is nessary.
+		- My house in the country side is fully off grid.
+		- I did an exploration project of understanding the feasibility of biodigester plant.
+		- Sharing the things I've done has been more rewarding than I've thought.
+		- 
+
+	-  
+
 GoodBye Jason :(
 ==============================
 	- Introduction
