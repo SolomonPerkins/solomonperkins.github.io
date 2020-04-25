@@ -902,6 +902,13 @@ footer a:hover {
 .writing-speaking-msg {
   color: #2879d0;
 }
+.writing-speaking-msg a, a.info-link {
+  text-decoration: underline;
+}
+
+writing-speaking-msg a {
+  text-decoration: underline;
+}
 
 .mobile {
   display: none;
