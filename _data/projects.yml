@@ -1,0 +1,7 @@
+- name: Intelligent Flight System
+  date: 2013-11-01
+  duration: "Nov. 2013 - February"
+  header_image: "/images/projects/ai-flight/shortest-flight.png"      
+  purpose: "The purpose was to solve complex problems with the use of AI through inferencing on a model."
+  description: "An intelligent flight system used to assist persons in reaching their destination from various airports using Prolog programming language"
+  more_details: ""
