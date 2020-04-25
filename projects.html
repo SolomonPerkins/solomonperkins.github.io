@@ -8,7 +8,7 @@ tags: [personal, projects]
 
 <section class="projects">
 	<ul class="timeline">
-		{% for project in site.data.projects %}
+		{% for project in site.data.projects reversed %}
 			{% assign currentdate = project.date | date: "%Y" %}
 			{% assign postdate = project.date | date: "%Y-%m-%d" %}
 
@@ -18,48 +18,11 @@ tags: [personal, projects]
 		    <div class="timeline-event-copy">
 		      <p class="timeline-event-thumbnail">{{ project.duration }}</p>
 			  <img class="header-image" src="{{ project.header_image }}" alt="{{ project.name }}"/>
-		      <p><strong>{{ project.name }}</strong></p>
+		      <p class="project-headline"><strong>{{ project.name }}</strong></p>
 		      <p><span>{{ project.purpose }}</span></p>
 		      <p>{{ project.description }}</p>
 		    </div>
 		  </li>
 		{% endfor %}
 	</ul>  
-
-
-
-	<!-- <div class="project">
-		<div class="project-visual-wrapper">
-			<img class="image" src="/images/blog/the-healing-wonders-of-herbs-book.jpeg" alt="The name of item">
-		</div>
-		<div class="project-meta">
-			<p class="project-intro">This project is about</p>
-			<small class="project-date">Dec 12, 2015</small>
-			
-		</div>
-	</div>
-
-	<div class="project">
-		<div class="project-visual-wrapper">
-			<img class="image" src="/images/blog/the-healing-wonders-of-herbs-book.jpeg" alt="The name of item">
-		</div>
-		<div class="project-meta">
-			<p class="project-intro">This project is about</p>
-			<small class="project-date">Dec 12, 2015</small>
-
-		</div>
-		
-	</div>
-
-	<div class="project">
-		<div class="project-visual-wrapper">
-			<img class="image" src="/images/blog/the-healing-wonders-of-herbs-book.jpeg" alt="The name of item">
-		</div>
-		<div class="project-meta">
-			<p class="project-intro">This project is abouta doas foasn dfaosn dfaosdn fsado</p>
-			<small class="project-date">Dec 12, 2015</small>
-		
-		</div>
-	</div>
- -->
 </section>

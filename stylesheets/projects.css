@@ -1,54 +1,39 @@
-/*@import "compass/css3";*/
-
-/* Fonts */
-/*@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,700);*/
-body {
-  /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-size: 1em;
-  font-weight: 300;
-  line-height: 1.5;
-  letter-spacing: 0.05em;
-}
-
-/* Layout */
-* {
-  @include box-sizing(border-box);
-}
 
 /* Styling */
 .timeline {
   margin: 4em auto;
   position: relative;
   max-width: 46em;
-  
-  &:before {
-    background-color: #2879d0;
-    content: '';
-    margin-left: -1px;
-    position: absolute;
-    top: 0;
-    left: 2em;
-    width: 2px;
-    height: 100%;
-  }
+}
+
+.timeline::before {
+	background-color: #2879d0;
+	content: '';
+	margin-left: -1px;
+	position: absolute;
+	top: 0;
+	left: 2em;
+	width: 2px;
+	height: 100%;
 }
 
 .timeline-event {
   position: relative;
   list-style-type: none;
   overflow: hidden;
+  -webkit-transition: -webkit-transform 0.8s ease-in-out;
+  transition: transform 0.8s ease-in-out;
+}
 
-  &:hover {
-  
-    .timeline-event-icon {
-      @include rotate (-45deg);
-      background-color: rgb(168, 50, 121);
-    }
-    
-    .timeline-event-thumbnail {
-      @include box-shadow(inset 40em 0 0 0 rgb(168, 50, 121));
-    }
-  }
+.timeline-event-icon {
+  -webkit-transition: -webkit-transform 0.1s ease-in-out;
+  transition: transform 0.1s ease-in-out;
+
+}
+
+.timeline-event:hover .timeline-event-icon {
+	-webkit-transform: rotate(-45deg);
+  	transform: rotate(-45deg);
 }
 
 .timeline-event-copy {
@@ -56,26 +41,30 @@ body {
   padding-left: 3em;
   position: relative;
   top: -1.875em;
-  left: 2em;
+  left: 0.8em;
   width: 80%;
-  border-left: 1px solid #2879d0;
-  
-  h3 {
+  /*border-left: 1px solid #2879d0;*/
+}  
+
+.timeline-event-copy:last {
+	padding-bottom: 0em;
+}
+
+.timeline-event-copy h3 {
     font-size: 1.75em;
   }
   
-  h4 {
+.timeline-event-copy h4 {
     font-size: 1.2em;
     margin-bottom: 1.2em;
   }
   
-  strong {
+.timeline-event-copy strong {
     font-weight: 700;
   }
   
-  p:not(.timeline-event-thumbnail) {
+.timeline-event-copy p:not(.timeline-event-thumbnail) {
     padding-bottom: 1.2em;
-  }
 }
 
 .timeline-event-icon {
@@ -88,7 +77,7 @@ body {
   margin: 0.5em 0.5em 0.5em -0.5em;
   position: absolute;
   top: 0;
-  left: 2em;
+  left: 0.8em;
   width: 1em;
   height: 1em;
   z-index: 10;
@@ -111,44 +100,19 @@ body {
 	border-bottom: 1px solid #2879d0;
 }
 
-
-/*.projects{
-	padding: 0;
-	margin: 0;
-	position: relative;
-
-	display: -moz-box;
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: -webkit-flex;
-	display: flex;
-	
-	-webkit-flex-flow: row wrap;
-	flex-flow: row wrap;
-	justify-content: space-around;
+.project-headline {
+	color: #2879d0;
+	padding-top: 1em;
 }
 
-.project {
-	max-width: 230px;
-	max-height: 300px;
-	/*padding: 2%;* /
-	flex-grow: 1;
-	flex-basis: 1;
-	border: 1px solid;
-
-	/*display: flex;* /
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+	.timeline {
+		margin: 2em auto;
+		maxx-width: 70em;
+	}
+	.timeline-event-copy {
+		padding-left: 2em;
+		width: 80%;
+	}
 }
-
-
-.project-visual-wrapper {
-	padding: 2%;
-}
-.project-visual-wrapper img.image {
-	border:none !important;
-	padding: none !important;
-}
-
-.project-meta {
-
-}
-*/
