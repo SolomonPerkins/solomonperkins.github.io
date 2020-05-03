@@ -8,6 +8,97 @@ introduction:
 
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
+Rich Dad Poor Dad: Changed My Understanding Of Money & Purpose
+==============================================================
+
+																							-- []
+															--- [became an investor]	--	
+						--- [financial knowledge quest] ---
+[rich dad poor dad] ---
+						--- [mentorship]
+										-- [read more books]
+															-- [recieved mentorship]
+																					-- [became a mentor]
+																									-- [sharing the lessons]
+
+	- Introduction:
+		- Have you every had that one thing that flip the switch in your brain?
+		- How did it make you feel when the light bulb went off?
+		- For me a book by Robert Kyisoaki, Rich Dad Poor Dad was the book that did it for me.
+
+	- How It All Started:
+		- I love to learn, and soak up every bit of info.
+		- I'm also inquisitive.
+		- At work a past co-worker, Vlad, was talking another friend about books.
+		- Vlad mentioned the book, with an emphasis. Glearning look and an exciting tone.
+		- His facial expression was enough to get me interested.
+		- Before that conversation ended I jot it down on my notepad.
+		- That is how it started.
+	
+	- How It Changed My Life
+		- That night I was hooked on the book.
+		- Took me two days to complete it.
+		- Even though I was reading a free PDF version, every bit of the info was priceless.
+		- I remember pausing during the reading, put hands on chin and sayy "Ohhh seen wow".
+			- Talking to myself like
+		- At the end, couldn't believe that I just got a BSC Degree worth of info for free!
+	
+	- (section) How It Changed My Mental State
+		- "School don't teach you about money" - Robert said.
+		- That is true. School teaches you how to be a slave for it.
+		- Constantly working to achieve the next goal instead of letting money work for you.
+		- I was taught that if I have enough money undermy pillow I'm good.
+		- The switch got flipped in my brain.
+		- Instantly it all made sence, my perspective change.
+	- (section) What Followed:
+		- The book encouraged you to play a game called Cash Flow.
+		- The game simulation teach you the distinction between asset & liabilities and provide highlevel understanding of each.
+		- This acts as a form of reinforcement. My brain instantly catch on.
+		- To this day I'm still playing the game - Especially during Covid19.
+		- Budgeting moved from an in-head calculation to a full blown spreedsheet.
+		- I was motivate and wanted to learn more, so I re-read the book.
+		- I did learn more, the art of focusing and having a purpose.	
+	- (section) My Actions Changed Instantly:
+		- Other than thanking Vlad on multiple occassions, I started sharing how amazing the book is.
+		- More importantly I changed a few things in my life:
+			- My saving habit improved
+			- I started learning about investment
+			- Money was considered as a factor in my future planning
+			- I started to learn about investing & realestate.
+			- Reading became my hobby
+			- I starting having mentors
+	- Sharing The Good News:
+		- As of this day, that one book has catalyzed my life. 
+		- Now I'm no longer a programmer who wants to go through life coding.
+		- I'm a intern investor (for the past 3years)
+		- I'm a mentor and I share this knowledge with my mentees.
+		- As a result, one of my mentee was able to transform his life.
+		- My wife also benefitted and now she is at mastery level.
+		- Every conversation I have with young people, I end up talking to them about money and how to think about it. The book is normally apart of it.
+	
+	- Young People Aren't Getting The Proper Teaching.
+		- First I'll touch on the topic of school. 
+		- School teaches us how to be a worker bee. 
+		- Things are more challenging for students coming from poor families
+		- This is how Robert put it: "Sadly, money is not taught in schools. Schools focus on scholastic and professional skills, but not on financial skills. This explains how smart bankers, doctors, and accountants who
+earned excellent grades may struggle financially all of their lives."
+		- This then result in the widening of the gap between the rich and the poor.
+		- I won't go indepth on this as you hear it on the news daily.
+		- But this is fundamental reason Robert mentioned in the book: "One of the reasons the rich get richer, the poor get poorer, and the middle class struggles in debt is that the subject of money is taught at home, not in school."
+
+		- with those varying distinctions, how can we change the direction. 
+		- Ghetto yours will see the big car & the flashy things, skip the process and go straight for the material
+		- Without the financial knowledge they often return to previous state or worst off (downward spiral)
+	
+	- I'm very grateful of having a group of friends who are always encourging and pushing each other
+
+
+
+
+
+
+	
+
 GoodBye Jason :(
 ==============================
 	- Introduction
