@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Book Rich Dad Poor Dad - Changed My Understanding Of Money & Purpose
+title: The Book Rich Dad Poor Dad - Changed My Understanding About Money
 tags: financial personal knowledge money books reading
 date: 2020-05-03
 read_time: 1 min
