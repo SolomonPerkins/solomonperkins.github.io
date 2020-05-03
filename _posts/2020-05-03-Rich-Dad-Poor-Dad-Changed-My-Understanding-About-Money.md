@@ -50,7 +50,7 @@ I believe schools should teach proper financial management for all students. Sta
 
 I'm not only echoing the teachings of Robert. The Bible makes mention that we need to understand debt and money - [Proverbs 22:7](https://www.biblegateway.com/passage/?search=Proverbs+22:7){:target=_blank}. We can't resolve a problem if you don't understand it. Money is a big problem for us all. Families are being separated due to a lack of financial knowledge. That is a problem worth fixing. 
 
-Thank you, Vlad, for starting me off on this journey. Gratitude is a must, Toast.
+Thank you, Vlad! Gratitude is a must, Toast.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p8HoEvDh70Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
