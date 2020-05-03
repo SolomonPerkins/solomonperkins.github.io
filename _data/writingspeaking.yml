@@ -1,3 +1,20 @@
+- type: speaking
+  title: "IntroductionTo Quality Assurance - Three Units "
+  image: "/images/writing+speaking/presentation-qa.jpg"
+  location: "<a href='https://docs.google.com/presentation/d/1UZxw4KPCxcTmHDemge0YwdrY7i2IRyXAjMZwt2BnNAo/edit'>Presentation Deck<a>"
+  date: 2020-04-11
+- type: writing
+  title: "My One Year Old Is Fearless"
+  location: "<a class='info-link' href='https://medium.com/@daddyblog/what-does-my-one-year-old-do-a2d94385d0f3'>Medium</a>"
+  date: 2020-04-11
+- type: writing
+  title: "Coronavirus — Time To Prepare Your Immune System"
+  location: "<a href='https://medium.com/@daddyblog/coronavirus-time-to-prepare-your-immune-system-89559e656928'>Medium</a>"
+  date: 2020-03-13
+- type: writing
+  title: "$6700 Per Year Budget For My Son With Eczema"
+  location: "<a href='https://medium.com/@daddyblog/6700-per-year-budget-for-my-son-with-eczema-aeefe7555160'>Medium</a>"
+  date: 2020-03-07
 - type: writing
   title: "Postpartum Depression Is Real— Tips For Fathers" 
   location: "<a href='https://medium.com/@daddyblog/postpartum-depression-is-real-tips-for-fahters-16c5f0f58048'>Medium</a>"
