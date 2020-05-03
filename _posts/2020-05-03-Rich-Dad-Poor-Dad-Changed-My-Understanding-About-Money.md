@@ -18,7 +18,7 @@ Mine happened to be a book. [Rich Dad Poor Dad by Robert Kiyosaki](https://en.wi
 
 <br/>
 <br/>
-**How It All Began**
+**How It All Begun**
 
 I love to learn. I'm like a sponge, get me close enough to any knowledge source and slush - I'll soak it up.
 Being inquisitive is one of my strengths & weakness, but that was how I became aware of this book. 
@@ -29,14 +29,14 @@ During my time at Medullan, two of my coworkers were having a conversation about
 <br/>
 **How It Changed My Life**
 
-I began reading on my journey home from work. By the end of the night, I was hooked. It took me two days to finish it. The week ended but my addition didn't. So I read it twice. __Even though I read the free PDF version, every bit of information was priceless__. They say getting tertiary-level knowledge is often costly (money & time). But this book is a true lifehack.
+I begun reading on my journey home from work. By the end of the night, I was hooked. It took me two days to finish it. The week ended but my addition didn't. So I read it twice. __Even though I read the free PDF version, every bit of information was priceless__. They say getting tertiary-level knowledge is often costly (money & time). But this book is a true lifehack.
 
 This book changed me in two fundamental ways, which I'll get into. 
 
 First, let's discuss the change in my mentality. As Robert said: "School doesn't teach you about money". I agree with him 100%. School taught me how to work for money. Having gone through primary, secondary & tertiary level, I can't recall being taught about financing and how to think about money. Regurgitation was the name of the program. We took some value x and apply it to formula ax+b=c. 
 This book came and flip the script. Now I mentally categorize all financially related matters into assets or liabilities. Robert then reinforces the principles by applying the gamification technique. The game (Cash Flow) seeks to imitate the monopoly game with a slight twist. A twist to help you understand the rat-race we're in.
 
-Being grateful, I went and repeatedly thanked Vlad for sharing. But that was just the beginning. I began my quest for more knowledge and the results were transformational. I went on to read additional books related to assets, liabilities/debt, investment types, etc. Even started a proper budget, focusing on my long & short term goals. Later on, I got into a mentorship program. A few years later I even went and start a [farming business](/2019/12/24/My-First-Failed-Business.html){:target=_blank}. Even my [off-grid project](/2018/09/16/Off-Grid-Solar-System-First-Year-Anniversary.html){:target=_blank} was influenced by the teachings of this one book.
+Being grateful, I went and repeatedly thanked Vlad for sharing. But that was just the beginning. I begun my quest for more knowledge and the results were transformational. I went on to read additional books related to assets, liabilities/debt, investment types, etc. Even started a proper budget, focusing on my long & short term goals. Later on, I got into a mentorship program. A few years later I even went and start a [farming business](/2019/12/24/My-First-Failed-Business.html){:target=_blank}. Even my [off-grid project](/2018/09/16/Off-Grid-Solar-System-First-Year-Anniversary.html){:target=_blank} was influenced by the teachings of this one book.
 
 Volunteerism is something I believed in and actively practice. I shared every bit - or byte- of knowledge with my friends; especially those in my rural community. Having regular discussions about money and how it impacts their lives became my weekend routine. Shortly after I started mentoring Jason. He became a success story in the community. [Even though he is no longer with us](/2020/02/07/Goodbye-Jason.html){:target=_blank} (&#128557;), I'm proud to have witnessed his achievements. &#128557; knowing that he had so much unrealized potential is very painful. I... somehow continue to... Let's just leave it at that. RIP Jason.
 
@@ -50,7 +50,7 @@ I believe schools should teach proper financial management for all students. Sta
 
 I'm not only echoing the teachings of Robert. The Bible makes mention that we need to understand debt and money - [Proverbs 22:7](https://www.biblegateway.com/passage/?search=Proverbs+22:7){:target=_blank}. We can't resolve a problem if you don't understand it. Money is a big problem for us all. Families are being separated due to a lack of financial knowledge. That is a problem worth fixing. 
 
-Thank you, Vlad! Gratitude is a must, Toast.
+Thank you, Vlad! Gratitude is a must, toast!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p8HoEvDh70Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
