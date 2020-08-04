@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Speaking It Into Being With Ms. N Campbell
+title: "Speaking It Into Being With Ms. N Campbell"
 tags: interview post dreams
-date: 2020-08-02
+date: 2020-08-04
 read_time: 4 min
-header_image: /images/blog/tish-campbell.jpg
-introduction: 
+header_image: /images/blog/n-campbell-complete.jpeg
+introduction: I am sure you've heard the popular phrase "speak it into being", or at least a variation of it. How about a Biblical phrase "life and death is in the power of the tongue"? Fortunately enough, I have a friend who has been speaking her accomplishments into existence.
 ---
 
 
-!["Speak It Into Beign"](/images/blog/tish-campbell.jpg)
+!["Speak It Into Beign"](/images/blog/n-campbell-complete.jpeg)
 
 I'm sure you've heard the popular phrase "speak it into being", or at least a variation of it. How about a Biblical phrase: "life and death is in the power of the tongue"? Fortunately enough, I have a friend who has been speaking her accomplishments into existence.
 <br/>
@@ -25,7 +25,7 @@ As with most Yaadi, she started her professional career in Jamaica but quickly e
 
 As I've recently learned, an Visual Merchandiser directly impacts the decisions made by customers. They set the mood for customers by making the store D'place you want to be. Decorating is one aspect, designing the most functional layout impacts sales and customer satisfaction is another.
 
-Her talent and creativity were on display long before she started on this path. She started out using unwanted pieces fabrics from her previous job to make bags. This was how her now dormant company, Tishelle Designs started. With the help of her roommate - the guinea-pig - she began creating fashionable products for clients. The demand grew and she ended up selling a few of her products to stores such as Stanley and Empress. She ultimately pivoted and ended up having a line of baby products due to customer demand. As a yaadi would say "creativity galore", just take a look at one of her recent DIY project !
+Her talent and creativity were on display long before she started on this path. She started out using unwanted pieces of fabric from her previous job to make bags. This was how her now dormant company, Tishelle Designs started. With the help of her roommate - the guinea-pig - she began creating fashionable products for clients. The demand grew and she initially sold her bags to Babeelicious store in Kingston. After establishing a line product, she struck a deal with KerryManWomanHome. She ultimately pivoted and ended up having a line of baby products due to customer demand. As a yaadi would say "creativity galore", just take a look at one of her recent DIY projects!
 
 !["Example Of Her Work"](/images/blog/tish-cb-combined.jpeg) 
 
