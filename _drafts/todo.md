@@ -6,6 +6,59 @@ date: 2016-11-15
 introduction: 
 ---
 
+
+Speaking It Into Beign - Tish Campbell 
+==================================
+- Introduction:
+	- Speak it into being is a statement we use in our culture.
+	- I ran into someone who've been applying it to her life for years.
+	- We jumped on a whatsapp call to learn to instantly learn more.
+	- Here are some important advice she got for us.
+	- But first her background
+
+- Introducing Tish Cambpell
+	- An interior designer by profession managing over 8 stores across multiple islands.
+	- As I've recently learned, Interior designers play an important role attracting to the products. 
+	- Having assisted over 34 stores across Jamaica, she is truly an expert in  Interior designing. 
+	- She is currently based in St. Lucia 
+
+	- Not just a fly by night expert, She has been using her creativity before she started working at Courts. She started out by using unwanted frabric/materials to make bags. With the help of her roommate - the ginea-pig - she began producing products for clients. Ultimately ended up having a line of products babies. 
+
+	I consider her a a true entreprenuer, one who "tun her hand mek fashion".
+
+
+Speak It Into Being..
+	- This a well known phrase used to project things into the real world before they happen.
+	- This phrase seems to somehow tap into our inate abilit to go beyond your current capability.
+	- Tish not only vocalise her dreams, she also visualize them with her vision board.
+	- Her daily routine as a God fearing woman began with listening to inspirational quotes
+
+	Speak & View it into beign..
+	Here are a few tips on how she recommend you do this.
+	- Ensure your vision board is the last thing you see before you lay to rest and the first thing when you get up. This somehow uncontiously activates area of our brain consiously.
+	- Fill your day postivite thoughts and include God in your daily living.
+	- Include pictures of goals you wish to accomplish on your vision board.
+
+	She has proven that having a vision board works. Having achieved all 6 of her vision board goals she set her eye on creating another list of goals. Infact, her current position was one of those items on her board.
+
+
+Life Tips..
+	- Having listend to Tish explain how she has been literally applying teachings of the Bible to her life was amazing. 
+	- The has been claiming what was spoken.
+	- For young people here are three important life tips she believed is important
+		1 Be prepare for new opportunities.
+		- Use what ever time you currently have to prepare and avoid any form of procrastination.
+		2.Learn and be open minded. Be open to alternative perspecitve. Learning is somethign you should never stop.
+		3. Forgive. It is for your benefit and not the offender. Life is too short.
+		3. Treat everyone with respect. Humans often judget based on external factors, but we should treat each and everyone as we'd like to be treated.
+
+Admitting To Two things..
+	1. I setup the meeting all because I a multipurpose furniture she posted on her timeline. As a do-it-yourselfer I wanted to learn more about the product. 
+	Secondly, I've always admired her positive mindset on Twitter. Always avoid 
+
+ 
+
+
 [Markdown syntax](https://sourceforge.net/p/jekyllc/bugs/markdown_syntax)
 
 Rich Dad Poor Dad: Changed My Understanding Of Money & Purpose
