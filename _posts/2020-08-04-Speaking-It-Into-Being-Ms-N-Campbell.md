@@ -20,10 +20,10 @@ I recently had a WhatsApp call with her to learn about a particular multi-purpos
 **Ms. Campbell**
 <br/>
 <br/>
-An Visual Merchandiser by profession who is currently applying her skills at four [Courts Stores in St. Lucia](https://www.shopcourts.com/stlucia/){:target="_blank"} and ten other stores in the Eastern Caribbean region.
+A Visual Merchandiser by profession who is currently applying her skills at four [Courts Stores in St. Lucia](https://www.shopcourts.com/stlucia/){:target="_blank"} and ten other stores in the Eastern Caribbean region.
 As with most Yaadi, she started her professional career in Jamaica but quickly excelled at her craft. Before moving to St. Lucia, she decorated over 34 member stores across the island. If you've ever walked into Ashley's, Lucky Dollar, or Courts you may have been impacted by her decorative skills.    
 
-As I've recently learned, an Visual Merchandiser directly impacts the decisions made by customers. They set the mood for customers by making the store D'place you want to be. Decorating is one aspect, designing the most functional layout impacts sales and customer satisfaction is another.
+As I've recently learned, that a Visual Merchandiser directly impacts the decisions made by customers. They set the mood for customers by making the store D'place you want to be. Decorating is one aspect, designing the most functional layout impacts sales and customer satisfaction is another.
 
 Her talent and creativity were on display long before she started on this path. She started out using unwanted pieces of fabric from her previous job to make bags. This was how her now dormant company, Tishelle Designs started. With the help of her roommate - the guinea-pig - she began creating fashionable products for clients. The demand grew and she initially sold her bags to Babeelicious store in Kingston. After establishing a line product, she struck a deal with KerryManWomanHome. She ultimately pivoted and ended up having a line of baby products due to customer demand. As a yaadi would say "creativity galore", just take a look at one of her recent DIY projects!
 
