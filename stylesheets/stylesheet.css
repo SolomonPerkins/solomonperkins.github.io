@@ -983,6 +983,21 @@ input#menu_checkbox[type="checkbox"]:checked ~ div.mobile-nav_section {
   animation: slideupmobilenav 0.2s ease-in both alternate;
 }
 
+.iframe-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+}
+.iframe-container .responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
 
 @keyframes zoomin {
   /*from {}*/
