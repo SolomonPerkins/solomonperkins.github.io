@@ -64,4 +64,6 @@ The Bible states that you should ask and it shall be granted onto you. So what a
 
 Before I close out with a video from Steve Harvey, I want to thank Tish for sharing her story and congratulate her on her achievements! Blessings.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DlMAIYd7-J4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/DlMAIYd7-J4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
