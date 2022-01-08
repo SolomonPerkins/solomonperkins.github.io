@@ -3,9 +3,9 @@ layout: post
 title: Church And Money - A Different Approach
 tags: thoughts church money freedom
 date: 2021-12-26
-read_time:  min
+read_time: 8 min
 header_image: /images/blog/money-bible.jpeg
-introduction: 
+introduction: From every indication the church seem to be operating as a business or another public entity. Join me as I discuss a potential approach which could be more inline with the Biblical teachings.
 ---
 
 
