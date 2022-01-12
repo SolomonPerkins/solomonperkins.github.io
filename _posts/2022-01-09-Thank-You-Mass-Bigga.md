@@ -2,7 +2,7 @@
 layout: post
 title: Thank You Mass Bigga
 tags: thoughts life mentor support passing rip
-date: 2021-01-09
+date: 2022-01-09
 read_time: 8 min
 header_image: /images/blog/thank-you.jpg
 introduction: I'm what I am because of all your love care and mentorship you've given me. Please join me as I celebrate the life of one of my mentor, father and friend.
