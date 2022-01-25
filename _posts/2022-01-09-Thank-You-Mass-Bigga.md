@@ -66,3 +66,11 @@ Also I wish to say thanks to his children for sharing your father with me:
 -  Ava: for teaching me how to be polite
 -  Dennis.
  
+
+
+<details >
+<summary>Photos</summary>
+<img src="../images/blog/biggs.jpeg" />
+<img src="../images/blog/biggs-page.jpeg" />
+
+</details>
