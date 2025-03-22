@@ -1,40 +1,369 @@
----
-layout: default
----
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-<div class="posts">
+    <title>Solomon Perkins</title>
 
-	<h2> Recent Posts </h2>
-	{% for post in paginator.posts %}
-		<article class="each-post">
-		  <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
-		  <span class="post-date">
-		  	<small>{{ post.date | date: "%b %-d, %Y" }}</small>
-		  </span>
-		  <div class="entry">
-		    {{ post.introduction }}
-		  </div>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/unicons.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
 
-		  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More &rsaquo;</a>
-		</article>
-		<br/>
-		
-	{% endfor %}
-</div>
+    <!-- MAIN STYLE -->
+    <link rel="stylesheet" href="css/tooplate-style.css">
+    
+<!--
 
+Tooplate 2115 Marvel
 
+https://www.tooplate.com/view/2115-marvel
 
-<!-- Pagination links -->
-<div class="pagination page-navigation">
-	{% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="pager previous prev-navigator navigator">&laquo; Newer</a>
-	{% else %}	
-		<span class="pager previous disabled navigator prev-navigator">&nbsp;</span>
-	{% endif %}
-	<span class="page_number"><small>/ {{ paginator.page }} of {{ paginator.total_pages }} /</small></span>
-	{% if paginator.next_page %}
-		<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/'}}" class="pager next next-navigator navigator">Older &raquo;</a>
-	{% else %}
-		<span class="pager next disabled navigator next-navigator">&nbsp;</span>
-	{% endif %}
-</div>
+-->
+  </head>
+  <body>
+
+    <!-- MENU -->
+    <nav class="navbar navbar-expand-sm navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="index.html"><i class='uil uil-user'></i> Solomon Perkins</a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a href="#about" class="nav-link"><span data-hover="About">About</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#project" class="nav-link"><span data-hover="Projects">Projects</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#resume" class="nav-link"><span data-hover="Resume">Resume</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#contact" class="nav-link"><span data-hover="Contact">Contact</span></a>
+                    </li>
+                </ul>
+
+                <ul class="navbar-nav ml-lg-auto">
+                    <div class="ml-lg-4">
+                      <div class="color-mode d-lg-flex justify-content-center align-items-center">
+                        <i class="color-mode-icon"></i>
+                        Color mode
+                      </div>
+                    </div>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ABOUT -->
+    <section class="about full-screen d-lg-flex justify-content-center align-items-center" id="about">
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-lg-7 col-md-12 col-12 d-flex align-items-center">
+                    <div class="about-text">
+                        <small class="small-text">Welcome to <span class="mobile-block">my portfolio website!</span></small>
+                        <h1 class="animated animated-text">
+                            <span class="mr-2">Hey folks, I'm</span>
+                                <div class="animated-info">
+                                    <span class="animated-item">IT Consultant</span>
+                                    <span class="animated-item">System Architect</span>
+                                    <span class="animated-item">AWS Expert</span>
+                                </div>
+                        </h1>
+
+                        <p>I am a highly qualified software consultant with extensive experience in designing, implementing and maintaining scalable systems.</p>
+                        
+                        <div class="custom-btn-group mt-4">
+                          <!-- <a href="#" class="btn mr-lg-2 custom-btn"><i class='uil uil-file-alt'></i> Download Resume</a> -->
+                          <a href="https://www.linkedin.com/in/sp-sc" class="btn custom-btn custom-btn-bg custom-btn-link">Linkedin</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-5 col-md-12 col-12">
+                    <div class="about-image svg">
+                        <img src="images/undraw/undraw_control-panel_j1wf.svg" class="img-fluid" alt="svg image">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section class="project py-5" id="project">
+        <div class="container">
+                
+                <div class="row">
+                  <div class="col-lg-11 text-center mx-auto col-12">
+
+                      <div class="col-lg-8 mx-auto">
+                        <h2>Projects I have worked on</h2>
+                      </div>
+
+                      <div class="owl-carousel owl-theme">
+                        <div class="item">
+                          <div class="project-info">
+                            <img src="images/project/project-system-design.png" class="img-fluid" alt="project image">
+                          </div>
+                        </div>
+
+                        <div class="item">
+                          <div class="project-info">
+                            <img src="images/project/project-idcp.png" class="img-fluid" alt="A personal project helping folks identify their career.">
+                          </div>
+                        </div>
+
+                        <div class="item">
+                          <div class="project-info">
+                            <img src="images/project/project-jca.png" class="img-fluid" alt="JCA, a non-profit helping folks in the culture.">
+                          </div>
+                        </div>
+                      </div>
+
+                  </div>
+                </div>
+        </div>
+    </section>
+
+    <!-- FEATURES -->
+    <section class="resume py-5 d-lg-flex justify-content-center align-items-center" id="resume">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-6 col-12">
+                  <h2 class="mb-4">Experiences</h2>
+
+                    <div class="timeline">
+                        <div class="timeline-wrapper">
+                             <div class="timeline-yr">
+                                  <span>2022</span>
+                             </div>
+                             <div class="timeline-info">
+                                  <h3><span>Lead Software Developer</span><small>BP3 Global, Inc</small></h3>
+                                  <ul>
+                                    <li><p>Architect and deliver a hybrid cloud solution on AWS.</p></li>
+                                    <li><p>Deliver a new business process automation flow using Camunda.</p></li>
+                                    <li><p>Manage, translate and co-ordinate client requirements across teams in 3 different agile teams in
+                                      various timezones.</p></li>
+                                    <li><p>Consolidate and simplify customer acquisition from 500 PDF forms to one UI app</p></li>
+                                    <li><p>Design, develop and deliver 3 years work within 1 year</p></li>
+                                    <li><p>Recruit and onboard new developers.</p></li>
+                                    <li><p>Design the DevOps process and development standard.</p></li>
+                                    <li><p>Design and integrate data access layer on DB2/AS400.</p></li>
+                                    <li><p>Reduce development effort by generating persistent layer</p></li>
+                                  </ul>
+                             </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2019</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Software Developer II</span><small>Highmark BCBSWNY</small></h3>
+                                <ul>
+                                  <li><p>Deliver HIPAA compliant software solutions on hybrid cloud using Go, Java and ASP.NET.</p></li>
+                                  <li><p>Improve search page response time and accuracy by ~50%.</p></li>
+                                  <li><p>Develop POCs and other infrastructure improvements.</p></li>
+                                  <li><p>Enhance search by including document based search indexing with Apache Jackrabbit</p></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2018</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Ass. Dev. Manager</span><small>Epic Technologies</small></h3>
+                                <ul>
+                                  <li><p>Manage resources across multiple projects.</p></li>
+                                  <li><p>Introduce performance testing to QC team.</p></li>
+                                  <li><p>Document and iterate on development standards.</p></li>
+                                  <li><p>Provide project forecasting and team structure.</p></li>
+                                  <li><p>Introduce and train TDD.</p></li>
+                                  <li><p>Introduce performance testing using Jmeter/NewRelic.</p></li>
+                                  <li><p>Motivate and support the development team.</p></li>
+                                  <li><p>Implement company wide documentation standard</p></li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2013</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Senior Software Engineer<small>Medullan Inc.</small></h3>
+                                  <ul>
+                                    <li><p>Deliver scalable, unified and engaging user experiences using PHP, AngularJS, SalesForce, Drupal,
+                                      NodeJs, SpringFramework.</p></li>
+                                    <li><p>Acting QA Engineer and Scrum Master.</p></li>
+                                    <li><p>Use performance testing to improve the scalability of the product.</p></li>
+                                    <li><p>Improve user experience by create and distribute unified navigation across apps.</p></li>
+                                    <li><p>On board new members</p></li>
+                                  </ul>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                          <div class="timeline-yr">
+                              <span>2011</span>
+                          </div>
+                          <div class="timeline-info">
+                              <h3><span>Senior Program Developer<small>UTECH - Sapna Initiative</small></h3>
+                                <ul>
+                                  <li><p>Participate in hackathons.</p></li>
+                                  <li><p>Train software developers.</p></li>
+                                  <li><p>Present new technologies to the team.</p></li>
+                                </ul>
+                          </div>
+                      </div>
+                      <div class="timeline-wrapper">
+                        <div class="timeline-yr">
+                            <span>2013</span>
+                        </div>
+                        <div class="timeline-info">
+                            <h3><span>Senior Software Engineer<small>VMBS Bank</small></h3>
+                              <ul>
+                                <li><p>Developed automated software solutions, using PHP, which improved business processes.</p></li>
+                              </ul>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-12">
+                  <h2 class="mb-4 mobile-mt-2">Educations / Certifications</h2>
+
+                    <div class="timeline">
+                        <div class="timeline-wrapper">
+                          <div class="timeline-yr">
+                              <span>2024</span>
+                          </div>
+                          <div class="timeline-info">
+                              <h3><span>AWS Certified Solutions Architect</span></h3>
+                              <p><a rel="nofollow" href="https://www.credly.com/badges/b7de5d7f-a8fe-4de2-9914-58224e6eef98">Credly link</a></p>
+                          </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2024</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>AWS Certified Devleoper</span></h3>
+                                <p><a rel="nofollow" href="https://www.credly.com/badges/da343a2e-a8cc-47b3-b98e-22af63ee57c8">Credly link</a></p>
+                            </div>
+                        </div>
+                        
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2013</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>BSc. in Computing & Information Technology</span><small>UTECH - Jamaica WI</small></h3>
+                                <p><a ref="nofollow" href="https://www.utech.edu.jm">UTECH Jamaica</a></p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTACT -->
+    <!-- <section class="contact py-5" id="contact">
+      <div class="container">
+        <div class="row">
+          
+          <div class="col-lg-5 mr-lg-5 col-12">
+            <div class="google-map w-100">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12088.558402180099!2d-73.99373482142036!3d40.75895421922642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855b8fb3083%3A0xa0f9aef176042a5c!2sTheater+District%2C+New+York%2C+NY%2C+USA!5e0!3m2!1sen!2smm!4v1549875377188" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+
+            <div class="contact-info d-flex justify-content-between align-items-center py-4 px-lg-5">
+                <div class="contact-info-item">
+                  <h3 class="mb-3 text-white">Say hello</h3>
+                  <p class="footer-text mb-0">010 020 0960</p>
+                  <p><a href="mailto:hello@company.co">hello@company.co</a></p>
+                </div>
+
+                <ul class="social-links">
+                     <li><a href="#" class="uil uil-dribbble" data-toggle="tooltip" data-placement="left" title="Dribbble"></a></li>
+                     <li><a href="#" class="uil uil-instagram" data-toggle="tooltip" data-placement="left" title="Instagram"></a></li>
+                     <li><a href="#" class="uil uil-youtube" data-toggle="tooltip" data-placement="left" title="Youtube"></a></li>
+                </ul>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-12">
+            <div class="contact-form">
+              <h2 class="mb-4">Interested to work together? Let's talk</h2>
+
+              <form action="" method="get">
+                <div class="row">
+                  <div class="col-lg-6 col-12">
+                    <input type="text" class="form-control" name="name" placeholder="Your Name" id="name">
+                  </div>
+
+                  <div class="col-lg-6 col-12">
+                    <input type="email" class="form-control" name="email" placeholder="Email" id="email">
+                  </div>
+
+                  <div class="col-12">
+                    <textarea name="message" rows="6" class="form-control" id="message" placeholder="Message"></textarea>
+                  </div>
+
+                  <div class="ml-lg-auto col-lg-5 col-12">
+                    <input type="submit" class="form-control submit-btn" value="Send Button">
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section> -->
+
+    <!-- FOOTER -->
+     <footer class="footer py-5">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-lg-12 col-12">                                
+                        <p class="copyright-text text-center">Motto - Love your life, perfect your life</p>
+                        <p class="copyright-text text-center">Designed by <a rel="nofollow" href="https://www.facebook.com/tooplate">Tooplate</a></p>
+                    </div>
+                    
+               </div>
+          </div>
+     </footer>
+
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/Headroom.js"></script>
+    <script src="js/jQuery.headroom.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/custom.js"></script>
+
+  </body>
+</html>
